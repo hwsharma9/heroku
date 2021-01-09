@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",e=>{var t=document.getElementById("sidebar"),o=t.offsetTop,s=document.getElementById("main-content-area"),n=s.offsetTop+s.offsetHeight-(t.offsetHeight+50);window.onscroll=function(){!function(){window.pageYOffset>o-53?t.classList.add("sticky"):t.classList.remove("sticky");window.pageYOffset>n&&t.classList.remove("sticky")}()}});
