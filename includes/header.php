@@ -5,9 +5,12 @@
             <div class="logo"><img src="images/logo.png" /></div>
         </a>
         <ul>
-            <a href="./">
-                <li class="">home</li>
-            </a>
+            <!-- dropdown  -->
+            <div class="dropdown">
+                <a href="#">
+                    <button class="dropbtn">Home</button>
+                </a>
+            </div>
             <!-- dropdown  -->
             <div class="dropdown">
                 <a href="#">
