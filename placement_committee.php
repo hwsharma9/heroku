@@ -34,10 +34,7 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Placement Committee</h1>
                     <p>
-                        Placement committee provides information and assistance to students concerning
-                        career planning, resume development and interview preparation and reviewing
-                        students CVs. Committee is responsible for organizing campus placement
-                        opportunity for students.
+                        Placement committee provides the information and assistance to students concerning career planning, resume development and interview preparation. Committee is responsible for organizing campus placement opportunity for students. Almost all the placement activities are organized and coordinated by the students as par the guidance by faculty.
                     </p>
                     <br>
                     <div style="overflow-x:auto;">

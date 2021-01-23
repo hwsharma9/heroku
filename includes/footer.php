@@ -75,9 +75,9 @@
                            <a href="./downloads.php">
                                <li>Downloads</li>
                            </a>
-                           <a href="./anti_ragging.php">
+                           <!-- <a href="./anti_ragging.php">
                                <li>Anti Ragging</li>
-                           </a>
+                           </a> -->
                            <a href="./sitemap.php">
                                <li>Site Map</li>
                            </a>

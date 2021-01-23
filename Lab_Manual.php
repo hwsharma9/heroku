@@ -32,23 +32,37 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1> Lab Manual</h1>
-                    <h3>UG & PG Year Wise Course Curriculum</h3>
-                    <ul>
-                        <li>CS-2023 Computer Organization and Hardware Maintenance<a href="#"
-                                class="content-link">ClickHere..</a></li>
-                        <li>CS-2222 Data Structures and Algorithms<a href="#" class="content-link">ClickHere..</a></li>
-                        <li>CS-3505 Computer Graphics & Multimedia Fundamentals<a href="#"
-                                class="content-link">ClickHere..</a></li>
-                        <li>CS-4022 Computer Organization and Assembly Language Programming<a href="#"
-                                class="content-link">ClickHere..</a></li>
-                        <li>CS-4205 Programming and Problem Solving Using C<a href="#"
-                                class="content-link">ClickHere..</a></li>
-                        <li>CS-4211 Object Oriented Programming using JAVA<a href="#"
-                                class="content-link">ClickHere..</a></li>
-                        <li>CS-4508 Computer Graphics & Multimedia<a href="#" class="content-link">ClickHere..</a></li>
-                        <li>CS-5511 Operating Systems<a href="#" class="content-link">ClickHere..</a></li>
-                        <li>CS-6221 Advanced Algorithm Design<a href="#" class="content-link">ClickHere..</a></li>
-                        <li>CS-6630 Internet of Things<a href="#" class="content-link">ClickHere..</a></li>
+                    <ul style="margin-left: 50px;">
+                        <a href="#" class="content-link">
+                            <li>CS-2023 Computer Organization and Hardware Maintenance</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-2222 Data Structures and Algorithms</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-3505 Computer Graphics & Multimedia Fundamentals</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-4022 Computer Organization and Assembly Language Programming</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-4205 Programming and Problem Solving Using C</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-4211 Object Oriented Programming using JAVA</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-4508 Computer Graphics & Multimedia</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-5511 Operating Systems</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-6221 Advanced Algorithm Design</li>
+                        </a><br />
+                        <a href="#" class="content-link">
+                            <li>CS-6630 Internet of Things</li>
+                        </a>
                     </ul>
                 </div>
 

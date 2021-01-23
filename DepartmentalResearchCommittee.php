@@ -32,47 +32,51 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1> Departmental Research Committee</h1>
-                    <section>
-                        <span>
-                            To enhance the research activities in the department, a separate research
-                            committee is formed. Departmental Research Committee consists of following
-                            members:
-                            <ol type="">
-                                <li>
-                                    Dr. S. Tanwani(Chairman)
-                                </li>
-                                <li>
-                                    Dr. Maya Ingle(Member)
-                                </li>
-                                <li>
-                                    Dr. Ugrasen Suman (Member)
-                                </li>
-                            </ol>
+                    <p>
+                        To enhance the research activities in the department, a separate research
+                        committee is formed. Departmental Research Committee consists of following
+                        members:
+                    </p>
+                    <ul type="disc">
+                        <a href="./s_tanwani.php">
+                            <li>
+                                Dr. S. Tanwani(Chairman)
+                            </li>
+                        </a>
+                        <a href="./m_ingle.php">
+                            <li>
+                                Dr. Maya Ingle(Member)
+                            </li>
+                        </a>
+                        <a href="./u_suman.php">
+                            <li>
+                                Dr. Ugrasen Suman (Member)
+                            </li>
+                        </a>
+                    </ul>
 
-                            <p><strong>Objectives</strong></p>
-                            <ul type="disc">
-                                <li>Develop research in computer science & IT</li>
-                                <li>
-                                    Organize and maintain personal contacts among computer science & IT
-                                    community with common interests;
-                                </li>
-                                <li>Motive for scholarly research and publish scholarly research</li>
-                                <li>To initiate research activities</li>
-                            </ul>
+                    <h2>Objectives</h2><hr>
+                    <ul type="disc">
+                        <li>Develop research in computer science & IT</li>
+                        <li>
+                            Organize and maintain personal contacts among computer science & IT
+                            community with common interests;
+                        </li>
+                        <li>Motive for scholarly research and publish scholarly research</li>
+                        <li>To initiate research activities</li>
+                    </ul>
 
-                            <p><strong>Responsibilities</strong></p>
-                            <ul type="disc">
-                                <li>
-                                    Encourage, promote and coordinate research into areas of computer science
-                                    & IT
-                                </li>
-                                <li>Disseminate research related information</li>
-                                <li>Coordinate research activities</li>
-                                <li>Submit an annual report of research activities</li>
-                            </ul>
-                        </span>
+                    <h2>Responsibilities</h2><hr>
+                    <ul type="disc">
+                        <li>
+                            Encourage, promote and coordinate research into areas of computer science
+                            & IT
+                        </li>
+                        <li>Disseminate research related information</li>
+                        <li>Coordinate research activities</li>
+                        <li>Submit an annual report of research activities</li>
+                    </ul>
 
-                    </section>
                 </div>
 
                 <div class="sidebar content-right">

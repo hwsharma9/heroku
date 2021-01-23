@@ -59,9 +59,6 @@
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
                         <ul>
-                            <a href="./What_is_assessment.php">
-                                <li class=""><span>🔗</span>What is Assessment?</li>
-                            </a>
                             <a href="./Assessment_Research_Committee.php">
                                 <li class=""><span>🔗</span>Assessment & Research committee</li>
                             </a>

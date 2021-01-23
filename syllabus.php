@@ -28,6 +28,56 @@
     color: #121212;
 }
 </style>
+    <style type="text/css" media="screen">
+        /* accordion-1 */
+        .accordion{
+          position: relative;
+          box-shadow: 0px 1px 7px #DBDBDB;
+        }
+
+        .accordion .head{
+          background-color: #FFFFFF;
+          color: #563e6e;
+          padding: 0px 30px;
+          cursor: pointer;
+          transition: 0.2s ease;
+        }
+
+        .accordion .arrow{
+          position: absolute;
+          color: #563e6e;
+          right: 30px;
+          top: 30px;
+          font-size: 60px;
+          transition: 0.25s ease;
+          opacity: 0.3;
+          transform: rotate(-90deg);
+        }
+
+        .accordion .head:hover .arrow{
+          opacity: 1;
+        }
+
+        .accordion .head:hover, #accordion .active{
+          background-color: #FFE77AFF;
+        }
+
+        .accordion .arrow-animate{
+          /*transform: rotate(0deg);
+          opacity: 1;*/
+        }
+
+        .accordion .content{
+          background-color: #FFFFFF;
+          display: none;
+          padding: 20px 30px;
+          color: #333333;
+        }
+
+        .accordion .content-animate{
+          display: block;
+        }
+    </style>
 
 <body>
 
@@ -43,6 +93,19 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
+                    <div class="accordion">
+                        <div class="head">
+                            <h2>Bachelor of Computer Application</h2>
+                            <i class="fas fa-angle-down arrow"></i>
+                        </div>
+                        <div class="content">
+                            <p>B.C.A [3 Yr.]/ B.C.A(Hons.) [4 Yr.] <a href="#">Click Here..</a></p>
+
+                            <h2>Eligibility :</h2>
+                            <p>12th with 50% marks and Mathematics as one of the compulsory subject</p>
+                        </div>
+                    </div>
+
                     <h1 class="bca-btn skid ">Bachelor of Computer Application</h1>
                     <ul class="bca-toggle">
                         <a href="#">
@@ -153,6 +216,13 @@
             $(".mba-toggle").toggle("fast");
         });
     });
+    </script>
+
+    <script type="text/javascript">
+        $('.head').click(function(){
+            $(this).toggleClass('active');
+            $(this).parent().find('.content').toggleClass('content-animate');
+        });
     </script>
 </body>
 

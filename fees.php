@@ -82,8 +82,8 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Fees</h1>
-                    <ul>
+                    <h1>Fee Structures </h1>
+                    <ul style="margin-left: 50px;">
                         <a href="./">
                             <li class="content-link">Fees Structure for Students Admitted in 2020</li>
                         </a>

@@ -37,23 +37,18 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1> Students</h1>
-                    <ul>
-                        <a href="./">
-                            <li class="content-link">List of admitted students in 2018</li>
-                        </a>
-                        <a href="./">
-                            <li class="content-link">List of admitted students in 2017</li>
-                        </a>
-                        <a href="./">
-                            <li class="content-link">List of admitted students in 2016</li>
-                        </a>
-                        <a href="./">
-                            <li class="content-link">List of Admitted Students in 2015-16</li>
-                        </a>
-                        <a href="./">
-                            <li class="content-link">Student List Admitted in 2014-15</li>
-                        </a>
+                    <h1>Students</h1>
+                    <ul style="margin-left: 50px;">
+                        
+                        <li class="content-link">List of admitted students in 2018</li>
+                    
+                        <li class="content-link">List of admitted students in 2017</li>
+                    
+                        <li class="content-link">List of admitted students in 2016</li>
+                    
+                        <li class="content-link">List of Admitted Students in 2015-16</li>
+                    
+                        <li class="content-link">Student List Admitted in 2014-15</li>
                     </ul>
                 </div>
 

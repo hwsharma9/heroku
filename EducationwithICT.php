@@ -39,7 +39,7 @@
                             <li class="content-link">A REPORT ON MISSION EDUCATION THROUGH ICT</li>
                         </a>
                         <a href="#">
-                            <li class="content-link">Mission Document ict</li>
+                            <li class="content-link">Mission Document ICT</li>
                         </a>
                     </ul>
 

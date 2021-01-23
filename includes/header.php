@@ -48,7 +48,7 @@
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-content">
-                    <a href="./">Academic Calender</a>
+                    <a href="./">Academic Calendar</a>
                     <a href="./coursescheme.php">Course Scheme</a>
                     <a href="./assessment.php">Assessment</a>
                     <a href="./academic_planning_committee.php">Academic Planning Committee</a>
@@ -98,7 +98,7 @@
             <!-- dropdown  -->
             <div class="dropdown">
                 <button class="dropbtn">
-                    Student Kit
+                    Student’s Corner
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-content">
@@ -112,6 +112,7 @@
                     <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG" target="_blank">Online
                         Lectures-Swayam</a>
                     <a href="./onlineskilltest.php">Online Skill Test</a>
+                    <a href="./studentlife.php">Student Life</a>
 
                     <!-- student life -->
 

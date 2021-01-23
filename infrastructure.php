@@ -32,8 +32,10 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <section>
-                        <h1>Building</h1>
+                    <h1>Infrastructure and Facilities</h1>
+                    <h2>Building</h2>
+                    <hr>
+                    <p>
                         <ul>
                             <li>
                                 One big auditorium of capacity 240 well furnished with echo and equipped
@@ -54,9 +56,9 @@
                                 scholars.
                             </li>
                         </ul>
-                    </section>
-                    <section>
-                        <h1>Laboratories</h1>
+                    </p>
+                    <h2>Laboratories</h2><hr>
+                    <p>
                         <ul>
                             <a href="./Labs_Embaded.php" class="content-link">
                                 <li>Networks, Wireless, Security and Embedded Labs.</li>
@@ -89,9 +91,9 @@
                             <li>Internet Access Available 24x7 with high speed 2Mbps link.</li>
                             <li>Structured cabling.</li>
                         </ul>
-                    </section>
-                    <section>
-                        <h1>Library</h1>
+                    </p>
+                    <h2>Library</h2><hr>
+                    <p>
                         <ul>
                             <li>
                                 Department has fully automated library. It has 16,053 text books &
@@ -118,18 +120,18 @@
                                 gate of Library.
                             </li>
                         </ul>
-                    </section>
-                    <section>
-                        <h1>Sports</h1>
+                    </p>
+                    <h2>Sports</h2><hr>
+                    <p>
                         <ul>
                             <li>Chess, Carrom, Table Tennis & Badminton facilities available.</li>
                             <li>
                                 Centralised facility available for all other indoor and outdoor games.
                             </li>
                         </ul>
-                    </section>
-                    <section>
-                        <h1>Others</h1>
+                    </p>
+                    <h2>Others</h2><hr>
+                    <p>
                         <ul>
                             <li>
                                 Front garden Area= 20,500_sq.m., 1000 plants are planted in the premises.
@@ -142,7 +144,7 @@
                                 in 1999. By now, all the desktops of the school are internet ready.
                             </li>
                         </ul>
-                    </section>
+                    </p>
 
                 </div>
 

@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -33,7 +30,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Downloads</h1>
-                    <ul>
+                    <ul style="margin-left: 20px;">
                         <li>
                             <a class="content-link" href="guideline_mmt02.pdf">
                                 Guidelines for Dr. A. K. Ramani Memorial Lecture Hall (MMT-02) Reservation
@@ -45,20 +42,11 @@
                                 Examination Form
                             </a>
                         </li><br />
-                        <li>
-                            <a class="content-link" href="#">
-                                Alumni Form
-                            </a>
-                        </li><br />
 
                         <li>
                             <a class="content-link" href="pdf/Scholarship_Bank_Detail.pdf">
                                 Bank Details for Scholarship
                             </a>
-                        </li><br />
-
-                        <li>
-                            <a class="content-link" href="pdf/stdfeedback.pdf">Student's Feedback Form </a>
                         </li><br />
                         <li>
                             <a class="content-link"
@@ -81,9 +69,7 @@
                             <a class="content-link" href="pdf/Book_Pur_Performa.pdf">Library Book(S) Requisition
                                 Form</a>
                         </li><br />
-                        <li>
-                            <a class="content-link" href="#">Scholarship Form</a>
-                        </li><br />
+                        
                         <li>
                             <a class="content-link" href="pdf/Appraisal_1.pdf">Self Apraisal Form(.pdf)</a>
                         </li><br />

@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -55,26 +52,21 @@
                     <p>For further details : <a href="#" class="content-link">Click Here..</a href="#"></p>
                     <h2>Projects</h2>
                     <hr>
-                    <ul>
-                        <a href="#">
-                            <li class="content-link">UGC SAP Project Under DRS Phase II 2015-2020</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">UGC SAP Project Under DRS Phase I 2009-2014</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Seed money is provided to Dr. Maya Ingle on Developing Emotion
-                                Detection System Based on Human Facial Expressions and EEG</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Seed money is provided to Dr. Ugrasen Suman on Agile Software and I
-                                Authentication</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Seed money is provided to Dr. Ajay Tiwari on Design of Optimization
-                                Algorithms for Improved Network Resource Utilization using Operations Research Model
-                            </li>
-                        </a>
+                    <ul style="margin-left: 50px;">
+                        
+                        <li class="content-link">UGC SAP Project Under DRS Phase II 2015-2020</li>
+                        
+                        <li class="content-link">UGC SAP Project Under DRS Phase I 2009-2014</li>
+                        
+                        <li class="content-link">Seed money is provided to Dr. Maya Ingle on Developing Emotion
+                            Detection System Based on Human Facial Expressions and EEG</li>
+                    
+                        <li class="content-link">Seed money is provided to Dr. Ugrasen Suman on Agile Software and I
+                            Authentication</li>
+                    
+                        <li class="content-link">Seed money is provided to Dr. Ajay Tiwari on Design of Optimization
+                            Algorithms for Improved Network Resource Utilization using Operations Research Model
+                        </li>
                     </ul>
                 </div>
 

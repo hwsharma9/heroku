@@ -33,6 +33,30 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Counsellor</h1>
+
+                    <h2 style="text-align: center;">School of Computer Science and Information Technology<br />
+                    Devi Ahilya University, Indore</h2>
+                    <h2 style="text-align: center;">List of counsellors (27X7 Helpline)</h2>
+                    <table id="table">
+                        <tr>
+                            <th>counsellor</th>
+                            <th>Name</th>
+                            <th>(M)</th>
+                            <th>Email-id</th>
+                        </tr>
+                        <tr>
+                            <td>Female</td>
+                            <td>Dr. Shraddha Masih</td>
+                            <td>98931-07558</td>
+                            <td>shraddhadandel@yahoo.com</td>
+                        </tr>
+                        <tr>
+                            <td>Male</td>
+                            <td>Dr. Deepal Abhyankar</td>
+                            <td>9827438976</td>
+                            <td>deepak.scsit@gmail.com</td>
+                        </tr>
+                    </table>
                 </div>
 
                 <div class="sidebar content-right">

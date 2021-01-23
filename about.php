@@ -48,7 +48,7 @@
                         information technology, the department is also running MBA
                         (Computer Management), M.Sc. (Information Technology) and BCA
                         programme on self supported basis. The School is running PhD
-                        (Computer Science) programme in a variety of domains.
+                        (Computer Science) programme in a variety of domains.<br /><br />
                     </p>
                     <p>
                         The School since then has endeavored into promoting technical
@@ -60,7 +60,7 @@
                         infrastructure equipped with ICT and digital library. The courses
                         offered in our department rightly reflect our mission. We produce
                         international quality IT professionals and our alumina are a part
-                        of top software companies of the world.
+                        of top software companies of the world.<br /><br />
                     </p>
                     <p>
                         Our teaching learning process focuses on the enrichment of
@@ -83,7 +83,7 @@
                         infrastructure in 1999-2000 of global standards. Also, the
                         department faculty members have produced text books of global
                         standards for the country and international universities clearly
-                        reflecting our vision.
+                        reflecting our vision.<br /><br />
                     </p>
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14724.13471556949!2d75.87347810588439!3d22.68979014673026!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9df2fc5c91f45eb5!2sSchool%20of%20Computer%20Science%20and%20IT!5e0!3m2!1sen!2sin!4v1606487509808!5m2!1sen!2sin"

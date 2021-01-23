@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -36,27 +33,27 @@
                     <ul>
                         <li>
                             Well equipped library with a blend of text and books required for research.
-                        </li>
+                        </li><br />
                         <li>
                             Library has subscribed to online journals, which includes access to topmost
                             journals in computer science like ACM, IEEE & Elsevier.
-                        </li>
+                        </li><br />
                         <li>
                             Department has fully automated library. It has 16,053 text books & reference
                             books are available in the library, all the books of library are fully
                             bar-coded.
-                        </li>
+                        </li><br />
                         <li>
                             All the books Information are present in our library data base software.
-                        </li>
+                        </li><br />
                         <li>
                             Library provides OPAC facility for the teachers and students of the
                             department.
-                        </li>
+                        </li><br />
                         <li>
                             All the books are secured by radio frequency. Antenna installed in entry
                             gate of Library.
-                        </li>
+                        </li><br />
                     </ul>
 
                     <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
@@ -64,14 +61,14 @@
 
                     <h2>Library :</h2>
                     <hr />
-                    <ul>
+                    <ul style="margin-left: 50px;">
                         <a href="#">
                             <li class="content-link">Collection of Books in SCSIT Library</li>
                         </a>
                     </ul>
                     <h2>Downloads :</h2>
                     <hr>
-                    <ul>
+                    <ul style="margin-left: 50px;">
                         <a href="#">
                             <li class="content-link">Membership Form</li>
                         </a>
@@ -81,7 +78,7 @@
                     </ul>
                     <h2>Notice :</h2>
                     <hr>
-                    <ul>
+                    <ul style="margin-left: 50px;">
                         <a href="#">
                             <li class="content-link">Book Submission Notice Regarding Late Fees</li>
                         </a>

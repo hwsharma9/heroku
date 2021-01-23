@@ -34,13 +34,10 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Examination Committee</h1>
                     <p>
-                        The Result & Examination committee is responsible for Exam & internal test
-                        Scheduling and Holding, conducting comprehensive viva, lab viva and project
-                        viva, result verification, result declaration, maintaining exam related
-                        documents and online result management, managing students who opt for
-                        internship.
+                        The Result & Examination committee is responsible for scheduling and organizing the Exam and internal test, conducting comprehensive viva, lab viva and project viva. Also, result verification, result declaration, and online result management are done by this committee.
                     </p>
                     <hr>
+                    <br />
                     <div class="table-container">
 
                         <table id="table">

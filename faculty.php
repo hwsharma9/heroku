@@ -231,7 +231,7 @@
                                         <img src="./images/facultyimg/ca.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Mr. Chetan Awasthi </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>Human Computer Interactions & Web Design</p>
                                         </div>
                                     </div>
@@ -248,7 +248,7 @@
                                         <img src="./images/facultyimg/pankaj.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Mr. Pankaj Jagtap </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>Information Security, Network Security</p>
                                         </div>
                                     </div>
@@ -265,7 +265,7 @@
                                         <img src="./images/facultyimg/mohit.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Mr. Mohit Kumar Verma </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>DBMS, Data Mining</p>
                                         </div>
                                     </div>
@@ -282,7 +282,7 @@
                                         <img src="./images/facultyimg/tarjani.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Ms. Tarjani Sevak </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>C, C++, Database Management System, .Net, Website Designing.</p>
                                         </div>
                                     </div>
@@ -299,7 +299,7 @@
                                         <img src="./images/facultyimg/deepikarai.JPG" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Ms. Deepika Rai </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>Data Structures and Algorithm</p>
                                         </div>
                                     </div>
@@ -316,7 +316,7 @@
                                         <img src="./images/facultyimg/sunita.png" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Ms. Sunita Gaur </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>Discrete Mathematics, OS, DBMS, C, E- Learning System Archietecture</p>
                                         </div>
                                     </div>
@@ -333,7 +333,7 @@
                                         <img src="./images/facultyimg/kl.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Mr. K. L. Suryawanshi </h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>C, C++, Data Structure, DBMS, JAVA, J2ME</p>
                                         </div>
                                     </div>
@@ -350,7 +350,7 @@
                                         <img src="./images/facultyimg/himanshu.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Mr. Himanshukamal Verma</h3>
-                                            <p>Contract Lecturer </p>
+                                            <p>Lecturer </p>
                                             <p>Software Engineering, Data Structure, Information Storage and Management
                                             </p>
                                         </div>
@@ -361,6 +361,8 @@
                                 </div>
                             </a>
                         </div>
+                        <div class="flip-card"></div>
+                        <div class="flip-card"></div>
 
                     </div>
 

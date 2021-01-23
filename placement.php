@@ -25,7 +25,7 @@
 
         .tabs-nav li {
           display: inline-block;
-          background: rgba(0, 0, 0, 0.78);
+          background: rgba(165, 165, 165, 0.78);
           color: #fefefe;
           border-width: 1px 1px 0 1px;
           border-style: solid;
@@ -84,7 +84,7 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Placement</h1>
+                    <h1>Past Placements</h1>
                     <p>
                         The placement cell in the institute is responsible for coordinating the
                         placement activities for students. The placement cell is headed by a placement
