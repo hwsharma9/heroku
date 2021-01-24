@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishu gupta">
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
@@ -21,7 +18,11 @@
     <noscript>
         <link rel="stylesheet" href="./css/style.css">
     </noscript> -->
-
+    <style type="text/css">
+        .owl-stage-outer {
+            margin-right: 10px;
+        }
+    </style>
 
 </head>
 

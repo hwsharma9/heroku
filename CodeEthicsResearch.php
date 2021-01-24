@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -39,16 +36,16 @@
                         <li>
                             The research that promotes innovation, academic integrity and
                             accountability.
-                        </li>
-                        <li>Respect and tolerance for the views of every individual.</li>
+                        </li><br />
+                        <li>Respect and tolerance for the views of every individual.</li><br />
                         <li>
                             Attention to issues of national relevance as well as of global
                             concern.
-                        </li>
-                        <li>Appreciation of intellectual excellence and creativity.</li>
-                        <li>Respect for privacy and confidentiality.</li>
-                        <li>Respect for justice and inclusiveness.</li>
-                        <li>The research beneficial to society.</li>
+                        </li><br />
+                        <li>Appreciation of intellectual excellence and creativity.</li><br />
+                        <li>Respect for privacy and confidentiality.</li><br />
+                        <li>Respect for justice and inclusiveness.</li><br />
+                        <li>The research beneficial to society.</li><br />
                     </ul>
 
                     <h2>Quality:</h2><hr>
@@ -56,42 +53,42 @@
                         <li>
                             School of Computer Science & IT is a premier educational and
                             research institute.
-                        </li>
+                        </li><br />
                         <li>
                             The School promotes the interdisciplinary research to solve
                             fundamental and applied research problems.
-                        </li>
+                        </li><br />
                         <li>
                             The School enhances the research by collaborating environment.
-                        </li>
+                        </li><br />
                         <li>
                             The School provides facility of internet and laboratory equipments.
-                        </li>
+                        </li><br />
                         <li>
                             The School provides the full access facility of various
                             international journals such as: IEEE, ACM, Elsevier etc
-                        </li>
+                        </li><br />
                         <li>
                             All enthusiast faculty members, involved in research have internet
                             with desktop for promoting research.
-                        </li>
+                        </li><br />
                         <li>
                             Research Scholars are facilitated with desktops and printers in
                             Separate lab
-                        </li>
+                        </li><br />
                         <li>
                             Research papers submitted by Scholars for publication, are reviewed
                             by departmental research committee.
-                        </li>
-                        <li>Modern tools are used for checking plagiarism.</li>
+                        </li><br />
+                        <li>Modern tools are used for checking plagiarism.</li><br />
                         <li>
                             The Research Scholars deliver presentations regularly for UG/PG
                             students and faculty members
-                        </li>
+                        </li><br />
                         <li>
                             The serious action taken by School in case of report of plagiarism
                             and two consecutive unsatisfied rep ort of a research scholar.
-                        </li>
+                        </li><br />
                     </ul>
 
                     <h2>Process:</h2><hr>
@@ -99,15 +96,15 @@
                         <li>
                             The Scholars are admitted through Doctoral Entrance Test (DET),
                             conducted by School and subsequent interview
-                        </li>
-                        <li>Ph. D. coursework is compulsory for selected DET candidates.</li>
+                        </li><br />
+                        <li>Ph. D. coursework is compulsory for selected DET candidates.</li><br />
                         <li>
                             The Scholars are required to submit research pro posal after
                             literature review, in the university
-                        </li>
+                        </li><br />
                         <li>
                             The Scholars are interviewed by DRC for their research proposal.
-                        </li>
+                        </li><br />
                     </ul>
 
                     <h2>Rules:</h2><hr>
@@ -115,40 +112,40 @@
                         <li>
                             The Scholars have to submit their research proposal/work to
                             departmental committee first
-                        </li>
+                        </li><br />
                         <li>
                             The Scholars are not permitted for following scientific misconduct:
-                            <ul type="disc">
-                                <li>Gift Authorship</li>
-                                <li>Redundant Publication</li>
-                                <li>Plagiarism</li>
-                                <li>Fabrication (showing results without experiment)</li>
+                            <ul style="margin-left: 50px;" type="disc">
+                                <li>Gift Authorship</li><br />
+                                <li>Redundant Publication</li><br />
+                                <li>Plagiarism</li><br />
+                                <li>Fabrication (showing results without experiment)</li><br />
                                 <li>Falsification</li>
                             </ul>
-                        </li>
+                        </li><br />
                         <li>
                             The Scholars are required to report their six monthly progress of
                             research work to the supervisor.
-                        </li>
+                        </li><br />
                         <li>
                             The citations and acknowledgement must be mentioned properly in the
                             research documents by the Scholars.
-                        </li>
+                        </li><br />
                         <li>
                             It is expected that the Scholar will acquire and maintain
                             professional competence during their Ph. D. duration in School.
-                        </li>
+                        </li><br />
                         <li>
                             The responsibilities assigned to the Scholars must be honored.
-                        </li>
+                        </li><br />
                         <li>
                             The Scholars must have knowledge of existing laws pertaining to
                             professional work
-                        </li>
+                        </li><br />
                         <li>
                             The School expects from the Scholars to achieve the highest quality,
                             effectiveness and dignity in their research work
-                        </li>
+                        </li><br />
                     </ul>
 
                 </div>

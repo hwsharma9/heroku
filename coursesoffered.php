@@ -13,6 +13,7 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css">
     <style type="text/css" media="screen">
         /* accordion-1 */
         .accordion{
@@ -21,6 +22,7 @@
         }
 
         .accordion .head{
+            display: flex;
           background-color: #FFFFFF;
           color: #563e6e;
           padding: 0px 30px;
@@ -83,8 +85,12 @@
 
                     <div class="accordion">
                         <div class="head">
-                            <h2>Bachelor of Computer Application</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <div>
+                                <h2>Bachelor of Computer Application</h2>
+                            </div>
+                            <div>
+                                <i class="icon-chevron-down"></i>
+                            </div>
                         </div>
                         <div class="content">
                             <p>B.C.A [3 Yr.]/ B.C.A(Hons.) [4 Yr.] <a href="#">Click Here..</a></p>
@@ -97,7 +103,7 @@
                     <div class="accordion">
                         <div class="head">
                             <h2>Master of Computer Application</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <i class="icon-chevron-down"></i>
                         </div>
                         <div class="content">
                             <p>Master of Computer Application [M.C.A](2 yr.)<br>
@@ -111,7 +117,7 @@
                     <div class="accordion">
                         <div class="head">
                             <h2>Master of Science (CS/IT)</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <i class="icon-chevron-down"></i>
                         </div>
                         <div class="content">
                             <p>M.Sc.(CS/IT) [2 Yr.] <a href="#">Click Here..</a></p>
@@ -124,7 +130,7 @@
                     <div class="accordion">
                         <div class="head">
                             <h2>Master of Business Administration(Computer Management)</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <i class="icon-chevron-down"></i>
                         </div>
                         <div class="content">
                             <p>MBA (CM) [2 Yr.] <a href="#">Click Here..</a></p>
@@ -137,7 +143,7 @@
                     <div class="accordion">
                         <div class="head">
                             <h2>Post Graduate Diploma in Computer Applications</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <i class="icon-chevron-down"></i>
                         </div>
                         <div class="content">
                             <p>Post Graduate Diploma in Computer Applications (PGDCA) - [1 yr.] <a href="#">Click Here..</a></p>
@@ -150,7 +156,7 @@
                     <div class="accordion">
                         <div class="head">
                             <h2>Master of Technology</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <i class="icon-chevron-down"></i>
                         </div>
                         <div class="content">
                             <p>M.Tech(CS) Specialization in Computer Science [2 Yr.] <a href="#">Click Here..</a>
@@ -163,7 +169,7 @@
                     <div class="accordion">
                         <div class="head">
                             <h2>Ph.D</h2>
-                            <i class="fa fa-angle-down arrow"></i>
+                            <i class="icon-chevron-down"></i>
                         </div>
                         <div class="content">
                             <p>Ph.D (Computer Science) programme in various research areas <a href="#">Click Here..</a>
