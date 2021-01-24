@@ -36,7 +36,7 @@
                     <h1>Education with ICT</h1>
                     <ul style="margin-left: 50px;">
                         <a href="#">
-                            <li class="content-link">A REPORT ON MISSION EDUCATION THROUGH ICT</li>
+                            <li class="content-link">A report on mission education through ICT</li>
                         </a>
                         <a href="#">
                             <li class="content-link">Mission Document ICT</li>

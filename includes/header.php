@@ -78,7 +78,7 @@
                     <a href="./faculty.php">Faculty Profile </a>
                     <a href="./staff.php">Staff Members</a>
                     <a href="./student.php">Students</a>
-                    <a href="./alumnilist.php">Alumni</a>
+                    <!-- <a href="./alumnilist.php">Alumni</a> -->
                 </div>
             </div>
             <!-- dropdown  -->
@@ -90,7 +90,7 @@
                 <div class="dropdown-content">
                     <a href="./career_counselling.php">Career Counselling </a>
                     <a href="./consultancy.php">Consultancy Services </a>
-                    <a href="./placement.php">Placement</a>
+                    <a href="./placement.php">Past Placement</a>
                     <a href="./placement_committee.php">Placement Committee</a>
                     <a href="./abilityprofiler.php">Ability Profiler</a>
                 </div>
@@ -122,4 +122,4 @@
         </ul>
     </div>
 </div>
-<!-- nav end -->
+<!-- nav end

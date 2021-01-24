@@ -21,7 +21,7 @@
 <body>
 
     <div class="root">
-        <!-- HEADER START   -->
+        <!-- HEADER START -->
         <?php include './includes/header.php';?>
         <!-- HEADER END -->
 
@@ -33,10 +33,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Consultancy Services</h1>
-
-                    <h2 style="text-align: center;">School of Computer Science and IT, DAVV, Indore</h2>
-                    <h2 style="text-align: center;">Expertise for Consultancy Services</h2>
-
+                    <br>
                     <table id="table">
                         <tr>
                             <th>Name of Faculty</th>
@@ -47,34 +44,34 @@
                             <td>Dr. Sanjay Tanwani</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>System performance tuning</li>
-                                    <li>Database design</li>
-                                    <li>Software testing</li>
-                                    <li>IT Infrastructure planning</li>
-                                    <li>Faculty requirement and manpower planning for computer science education section</li>
+                                    <li>System performance tuning</li><br />
+                                    <li>Database design</li><br />
+                                    <li>Software testing</li><br />
+                                    <li>IT Infrastructure planning</li><br />
+                                    <li>Faculty requirement and manpower planning for computer science education section</li><br />
                                 </ul>
                             </td>
                             <td>sanjay_tanwani@hotmail.com</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td>Dr. D.S. Bhillare</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>Business application analysis and design</li>
-                                    <li>Information security planning and implementation</li>
-                                    <li>Network management</li>
-                                    <li>ERP planning and implementation</li>
+                                    <li>Business application analysis and design</li><br />
+                                    <li>Information security planning and implementation</li><br />
+                                    <li>Network management</li><br />
+                                    <li>ERP planning and implementation</li><br />
                                 </ul>
                             </td>
                             <td></td>
-                        </tr>
+                        </tr> -->
                         <tr>
                             <td>Dr. Priyesh Kanungo</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>IT services design for educational institutions</li>
-                                    <li>Training and faculty planning</li>
-                                    <li>Network Distributed schedulingmanagement</li>
+                                    <li>IT services design for educational institutions</li><br />
+                                    <li>Training and faculty planning</li><br />
+                                    <li>Network Distributed schedulingmanagement</li><br />
                                 </ul>
                             </td>
                             <td>priyeshkanungo@hotmail.com</td>
@@ -83,10 +80,10 @@
                             <td>Dr. Maya Ingle</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>IT Solutions for NGO’s</li>
-                                    <li>Faculty requirement and manpower planning for computer science education section</li>
-                                    <li>IT infrastructure planning</li>
-                                    <li>Compiler design</li>
+                                    <li>IT Solutions for NGO’s</li><br />
+                                    <li>Faculty requirement and manpower planning for computer science education section</li><br />
+                                    <li>IT infrastructure planning</li><br />
+                                    <li>Compiler design</li><br />
                                 </ul>
                             </td>
                             <td>maya_ingle@rediffmail.com</td>
@@ -95,12 +92,12 @@
                             <td>Dr. Ugrasen Suman</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>Design and Development of software</li>
-                                    <li>Product line software architecture</li>
-                                    <li>Reengineering of legacy application</li>
-                                    <li>Recommender system design</li>
-                                    <li>Data mining for software engineering</li>
-                                    <li>Agile software development in maintenance and GSD environment</li>
+                                    <li>Design and Development of software</li><br />
+                                    <li>Product line software architecture</li><br />
+                                    <li>Reengineering of legacy application</li><br />
+                                    <li>Recommender system design</li><br />
+                                    <li>Data mining for software engineering</li><br />
+                                    <li>Agile software development in maintenance and GSD environment</li><br />
                                 </ul>
                             </td>
                             <td>ugrasen123@yahoo.com</td>
@@ -109,9 +106,9 @@
                             <td>Dr. Preeti Saxena</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>Mobile and spatial information services</li>
-                                    <li>Web technologies and Java security</li>
-                                    <li>Network management</li>
+                                    <li>Mobile and spatial information services</li><br />
+                                    <li>Web technologies and Java security</li><br />
+                                    <li>Network management</li><br />
                                 </ul>
                             </td>
                             <td>preeti_ms@rediffmail.com</td>
@@ -120,9 +117,9 @@
                             <td>Ms. Shraddha Masih</td>
                             <td>
                                 <ul style="margin-left: 10px;">
-                                    <li>Business Intelligence</li>
-                                    <li>Data Warehousing</li>
-                                    <li>Query optimization in database</li>
+                                    <li>Business Intelligence</li><br />
+                                    <li>Data Warehousing</li><br />
+                                    <li>Query optimization in database</li><br />
                                 </ul>
                             </td>
                             <td>shraddhadandel@yahoo.com</td>

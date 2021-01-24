@@ -33,10 +33,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Counsellor</h1>
-
-                    <h2 style="text-align: center;">School of Computer Science and Information Technology<br />
-                    Devi Ahilya University, Indore</h2>
-                    <h2 style="text-align: center;">List of counsellors (27X7 Helpline)</h2>
+                    <br>
                     <table id="table">
                         <tr>
                             <th>counsellor</th>

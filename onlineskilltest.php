@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -36,18 +33,18 @@
                     <p>
                         All SCSIT students are compulsorily required to give an online skill test here:
                         <a href="https://www.youth4work.com/onlinetalenttest" target="_blank" class="content-link">
-                            https://www.youth4work.com/onlinetalenttest</a>. Please refer links
-                    </p>
+                            https://www.youth4work.com/onlinetalenttest</a>. Please refer links 
+                    </p><br>
 
                     <ul style="margin-left: 50px;">
                         <li>
-                            How to participate in the test -
+                            How to participate in the test: <br>
                             <a href="https://www.slideshare.net/youth4work/youth4work-aicte-skill-test-85166207"
                                 target="_blank" class="content-link">
                                 https://www.slideshare.net/youth4work/youth4work-aicte-skill-test-85166207</a>
                         </li><br />
                         <li>
-                            MOU Link between AICTE and Youth4work -
+                            MOU Link between AICTE and Youth4work: <br>
                             <a href="https://www.aicte-india.org/downloads/aicte_mou_youth4work_12_9_17.PDF"
                                 target="_blank" class="content-link">
                                 https://www.aicte-india.org/downloads/aicte_mou_youth4work_12_9_17.PDF</a>

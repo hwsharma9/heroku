@@ -61,7 +61,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Sanjay Tanwani</h3>
                                             <p>Professor & Head </p>
-                                            <p>Advance Computer Architecture, Embedded Systems, Advanced Database</p>
+                                            <!-- <p>Advance Computer Architecture, Embedded Systems, Advanced Database</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -78,8 +78,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Ugrasen Suman</h3>
                                             <p>Professor </p>
-                                            <p>Software Engineering, OOAD, Service-Oriented Computing, Big Data Software
-                                                Engineering</p>
+                                            <!-- <p>Software Engineering, OOAD, Service-Oriented Computing, Big Data Software Engineering</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -96,7 +95,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Preeti Saxena</h3>
                                             <p>Associate Professor </p>
-                                            <p>Network Management, Mobile computing, Web Technology & Java Security</p>
+                                            <!-- <p>Network Management, Mobile computing, Web Technology & Java Security</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -113,7 +112,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Shraddha Masih</h3>
                                             <p>Reader </p>
-                                            <p>Data Mining and Warehousing, Data Structures</p>
+                                            <!-- <p>Data Mining and Warehousing, Data Structures</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -130,7 +129,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Ajay Tiwari</h3>
                                             <p>Sr. Lecturer </p>
-                                            <p>Object Oriented Programming, Optimization Techniques, Networking</p>
+                                            <!-- <p>Object Oriented Programming, Optimization Techniques, Networking</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -147,7 +146,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Archana Thakur</h3>
                                             <p>Sr. Lecturer </p>
-                                            <p>ERP, OS, Software Engineering, DS, AI , DBMS, OOP using C++/ JAVA</p>
+                                            <!-- <p>ERP, OS, Software Engineering, DS, AI , DBMS, OOP using C++/ JAVA</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -164,7 +163,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Deepak Abhyankar</h3>
                                             <p>Software Engineer (Lecturer Equivalent) </p>
-                                            <p>Data Science, Algorithms</p>
+                                            <!-- <p>Data Science, Algorithms</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -181,7 +180,7 @@
                                         <div class="front-card-content">
                                             <h3>Dr. Nitin Uikey</h3>
                                             <p>Software Engineer (Lecturer Equivalent) </p>
-                                            <p>Software Engineering, Information Technology Project Management, DBMS</p>
+                                            <!-- <p>Software Engineering, Information Technology Project Management, DBMS</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -198,7 +197,7 @@
                                         <div class="front-card-content">
                                             <h3>Ms. Chaitali Uikey </h3>
                                             <p>Lecturer</p>
-                                            <p>Computer Network, OS, Simulation, Computer Architecture, DS</p>
+                                            <!-- <p>Computer Network, OS, Simulation, Computer Architecture, DS</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -215,7 +214,7 @@
                                         <div class="front-card-content">
                                             <h3>Er. Hitesh Ninama</h3>
                                             <p>Lecturer</p>
-                                            <p>Complier Design, TOC, Operating System , AI, Data Structures, DBMS</p>
+                                            <!-- <p>Complier Design, TOC, Operating System , AI, Data Structures, DBMS</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -232,7 +231,7 @@
                                         <div class="front-card-content">
                                             <h3>Mr. Chetan Awasthi </h3>
                                             <p>Lecturer </p>
-                                            <p>Human Computer Interactions & Web Design</p>
+                                            <!-- <p>Human Computer Interactions & Web Design</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -249,7 +248,7 @@
                                         <div class="front-card-content">
                                             <h3>Mr. Pankaj Jagtap </h3>
                                             <p>Lecturer </p>
-                                            <p>Information Security, Network Security</p>
+                                            <!-- <p>Information Security, Network Security</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -266,7 +265,7 @@
                                         <div class="front-card-content">
                                             <h3>Mr. Mohit Kumar Verma </h3>
                                             <p>Lecturer </p>
-                                            <p>DBMS, Data Mining</p>
+                                            <!-- <p>DBMS, Data Mining</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -283,7 +282,7 @@
                                         <div class="front-card-content">
                                             <h3>Ms. Tarjani Sevak </h3>
                                             <p>Lecturer </p>
-                                            <p>C, C++, Database Management System, .Net, Website Designing.</p>
+                                            <!-- <p>C, C++, Database Management System, .Net, Website Designing.</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -300,7 +299,7 @@
                                         <div class="front-card-content">
                                             <h3>Ms. Deepika Rai </h3>
                                             <p>Lecturer </p>
-                                            <p>Data Structures and Algorithm</p>
+                                            <!-- <p>Data Structures and Algorithm</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -317,7 +316,7 @@
                                         <div class="front-card-content">
                                             <h3>Ms. Sunita Gaur </h3>
                                             <p>Lecturer </p>
-                                            <p>Discrete Mathematics, OS, DBMS, C, E- Learning System Archietecture</p>
+                                            <!-- <p>Discrete Mathematics, OS, DBMS, C, E- Learning System Archietecture</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -334,7 +333,7 @@
                                         <div class="front-card-content">
                                             <h3>Mr. K. L. Suryawanshi </h3>
                                             <p>Lecturer </p>
-                                            <p>C, C++, Data Structure, DBMS, JAVA, J2ME</p>
+                                            <!-- <p>C, C++, Data Structure, DBMS, JAVA, J2ME</p> -->
                                         </div>
                                     </div>
                                     <div class="flip-card-back">
@@ -351,7 +350,7 @@
                                         <div class="front-card-content">
                                             <h3>Mr. Himanshukamal Verma</h3>
                                             <p>Lecturer </p>
-                                            <p>Software Engineering, Data Structure, Information Storage and Management
+                                            <!-- <p>Software Engineering, Data Structure, Information Storage and Management -->
                                             </p>
                                         </div>
                                     </div>

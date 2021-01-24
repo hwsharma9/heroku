@@ -36,7 +36,6 @@
                     <p>
                         The Result & Examination committee is responsible for scheduling and organizing the Exam and internal test, conducting comprehensive viva, lab viva and project viva. Also, result verification, result declaration, and online result management are done by this committee.
                     </p>
-                    <hr>
                     <br />
                     <div class="table-container">
 

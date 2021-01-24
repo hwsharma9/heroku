@@ -87,7 +87,7 @@
                     </ul>
                     <div class="accordion">
                         <div class="head">
-                            <h2>Previous Years Course Schemes</h2>
+                            <h2>Previous Year's Course Schemes</h2>
                             <i class="fa fa-angle-down arrow"></i>
                         </div>
                         <div class="content">
