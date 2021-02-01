@@ -680,7 +680,7 @@ body {
 .news-card h1 {
   font-size: 16px;
   font-weight: 500;
-  text-align: center;
+  text-align: left !important;
 }
 .news-btn {
   text-align: center;

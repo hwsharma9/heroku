@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -84,13 +81,13 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Fee Structures </h1>
                     <ul style="margin-left: 50px;">
-                        <a href="./">
+                        <a href="./assets/pdf/FeeStructure2020.pdf">
                             <li class="content-link">Fees Structure for Students Admitted in 2020</li>
                         </a>
-                        <a href="./">
+                        <a href="./assets/pdf/FeeStructure2019.pdf">
                             <li class="content-link">Fees Structure for Students Admitted in 2019</li>
                         </a>
-                        <a href="./">
+                        <a href="./assets/pdf/FeeStructure2018.pdf">
                             <li class="content-link">Fees Structure for Students Admitted in 2018-20</li>
                         </a>
 
@@ -100,11 +97,11 @@
                                 <i class="fas fa-angle-down arrow"></i>
                             </div>
                             <div class="content">
-                                <a href="#"><li class="content-link">Revised Fees Structure for students admitted in 2017-19</li></a>
-                                <a href="./">
+                                <a href="./assets/pdf/FeeStructure2017.pdf"><li class="content-link">Revised Fees Structure for students admitted in 2017-19</li></a>
+                                <a href="./assets/pdf/FeeStructure2017.pdf">
                                     <li class="content-link">Fees Structure for students admitted in 2017</li>
                                 </a>
-                                <a href="./">
+                                <a href="./assets/pdf/FeeStructure2016.pdf">
                                     <li class="content-link">Fees Structure for students admitted in 2016</li>
                                 </a>
                                 <a href="./">

@@ -84,13 +84,13 @@
             <!-- dropdown  -->
             <div class="dropdown">
                 <button class="dropbtn">
-                    Placement
+                    Placements
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-content">
                     <a href="./career_counselling.php">Career Counselling </a>
                     <a href="./consultancy.php">Consultancy Services </a>
-                    <a href="./placement.php">Past Placement</a>
+                    <a href="./placement.php">Past Placements</a>
                     <a href="./placement_committee.php">Placement Committee</a>
                     <a href="./abilityprofiler.php">Ability Profiler</a>
                 </div>

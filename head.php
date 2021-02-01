@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -32,7 +29,7 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Head of Department Message.</h1>
+                    <h1>Head of Department Message</h1>
                     <p>
                         Welcome to the School of Computer Science & Information Technology (SCSIT) - established in 1986
                         with funding from UGC for MCA programme. Later, the School started M.Sc.(Computer Science) in
@@ -41,14 +38,14 @@
                         Engineering & Information Architecture) was started in 2009 approved by AICTE. Keeping in view
                         the social needs in the area of information technology, the department is also running MBA
                         (Computer Management), M.Sc. (Information Technology) and BCA programme on self supported basis.
-                    </p>
+                    </p><br />
                     <p>
                         The School has strong Ph.D. programme having 50+ research scholars with publications in reputed
                         journals. The School has highly experienced faculty members, modern laboratories, building
                         infrastructure equipped with ICT and digital library. The courses offered in the department
                         rightly reflect our mission. We produce international quality IT professionals and our alumina
                         are a part of top software companies of the world.
-                    </p>
+                    </p><br />
                     <p>
                         Our teaching learning process focuses on the enrichment of analytical skills, problem solving
                         and communication skills of students. Theory is complemented by practical's and projects. Many
@@ -61,7 +58,8 @@
                         global standards for the country and international universities clearly reflecting our vision.
                         The department faculty is actively involved in development of e-content for Swayam portal under
                         NMEICT.
-                    </p>
+                    </p><br />
+                    <p style="float: right;">Prof. (Dr.) Sanjay Tanwani</p>
                 </div>
 
                 <div class="sidebar content-right">

@@ -38,8 +38,8 @@
             <div class="hr-left">
                 <div class="hr-left-w">
                     <h1>School of Computer Science & Information Technology</h1>
-                    <h3>DEVI AHILYA VISHWAVIDYALAYA, INDORE</h3>
-                    <h5>UGC-SAP Supported</h5>
+                    <h3 style="font-size: 20px;">DEVI AHILYA VISHWAVIDYALAYA, INDORE</h3>
+                    <h3 style="font-size: 20px;">UGC-SAP Supported</h3>
                 </div>
             </div>
             <div class="hr-right">
