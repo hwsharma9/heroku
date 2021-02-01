@@ -4,29 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
-    <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishugupta">
-    <title>Scsit Davv</title>
-    <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
-
-    <!-- SCRIPTS START   -->
-    <?php include './includes/scriptincludes.php';?>
-    <!-- SCRIPTS END -->
-</head>
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -113,6 +91,54 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/jyotiratnawat.jpg" alt="Avatar"
+                                    style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Dr. (Mrs.) Jyoti Ratnawat</b></h4>
+                                    <!-- <p>M.Sc., MPhil, Ph.D.</p> -->
+                                    <p>Office Staff</p>
+                                    <!-- <p>9039065156</p> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/mayank_thakur.jpg" alt="Avatar"
+                                    style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mr. Mayank Thakur </b></h4>
+                                    <!-- <p>B.Com.</p> -->
+                                    <p>Book Lifter</p>
+                                    <!-- <p>9753531011</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/maheshvermaacountant.jpg"
+                                    alt="Avatar" style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mr. Mahesh Verma (A/C)</b></h4>
+                                    <!-- <p>B.Com.</p> -->
+                                    <p>Office Staff</p>
+                                    <!-- <p>8827116548</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/javedkhan.JPG" alt="Avatar"
+                                    style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mr. Javed Munir Khan</b></h4>
+                                    <!-- <p>MBA</p> -->
+                                    <p>Office Staff</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
                                 <img loading="lazy" src="./images/facultyimg/nonteaching/ashok.jpg" alt="Avatar"
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
@@ -143,54 +169,6 @@
                                     <!-- <p>M.A., M.Lib., I.Sc.</p> -->
                                     <p>Senior Technical Assistant</p>
                                     <!-- <p>9977966170</p> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/javedkhan.JPG" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mr. Javed Munir Khan</b></h4>
-                                    <!-- <p>MBA</p> -->
-                                    <p>Office Staff</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/jyotiratnawat.jpg" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Dr. (Mrs.) Jyoti Ratnawat</b></h4>
-                                    <!-- <p>M.Sc., MPhil, Ph.D.</p> -->
-                                    <p>Office Staff</p>
-                                    <!-- <p>9039065156</p> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/maheshvermaacountant.jpg"
-                                    alt="Avatar" style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mr. Mahesh Verma (A/C)</b></h4>
-                                    <!-- <p>B.Com.</p> -->
-                                    <p>Office Staff</p>
-                                    <!-- <p>8827116548</p> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/mayank_thakur.jpg" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mr. Mayank Thakur </b></h4>
-                                    <!-- <p>B.Com.</p> -->
-                                    <p>Book Lifter</p>
-                                    <!-- <p>9753531011</p> -->
                                 </div>
                             </div>
                         </div>

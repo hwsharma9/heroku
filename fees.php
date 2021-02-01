@@ -13,54 +13,42 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
-    <style type="text/css" media="screen">
-        /* accordion-1 */
-        .accordion{
-          position: relative;
-          box-shadow: 0px 1px 7px #DBDBDB;
-        }
 
-        .accordion .head{
-          background-color: #FFFFFF;
-          color: #563e6e;
-          padding: 0px 30px;
+    <style>
+        .collapsible {
+          background-color: #777;
+          color: white;
           cursor: pointer;
-          transition: 0.2s ease;
+          padding: 18px;
+          width: 100%;
+          border: none;
+          text-align: left;
+          outline: none;
+          font-size: 15px;
         }
 
-        .accordion .arrow{
-          position: absolute;
-          color: #563e6e;
-          right: 30px;
-          top: 30px;
-          font-size: 60px;
-          transition: 0.25s ease;
-          opacity: 0.3;
-          transform: rotate(-90deg);
+        .active, .collapsible:hover {
+          background-color: #555;
         }
 
-        .accordion .head:hover .arrow{
-          opacity: 1;
+        .collapsible:after {
+          content: '\002B';
+          color: white;
+          font-weight: bold;
+          float: right;
+          margin-left: 5px;
         }
 
-        .accordion .head:hover, #accordion .active{
-          background-color: #FFE77AFF;
+        .active:after {
+          content: "\2212";
         }
 
-        .accordion .arrow-animate{
-          /*transform: rotate(0deg);
-          opacity: 1;*/
-        }
-
-        .accordion .content{
-          background-color: #FFFFFF;
-          display: none;
-          padding: 20px 30px;
-          color: #333333;
-        }
-
-        .accordion .content-animate{
-          display: block;
+        .content {
+          padding: 0 18px;
+          max-height: 0;
+          overflow: hidden;
+          transition: max-height 0.2s ease-out;
+          background-color: #f1f1f1;
         }
     </style>
 </head>
@@ -91,45 +79,20 @@
                             <li class="content-link">Fees Structure for Students Admitted in 2018-20</li>
                         </a>
 
-                        <div class="accordion">
-                            <div class="head">
-                                <h2>Previous year’s Fee Structures</h2>
-                                <i class="fas fa-angle-down arrow"></i>
-                            </div>
-                            <div class="content">
-                                <a href="./assets/pdf/FeeStructure2017.pdf"><li class="content-link">Revised Fees Structure for students admitted in 2017-19</li></a>
-                                <a href="./assets/pdf/FeeStructure2017.pdf">
-                                    <li class="content-link">Fees Structure for students admitted in 2017</li>
-                                </a>
-                                <a href="./assets/pdf/FeeStructure2016.pdf">
-                                    <li class="content-link">Fees Structure for students admitted in 2016</li>
-                                </a>
-                                <a href="./">
-                                    <li class="content-link">Fee Structure for students (admitted in 2014 and 2015)</li>
-                                </a>
-                                <a href="./">
-                                    <li class="content-link">For existing students(Admitted in 2012 & 2013)</li>
-                                </a>
-                            </div>
-                        </div>
+                    </ul>
 
-                        <!-- <h2 class="skid" id="fees-btn" style="padding-left:20px;">Previous year’s Fee Structures </h2>
-                        <div id="fees-toggle">
-                            <li class="content-link">Revised Fees Structure for students admitted in 2017-19</li>
-                            <a href="./">
+                    <button type="button" class="collapsible">Previous year’s Fee Structures</button>
+                    <div class="content">
+                        <ul style="margin-left: 20px;">
+                            <a href="./assets/pdf/FeeStructure2017.pdf"><li class="content-link">Fees Structure for students admitted in 2017-19</li></a>
+                            <a href="./assets/pdf/FeeStructure2017.pdf">
                                 <li class="content-link">Fees Structure for students admitted in 2017</li>
                             </a>
-                            <a href="./">
+                            <a href="./assets/pdf/FeeStructure2016.pdf">
                                 <li class="content-link">Fees Structure for students admitted in 2016</li>
                             </a>
-                            <a href="./">
-                                <li class="content-link">Fee Structure for students (admitted in 2014 and 2015)</li>
-                            </a>
-                            <a href="./">
-                                <li class="content-link">For existing students(Admitted in 2012 & 2013)</li>
-                            </a>
-                        </div> -->
-                    </ul>
+                        </ul>
+                    </div>
 
                 </div>
 
@@ -172,15 +135,21 @@
         });
     });*/
     </script>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
 
-    <script type="text/javascript">
-        $('.head').click(function(){
-            $(this).toggleClass('active');
-            // $(this).parent().find('.arrow').toggleClass('arrow-animate');
-            // $(this).parent().find('.content').slideToggle(280);
-            $(this).parent().find('.content').toggleClass('content-animate');
-            // $(this).parent().find('.content').slideToggle();
-        });
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight){
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                } 
+            });
+        }
     </script>
 </body>
 

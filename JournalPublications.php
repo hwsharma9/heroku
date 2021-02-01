@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -36,7 +33,7 @@
                     <section>
                         <h2> Dr. Sanjay Tanwani</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     Hemant Makwana, Dr. Sanjay Tanwani, Dr. Suresh Jain , Clutter Reduction in Parallel
@@ -85,7 +82,7 @@
                     <section>
                         <h2> Dr. Maya Ingle</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     A Comparative Study of Existing EEG based Emotion Recognition Techniques,
@@ -156,14 +153,14 @@
                     <section>
                         <h2> Dr. Priyesh Kanungo</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     P. Kanungo Efficient Resource Management in Cloud Computing Using Virtualization.
                                     International Journal of Advance Research in Computer andCommunication Engineering.
                                     5(4). ISSN Online 2278-1021. IF 5.332.
                                 </p>
-                            </li><br />
+                            </li>
                             <li>
                                 <p align="justify">
                                     A. Makwe and P. Kanungo, A Survey of Scheduling Policies in Cloud Computing
@@ -184,7 +181,7 @@
                     <section>
                         <h2> Dr. Ugrasen Suman</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
 
@@ -334,7 +331,7 @@
                     <section>
                         <h2> Dr. Preeti Saxena</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     Arun Pratap Singh Sikarwar and Preeti Saxena An Analytical and Experimental study of
@@ -350,7 +347,7 @@
                                     2250-2459, ISO 9001:2008 Certified Journal, Volume 7, Issue 6, June 2017, pp.
                                     363-365.
                                 </p>
-                            </li><br />
+                            </li>
                             <li>
                                 <p align="justify">
                                     D. Abhyankar and P. Saxena, An Ultimate Stack Implementation, International Journal
@@ -400,7 +397,7 @@
                     <section>
                         <h2> Dr. Shraddha Masih</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
 
                                 <p align="justify">
@@ -444,7 +441,7 @@
                     <section>
                         <h2> Dr. Archana Thakur</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     Archana Chaudhary, Savita Kolhe, Raj Kamal, 2016. A Hybrid ensemble for
@@ -473,7 +470,7 @@
                     <section>
                         <h2> Dr. Deepak Abhyankar</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     D. Abhyankar, P.Saxena, An Interesting Algorithm to Solve Vertex Cover Problem,
@@ -498,7 +495,7 @@
                     <section>
                         <h2> Dr. Nitin Uikey</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     Nitin Uikey and Ugrasen Suman, A Lifecycle Model for Web-based Application
@@ -519,7 +516,7 @@
                     <section>
                         <h2> Ms. Chaitali Uikey</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     Uikey, Chaitali, and D. S. Bhilare. Interaction Modelling using Trust and
@@ -540,7 +537,7 @@
                     <section>
                         <h2> Mr. Pankaj Jagtap</h2>
                         <hr>
-                        <ul type="disc">
+                        <ul type="disc" style="margin-left: 20px;">
                             <li>
                                 <p align="justify">
                                     P.Jagtap," A General and systematic approach to WEB Mashup security" international

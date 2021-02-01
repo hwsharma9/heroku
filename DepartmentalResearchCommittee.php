@@ -33,8 +33,8 @@
                         To enhance the research activities in the department, a separate research
                         committee is formed. Departmental Research Committee consists of following
                         members:
-                    </p>
-                    <ul type="disc">
+                    </p><br>
+                    <ul type="disc" style="margin-left: 20px;">
                         <a href="./s_tanwani.php">
                             <li>
                                 Dr. S. Tanwani (Chairman)
@@ -53,7 +53,7 @@
                     </ul>
 
                     <h2>Objectives</h2><hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>Develop research in computer science & IT</li>
                         <li>
                             Organize and maintain personal contacts among computer science & IT
@@ -64,7 +64,7 @@
                     </ul>
 
                     <h2>Responsibilities</h2><hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             Encourage, promote and coordinate research into areas of computer science
                             & IT

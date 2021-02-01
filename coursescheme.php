@@ -13,54 +13,42 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
-    <style type="text/css" media="screen">
-        /* accordion-1 */
-        .accordion{
-          position: relative;
-          box-shadow: 0px 1px 7px #DBDBDB;
-        }
 
-        .accordion .head{
-          background-color: #FFFFFF;
-          color: #563e6e;
-          padding: 0px 30px;
+    <style>
+        .collapsible {
+          background-color: #777;
+          color: white;
           cursor: pointer;
-          transition: 0.2s ease;
+          padding: 18px;
+          width: 100%;
+          border: none;
+          text-align: left;
+          outline: none;
+          font-size: 15px;
         }
 
-        .accordion .arrow{
-          position: absolute;
-          color: #563e6e;
-          right: 30px;
-          top: 30px;
-          font-size: 60px;
-          transition: 0.25s ease;
-          opacity: 0.3;
-          transform: rotate(-90deg);
+        .active, .collapsible:hover {
+          background-color: #555;
         }
 
-        .accordion .head:hover .arrow{
-          opacity: 1;
+        .collapsible:after {
+          content: '\002B';
+          color: white;
+          font-weight: bold;
+          float: right;
+          margin-left: 5px;
         }
 
-        .accordion .head:hover, #accordion .active{
-          background-color: #FFE77AFF;
+        .active:after {
+          content: "\2212";
         }
 
-        .accordion .arrow-animate{
-          /*transform: rotate(0deg);
-          opacity: 1;*/
-        }
-
-        .accordion .content{
-          background-color: #FFFFFF;
-          display: none;
-          padding: 20px 30px;
-          color: #333333;
-        }
-
-        .accordion .content-animate{
-          display: block;
+        .content {
+          padding: 0 18px;
+          max-height: 0;
+          overflow: hidden;
+          transition: max-height 0.2s ease-out;
+          background-color: #f1f1f1;
         }
     </style>
 </head>
@@ -81,61 +69,33 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Course Scheme</h1>
                     <ul style="margin-left: 50px;">
-                        <a href="#">
+                        <a href="assets/pdf/Course-Scheme-New-September-2020.pdf">
                             <li class="content-link">Scheme July-Dec 2020 (Odd Semester)</li>
                         </a>
                     </ul>
-                    <div class="accordion">
-                        <div class="head">
-                            <h2>Previous Year's Course Schemes</h2>
-                            <i class="fa fa-angle-down arrow"></i>
-                        </div>
-                        <div class="content">
-                            <ul style="margin-left: 50px;">
-                                <a href="#">
-                                    <li class="content-link">Scheme July-Dec., 2019</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jan-May, 2019</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme July-Dec, 2018</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jan-May 2018</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jul-Dec 2017</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jan-May 2017</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jul-Dec 2016</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jan-May 2016</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jul-Dec 2015</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jan-May 2015</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jul-Dec 2014</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jan-May 2014</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme Jul-Dec 2013</li>
-                                </a>
-                                <a href="#">
-                                    <li class="content-link">Scheme PGDCA Jul-Dec 2015-16</li>
-                                </a>
-                            </ul>
-                        </div>
+
+                    <button type="button" class="collapsible">Previous Year's Course Schemes</button>
+                    <div class="content">
+                        <ul style="margin-left: 50px;">
+                            <a href="assets/pdf/Course Scheme Jul-Dec 2019.pdf">
+                                <li class="content-link">Scheme July-Dec, 2019</li>
+                            </a>
+                            <a href="assets/pdf/Course Scheme Jan-May 2019.pdf">
+                                <li class="content-link">Scheme Jan-May, 2019</li>
+                            </a>
+                            <a href="assets/pdf/Course Scheme Jul-Dec 2018.pdf">
+                                <li class="content-link">Scheme July-Dec, 2018</li>
+                            </a>
+                            <a href="assets/pdf/Course Scheme Jan-May 2018.pdf">
+                                <li class="content-link">Scheme Jan-May 2018</li>
+                            </a>
+                            <a href="assets/pdf/Course Scheme Jul-Dec 2017.pdf">
+                                <li class="content-link">Scheme Jul-Dec 2017</li>
+                            </a>
+                            <a href="assets/pdf/Course Scheme Jan May 2017.pdf">
+                                <li class="content-link">Scheme Jan-May 2017</li>
+                            </a>
+                        </ul>
                     </div>
 
                 </div>
@@ -181,14 +141,21 @@
         });
     });
     </script>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
 
-    <script type="text/javascript">
-        $('.head').click(function(){
-            $(this).toggleClass('active');
-            // $(this).parent().find('.arrow').toggleClass('arrow-animate');
-            // $(this).parent().find('.content').slideToggle(280);
-            $(this).parent().find('.content').toggleClass('content-animate');
-        });
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.maxHeight){
+                    content.style.maxHeight = null;
+                } else {
+                    content.style.maxHeight = content.scrollHeight + "px";
+                } 
+            });
+        }
     </script>
 </body>
 
