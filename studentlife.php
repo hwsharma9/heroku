@@ -46,9 +46,6 @@
                         <a href="./languagelab.php" class="content-link">
                             <li>Language Lab</li>
                         </a>
-                        <a href="./scholarship.php" class="content-link">
-                            <li>Scholarship</li>
-                        </a>
                         <a href="./swachhbharatabhiyan.php" class="content-link">
                             <li>Swachh Bharat Abhiyan</li>
                         </a>

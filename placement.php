@@ -87,7 +87,8 @@
                     <div id="container">
                         <header class="tabs-nav">
                             <ul>
-                                <li class="active"><a href="#2020">2020</a></li>
+                                <li class="active"><a href="#2021">2021</a></li>
+                                <li><a href="#2020">2020</a></li>
                                 <li><a href="#2019">2019</a></li>
                                 <li><a href="#2018">2018</a></li>
                                 <li><a href="#2017">2017</a></li>
@@ -95,6 +96,181 @@
                         </header>
 
                         <section class="tabs-content">
+                            <div id="2021">
+                                <h2>PLACED STUDENTS: 2021</h2>
+                                <table id="table">
+                                    <tr>
+                                        <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                    </tr>
+                                    <tr>
+                                        <td>HITESH BAIRAGI</td>
+                                        <td>MCA</td>
+                                        <td>QUANTIPHI</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>MOHIT THAKUREL</td>
+                                        <td>MCA</td>
+                                        <td>FICO</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>SHRIYA SONI</td>
+                                        <td>MCA</td>
+                                        <td>ACCENTURE, </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>SOMESH SHARMA</td>
+                                        <td>MCA</td>
+                                        <td>ACCENTURE</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>VAIBHAV SHARMA</td>
+                                        <td>MCA</td>
+                                        <td>GAMMASTACK</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>ANMOL AGRAWAL</td>
+                                        <td>MCA</td>
+                                        <td>IMPETUS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>ANKITA KUSHLANI</td>
+                                        <td>MCA</td>
+                                        <td>ACCENTURE</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>HIMANSHU CHAUHAN</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>AKANKSHA MALTARE</td>
+                                        <td>MCA</td>
+                                        <td>IMPETUS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>MUSKAN SONI</td>
+                                        <td>MCA</td>
+                                        <td>ACCENTURE</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>ROHIT OSTWAL</td>
+                                        <td>MCA</td>
+                                        <td>ACCENTURE</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>DILPREET KAUR CHAWLA</td>
+                                        <td>MCA</td>
+                                        <td>ACCENTURE</td>
+
+                                    <tr>
+                                        <td>RUCHI GEDAM</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>PRIYA TIWARI</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>AYUSH KUMAR SONI</td>
+                                        <td>MCA</td>
+                                        <td>IMPETUS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>SAKSHI GADLE</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>JAYANT KATIYAR</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>KAMESH PALIWAL</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>SHAHRUKH KHAN</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>SHIVANI MALVIYA</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>AFREEN QURESHI</td>
+                                        <td>MCA</td>
+                                        <td>COGNIZANT</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>ANJALI CHOURISHI</td>
+                                        <td>MCA</td>
+                                        <td>IMPETUS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>SWATI VISHWAKARMA</td>
+                                        <td>MCA</td>
+                                        <td>EDUNOMICS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>AVINASH MALAKAR</td>
+                                        <td>MCA</td>
+                                        <td>DAFFODILS </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>JIVESH SHRIVASTAV</td>
+                                        <td>MCA</td>
+                                        <td>DAFFODILS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>DEVENDRA KAUSHAL</td>
+                                        <td>MCA</td>
+                                        <td>DAFFODILS</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>AYUSHI KHANDELWAL</td>
+                                        <td>MCA</td>
+                                        <td>RAVE DIGITAL</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>RUCHIKA SONI</td>
+                                        <td>MCA</td>
+                                        <td>INFOSYS</td>
+                                    </tr>
+
+                                </table>
+                            </div>
                             <div id="2020">
                                 <h2>PLACED STUDENTS: 2020</h2>
                                 <table id="table">
@@ -574,447 +750,225 @@
                                         <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
                                     </tr>
                                     <tr>
-                                        <td>
-                                            Megha Sawaliya 
-                                        </td>
-                                        <td>
-                                            FICO 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Megha Sawaliya </td>
+                                        <td>MCA</td>
+                                        <td>FICO </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Anmol Agrwal 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Anmol Agrwal </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Ashish Chaudhary 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Ashish Chaudhary </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Harshit Dubay 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Harshit Dubay </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Shaily Rahinj 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Shaily Rahinj </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Shalini Patidar 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Shalini Patidar </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Shweta Bhavsar 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Shweta Bhavsar </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Rifat Chara 
-                                        </td>
-                                        <td>
-                                            Capgemini 
-                                        </td>
-                                        <td>
-                                            BCA
-                                        </td>
+                                        <td>Rifat Chara </td>
+                                        <td>BCA</td>
+                                        <td>Capgemini </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Kunal Awasthi 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Kunal Awasthi </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Rohit Mahendran 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Rohit Mahendran </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Navneet Soni 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Navneet Soni </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Manoj Sen 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Manoj Sen </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Priya Tiwari 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Priya Tiwari </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Surbhi Raghuwanshi 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Surbhi Raghuwanshi </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Divya Mahendru 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Divya Mahendru </td>
+                                        <td>MCA</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Zitoon Singaporwala 
-                                        </td>
-                                        <td>
-                                            Infobeans 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Zitoon Singaporwala </td>
+                                        <td>MCA</td>
+                                        <td>Infobeans </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Anirudh Sharma 
-                                        </td>
-                                        <td>
-                                            Cognam 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Anirudh Sharma </td>
+                                        <td>MCA</td>
+                                        <td>Cognam </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Ayushi Pandit 
-                                        </td>
-                                        <td>
-                                            Cognam 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Ayushi Pandit </td>
+                                        <td>MCA</td>
+                                        <td>Cognam </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Ankita Shrivastav 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Ankita Shrivastav </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Ashish Trivedi 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Ashish Trivedi </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Alankar Khapre 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Alankar Khapre </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Nayan Karve 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Nayan Karve </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Shivam Soni 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Shivam Soni </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Bablu Goswami 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Bablu Goswami </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Vishnu Vishwakarma 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Vishnu Vishwakarma </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Pushpendra Yadav 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Pushpendra Yadav </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Bhagwan Singh Rajpoot 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Bhagwan Singh Rajpoot </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Aditi Jain 
-                                        </td>
-                                        <td>
-                                            Arogya Infotech Indore 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Aditi Jain </td>
+                                        <td>MCA</td>
+                                        <td>Arogya Infotech Indore </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Supriya Yadav 
-                                        </td>
-                                        <td>
-                                            DXC former CSC 
-                                        </td>
-                                        <td>
-                                            MCA (Lateral)
-                                        </td>
+                                        <td>Supriya Yadav </td>
+                                        <td>MCA (Lateral)</td>
+                                        <td>DXC former CSC </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Apurva Jain 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA(Lateral)
-                                        </td>
+                                        <td>Apurva Jain </td>
+                                        <td>MCA(Lateral)</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Neha Sharma 
-                                        </td>
-                                        <td>
-                                            Accenture 
-                                        </td>
-                                        <td>
-                                            MCA(Lateral)
-                                        </td>
+                                        <td>Neha Sharma </td>
+                                        <td>MCA(Lateral)</td>
+                                        <td>Accenture </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Rambilas Yadav 
-                                        </td>
-                                        <td>
-                                            MP Online 
-                                        </td>
-                                        <td>
-                                            MSc (CS)
-                                        </td>
+                                        <td>Rambilas Yadav </td>
+                                        <td>MSc (CS)</td>
+                                        <td>MP Online </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Shweta Pagare 
-                                        </td>
-                                        <td>
-                                            MP Online 
-                                        </td>
-                                        <td>
-                                            Mtech (CS)
-                                        </td>
+                                        <td>Shweta Pagare </td>
+                                        <td>Mtech (CS)</td>
+                                        <td>MP Online </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Munazza Khan 
-                                        </td>
-                                        <td>
-                                            MP Online 
-                                        </td>
-                                        <td>
-                                            Mtech (SE)
-                                        </td>
+                                        <td>Munazza Khan </td>
+                                        <td>Mtech (SE)</td>
+                                        <td>MP Online </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Vaibhav Chaudhry 
-                                        </td>
-                                        <td>
-                                            MP Online 
-                                        </td>
-                                        <td>
-                                            Mtech (SE)
-                                        </td>
+                                        <td>Vaibhav Chaudhry </td>
+                                        <td>Mtech (SE)</td>
+                                        <td>MP Online </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Pooja Jain 
-                                        </td>
-                                        <td>
-                                            WorldPay 
-                                        </td>
-                                        <td>
-                                            MCA
-                                        </td>
+                                        <td>Pooja Jain </td>
+                                        <td>MCA</td>
+                                        <td>WorldPay </td>
                                     </tr>
 
                                     <tr>
-                                        <td>
-                                            Saloni Jain 
-                                        </td>
-                                        <td>
-                                            WorldPay 
-                                        </td>
-                                        <td>
-                                            MCA(Lateral)
-                                        </td>
+                                        <td>Saloni Jain </td>
+                                        <td>MCA(Lateral)</td>
+                                        <td>WorldPay </td>
                                     </tr>
                                 </table>
                             </div>
@@ -1024,6 +978,179 @@
                                 <table id="table">
                                     <tr>
                                         <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Meghavi Naik </td>
+                                        <td>MCA(INTEGRATED)</td>
+                                        <td>FICO </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Anamika nagar </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Chaitanya Jain </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Harshit Sharma </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Mitali Gupta </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture, Cognizant </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Nirav Kumar </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Sahu Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Piyush Ojha </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture, Cognizant </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Pushkar Yadav </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Sachin Sharma </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Sunanda Yadav </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>khushboo pandit </td>
+                                        <td>MCA(INTEGRATED)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Vikram Singh </td>
+                                        <td>MCA(INTEGRATED)</td>
+                                        <td>Chauhan Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Abhishek raghuvanshi </td>
+                                        <td>MCA(LATERAL)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>RIYA GARG </td>
+                                        <td>MCA(LATERAL)</td>
+                                        <td>Accenture </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Asheesh Kumar </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Cognam </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Rishav sahu </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Cognam </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Sunil Kumar </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Sharma Cognam </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Yogesh Gupta </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Cognam </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Neelima Sharma </td>
+                                        <td>M TECH(CS)</td>
+                                        <td>Cognam </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Nilesh Raghuwanshi </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Security Weaver </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Akash Jain </td>
+                                        <td>MCA(LATERAL)</td>
+                                        <td>Security Weaver </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Bharti Rawat </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>WorldPay </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Vaibhav Jain </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>WorldPay </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Deepika Patidar </td>
+                                        <td>MCA(LATERAL)</td>
+                                        <td>WorldPay </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Riya Soni </td>
+                                        <td>MCA(LATERAL)</td>
+                                        <td>WorldPay </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Shikha Sharma </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>CSC </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Sonam Makhija </td>
+                                        <td>MCA(LATERAL)</td>
+                                        <td>CSC </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Divya Gour </td>
+                                        <td>MCA(INTEGRATED)</td>
+                                        <td>Systango,Infobeans </td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Ajay Thakur </td>
+                                        <td>MCA(3 Year)</td>
+                                        <td>Systango </td>
                                     </tr>
                                 </table>
                             </div>

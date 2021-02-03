@@ -49,14 +49,14 @@
                         to both the departments. The areas of cooperation can be extended through
                         mutual consent.
                     </p>
-                    <p>For further details : <a href="#" class="content-link">Click Here..</a href="#"></p>
+                    <p>For further details : <a href="assets/pdf/MoU_MP_Police_Details_Website.pdf" class="content-link">Click Here..</a href="#"></p>
                     <h2>Projects</h2>
                     <hr>
                     <ul style="margin-left: 50px;">
                         
-                        <li class="content-link">UGC SAP Project Under DRS Phase II 2015-2020</li>
+                        <a href="assets/pdf/UGC SAP Project Phase II 2015.pdf"><li class="content-link">UGC SAP Project Under DRS Phase II 2015-2020</li></a>
                         
-                        <li class="content-link">UGC SAP Project Under DRS Phase I 2009-2014</li>
+                        <a href="assets/pdf/UGC-SAP PROJECT 2009.pdf"><li class="content-link">UGC SAP Project Under DRS Phase I 2009-2014</li></a>
                         
                         <li class="content-link">Seed money is provided to Dr. Maya Ingle on Developing Emotion
                             Detection System Based on Human Facial Expressions and EEG</li>

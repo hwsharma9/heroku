@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -34,7 +31,19 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Counsellor</h1>
                     <br>
-                    <table id="table">
+                    <div style="display:flex;justify-content: space-evenly;">
+                        <div>
+                            <h2>Dr. Shraddha Masih</h2>
+                            <p><strong>Mobile :- </strong>98931-07558</p>
+                            <p><strong>Email :- </strong>shraddhadandel@yahoo.com</p>
+                        </div>
+                        <div>
+                            <h2>Dr. Deepal Abhyankar</h2>
+                            <p><strong>Mobile :- </strong>9827438976</p>
+                            <p><strong>Email :- </strong>deepak.scsit@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- <table id="table">
                         <tr>
                             <th>counsellor</th>
                             <th>Name</th>
@@ -53,7 +62,7 @@
                             <td>9827438976</td>
                             <td>deepak.scsit@gmail.com</td>
                         </tr>
-                    </table>
+                    </table> -->
                 </div>
 
                 <div class="sidebar content-right">

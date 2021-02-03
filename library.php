@@ -61,14 +61,14 @@
 
                     <h2>Library :</h2>
                     <hr />
-                    <ul style="margin-left: 50px;">
+                    <ul style="margin-left: 20px;">
                         <a href="#">
                             <li class="content-link">Collection of Books in SCSIT Library</li>
                         </a>
                     </ul>
                     <h2>Downloads :</h2>
                     <hr>
-                    <ul style="margin-left: 50px;">
+                    <ul style="margin-left: 20px;">
                         <a href="#">
                             <li class="content-link">Membership Form</li>
                         </a>
@@ -78,7 +78,7 @@
                     </ul>
                     <h2>Notice :</h2>
                     <hr>
-                    <ul style="margin-left: 50px;">
+                    <ul style="margin-left: 20px;">
                         <a href="#">
                             <li class="content-link">Book Submission Notice Regarding Late Fees</li>
                         </a>
