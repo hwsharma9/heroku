@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -35,7 +32,7 @@
                     <section>
                         <h2>Tools Available</h2>
                         <hr>
-                        <ul>
+                        <ul style="margin-left: 20px;">
                             <li>PASW Modeler Server 13.0</li>
                             <li>Office Share Point Server 2007</li>
                             <li>MW MATLAB 30 Users</li>
@@ -44,7 +41,7 @@
                     <section>
                         <h2> Hardware Available</h2>
                         <hr>
-                        <ul>
+                        <ul style="margin-left: 20px;">
                             <li>Server 5130</li>
                             <li>Server IBM XEON 5130</li>
                             <li>Server IBM 3040</li>

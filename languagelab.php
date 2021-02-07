@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -42,12 +39,12 @@
                         has an easy to use console displayed on the desktop of the server to
                         facilitate the faculty to conduct the course. Students access the courseware
                         through client systems.
-                    </p>
+                    </p><br>
                     <p>
                         By using the software tools (Globarena with three different unique modules EL,
                         CL and AL) available in the laboratory, the students can learn on various
                         aspects of communication.
-                    </p>
+                    </p><br>
                     <p>
                         Career Lab is designed to impart crucial career skills to students to make
                         them confident and successful in career, academics and in life. Aptitude Lab
@@ -56,7 +53,7 @@
                         for students to:
                     </p>
 
-                    <ul>
+                    <ul style="margin-left: 20px;">
                         <li>
                             Learn and practice short methods / techniques for solving the questions
                         </li>

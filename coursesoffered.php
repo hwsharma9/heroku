@@ -145,7 +145,7 @@
 
                         <button type="button" class="collapsible">Master of Science (CS/IT)</button>
                         <div class="content">
-                            <p>M.Sc.(CS/IT) [2 Yr.] <a href="#">Click Here..</a></p>
+                            <p>M.Sc.(CS/IT) [2 Yr.]</p>
 
                             <h2>Eligibility :</h2>
                             <p>B. C. A./B. Sc. (Hons)/ B. Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50 % marks and Mathematics as one of the compulsory subject.</p>
@@ -164,7 +164,7 @@
                             </ul>
 
                             <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
-                            <p>At the end of this programme, MCA student will be able to:</p>
+                            <p>At the end of this programme, M.Sc.(CS) student will be able to:</p>
                             <hr>
                             <ul style="margin-left: 20px;">
                                 <li>Use numerous software systems in the wide range of areas such as Internet and Web
@@ -178,12 +178,37 @@
                                 <li>Apply the modern tools and technology to produce cost effective and maintainable
                                 software.</li> 
                             </ul>
+
+                            <h2>PROGRAMME OUTCOMES (POs)</h2>
+                            <hr>
+                            <ul style="margin-left: 20px;">
+                                <li>Develop problem solving skills in interdisciplinary domains.</li>
+
+                                <li>Learn various programming languages to solve real world problems from diversified IoT and Big data domain.</li>
+
+                                <li>Focus on development of advanced knowledge and specific skills required for IT industry working in the domain of IoT and Big data.</li>
+
+                                <li>Hands-on experiential learning through remote labs that provide access to leading IoT platforms such as Raspberry Pi & Arduino</li>
+                            </ul>
+
+                            <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
+                            <p>At the end of this programme, M.Sc.(IT) student will be able to:</p>
+                            <hr>
+                            <ul style="margin-left: 20px;">
+                                <li>Explore software, hardware, application systems, Big data, and their interplay in IoT systems</li>
+
+                                <li>Employ tools and technologies to implement IoT applications.</li>
+
+                                <li>Acquire experimental learning of algorithms and tools required for capturing, storing, managing and analyzing Big data.</li>
+
+                                <li>Gain understanding of the key technologies in IoT: Computer Organization, Computer Architecture, Data Communication, Web Technology, Cloud Computing, Edge Computing, Big Data Analytics, and Data Science.</li> 
+                            </ul>
                         </div>
 
 
                         <button type="button" class="collapsible">Master of Business button(Computer Management)</button>
                         <div class="content">
-                            <p>MBA (CM) [2 Yr.] <a href="#">Click Here..</a></p>
+                            <p>MBA (CM) [2 Yr.]</p>
 
                             <h2>Eligibility :</h2>
                             <p>Graduate in any discipline with 50% in aggregate.</p>
@@ -217,7 +242,7 @@
 
                         <button type="button" class="collapsible">Post Graduate Diploma in button Applications</button>
                         <div class="content">
-                            <p>Post Graduate Diploma in Computer Applications (PGDCA) - [1 yr.] <a href="#">Click Here..</a></p>
+                            <p>Post Graduate Diploma in Computer Applications (PGDCA) - [1 yr.]</p>
 
                             <h2>Eligibility :</h2>
                             <p>Graduate in any discipline with 50% in aggregate.</p>
@@ -245,10 +270,32 @@
 
                         <button type="button" class="collapsible">Master of Technology</button>
                         <div class="content">
-                            <p>M.Tech(CS) Specialization in Computer Science [2 Yr.] <a href="#">Click Here..</a>
-                            M.Tech(SE) Information Architecture & Software Engineering [2 Yr.] <a href="#">Click Here..</a>
+                            <p>M.Tech(CS) Specialization in Computer Science [2 Yr.] <a href="#">Click Here..</a><br>
+                            M.Tech(SE) Information Architecture & Software Engineering [2 Yr.] <a href="#">Click Here..</a><br>
                             M.Tech(NM) Network Management & Information Security [2 Yr.] <a href="#">Click Here..</a>
                             </p>
+
+                            <h2>PROGRAMME OUTCOMES (POs)</h2>
+                            <hr>
+                            <ul style="margin-left: 20px;">
+                                <li>Understand and apply programming knowledge to solve complex problems.</li>
+                                <li>Train students on skill based programmes to bridge academia-industry gaps and increase employability.</li>
+                                <li>Build a strong foundation for research in future & emerging technological trends.</li>
+                                <li>Understand the impact of technology & its applications and provide solutions to the end user in a cost effective and efficient manner.</li>
+                                <li>Function in multidisciplinary teams and communicate with the team and clients in an effective manner.</li>
+                                <li>Emphasize on life-long learning considering the ever changing technological environment</li>
+                            </ul>
+
+                            <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
+                            <p>At the end of this programme, M.Tech(CS) student will be able to:</p>
+                            <hr>
+                            <ul style="margin-left: 20px;">
+                                <li>Develop the algorithm design and the limits of computation.</li>
+                                <li>Adapt existing design patterns, techniques, algorithms, data structures, etc. to solve real world problems.</li>
+                                <li>Design, develop and evaluate computer based systems for novel applications which meet the requirements of customer.</li>
+                                <li>Undertake fundamental research at the cutting edge of computer science.</li>
+                                <li>Provide IT related solutions in socioeconomic context.</li>
+                            </ul>
                         </div>
 
 

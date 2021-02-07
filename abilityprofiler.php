@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
@@ -34,7 +31,7 @@
 
                     <h1>Ability Profiler</h1>
                     <ul>
-                        <li>Ability Profiler Test <span class="content-link">Click Here..</span></li>
+                        <li>Ability Profiler Test <a class="content-link" href="assets/pdf/Ability_profiler.pdf">Click Here..</a></li>
                     </ul>
 
                 </div>

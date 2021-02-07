@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -36,7 +33,7 @@
                     <section>
                         <h2>For SC/ST Students, Beneficiary Profile Registration :</h2>
                         <hr>
-                        <ul>
+                        <ul style="margin-left: 20px;">
                             <a href="./#">
                                 <li class="content-link"> Advertisement for SC/ST Beneficiary Profile Registration</li>
                             </a>
@@ -62,7 +59,7 @@
                     <section>
                         <h2>Mukhya Mantri Jan Kalyan Yojna (Siksha Protsahan) :</h2>
                         <hr>
-                        <ul>
+                        <ul style="margin-left: 20px;">
                             <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
                                 <li class="content-link"> To Register Click here</li>
                             </a>
@@ -72,7 +69,7 @@
                     <section>
                         <h2>Rule Book for Scholarship :</h2>
                         <hr>
-                        <ul>
+                        <ul style="margin-left: 20px;">
                             <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
                                 <li class="content-link"> PMS Disha Nirdesh 2019 - 2020</li>
                             </a>
@@ -157,7 +154,7 @@
                     <section>
                         <h2>Checklist and Required Documents :</h2>
                         <hr>
-                        <ul>
+                        <ul style="margin-left: 20px;">
                             <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
                                 <li class="content-link"> Checklist for collecting scholarship forms</li>
                             </a>

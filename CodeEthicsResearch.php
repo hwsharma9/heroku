@@ -32,7 +32,7 @@
 
                     <p></p>The departmental research committee has formed code of ethics for research in department. Code of ethics in Research is as follows:</p>
                     <h2>Values:</h2><hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             The research that promotes innovation, academic integrity and
                             accountability.
@@ -49,7 +49,7 @@
                     </ul>
 
                     <h2>Quality:</h2><hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             School of Computer Science & IT is a premier educational and
                             research institute.
@@ -92,7 +92,7 @@
                     </ul>
 
                     <h2>Process:</h2><hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             The Scholars are admitted through Doctoral Entrance Test (DET),
                             conducted by School and subsequent interview
@@ -108,7 +108,7 @@
                     </ul>
 
                     <h2>Rules:</h2><hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             The Scholars have to submit their research proposal/work to
                             departmental committee first

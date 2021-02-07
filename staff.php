@@ -151,6 +151,39 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/sunita solanki.jpg"
+                                    alt="Avatar" style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mrs. Sunita Solanki</b></h4>
+                                    <!-- <p>8th</p> -->
+                                    <p>Peon</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/sharadyadav.jpg" alt="Avatar"
+                                    style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mr. Sharad Yadav</b></h4>
+                                    <!-- <p>5th</p> -->
+                                    <p>Mali</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/sunilchoubey.jpg" alt="Avatar"
+                                    style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mr. Sunil Choubey</b></h4>
+                                    <!-- <p>8th</p> -->
+                                    <p>Peon</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
                                 <img loading="lazy" src="./images/facultyimg/nonteaching/chandraprakash.jpg"
                                     alt="Avatar" style="width: 100%" />
                                 <div class="faculty-card-container">
@@ -174,31 +207,6 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/rakesh_koushal.jpg"
-                                    alt="Avatar" style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mr. Rakesh Koushal</b></h4>
-                                    <!-- <p>H.Sc.</p> -->
-                                    <p>Counter Clerk</p>
-                                    <!-- <p>9993353984</p> -->
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/sharadyadav.jpg" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mr. Sharad Yadav</b></h4>
-                                    <!-- <p>5th</p> -->
-                                    <p>Mali</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="faculty-card">
                                 <img loading="lazy" src="./images/facultyimg/nonteaching/sheelakhode.jpg" alt="Avatar"
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
@@ -209,29 +217,8 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/sunilchoubey.jpg" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mr. Sunil Choubey</b></h4>
-                                    <!-- <p>8th</p> -->
-                                    <p>Peon</p>
-                                </div>
-                            </div>
+                            <div class="faculty-card"></div>
                         </div>
-                        <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/sunita solanki.jpg"
-                                    alt="Avatar" style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Mrs. Sunita Solanki</b></h4>
-                                    <!-- <p>8th</p> -->
-                                    <p>Peon</p>
-                                </div>
-                            </div>
-                        </div>
-
-
                     </div>
                 </div>
             </div>

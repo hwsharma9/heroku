@@ -2,7 +2,7 @@
     <h1>Placement 2021</h1>
     <div id="placement-slider" class="owl-carousel owl-theme">
         <?php 
-            $dir = './assets/placement2021';
+            $dir = './assets/placements/2021';
 
             if (is_dir($dir)){
               if ($dh = opendir($dir)){

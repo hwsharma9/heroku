@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -34,26 +31,26 @@
                     <h1>Events</h1>
                     <h2>Cultural Events</h2>
                     <hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             A SPIC MACAY Program (VIRASAT 2019 Series) on 19th September, 2019
-                            <a class="content-link" href="Report SPIC MACAY2019.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Report SPIC MACAY2019.pdf"> Click Here.. </a>
                         </li>
                         <br />
 
                         <li>
                             Annual Function: Genesis 2019
-                            <a class="content-link" href="Report GENESIS  2019.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Report GENESIS  2019.pdf"> Click Here.. </a>
                         </li>
                         <br />
                         <li>
                             Annual Function Genesis 2018
-                            <a class="content-link" href="Report GENESIS 2018.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Report GENESIS 2018.pdf"> Click Here.. </a>
                         </li>
                         <br />
                         <li>
                             Annual Function Genesis 2017
-                            <a class="content-link" href="Report_Genesis2K17.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Report_Genesis2K17.pdf"> Click Here.. </a>
                         </li>
                         <br />
 
@@ -66,11 +63,11 @@
                     </ul>
                     <h2>Technical Events</h2>
                     <hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             Report of Faculty Development Programme Introduction to
                             Programming: A Pedagogical Approach 17-22 June 2019
-                            <a class="content-link" href="FDP_Report_Programmming_17_22_June_2019.pdf">
+                            <a class="content-link" href="assets/pdf/FDP_Report_Programmming_17_22_June_2019.pdf">
                                 Click Here..
                             </a>
                         </li>
@@ -93,7 +90,7 @@
                         <li>
                             Three Weeks Technical Workshop on AWS Certified Solution
                             Architect- Associate from 12th March, 2019 to 13th April, 2019.
-                            <a class="content-link" href="02-AWS Solution Architect-Workshop-Contents.pdf">
+                            <a class="content-link" href="assets/pdf/AWS Solution Architect-Workshop-Contents.pdf">
                                 Click Here..
                             </a>
                         </li>
@@ -125,7 +122,7 @@
                         <li>
                             Seminar on IT Security & Ethical Hacking by Jafar Hasan (APPIN
                             Technology Lab, Indore), February 11, 2018.
-                            <a class="content-link" href="ethical hacking report.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Ethical hacking report.pdf"> Click Here.. </a>
                         </li>
                         <br />
 
@@ -144,14 +141,14 @@
                         <li>
                             Three Weeks Workshop on BIG DATA ANALYTICS USING HADOOP from 14th
                             June 2017 to 4th July 2017
-                            <a class="content-link" href="Report Bigdata using Hadoop.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Bigdata using Hadoop Report.pdf"> Click Here.. </a>
                         </li>
                         <br />
 
                         <li>
                             Workshop/ Training program on Internet of Things ( IoT) 17th to
                             27th May 2017.
-                            <a class="content-link" href="Report Iot.pdf"> Click Here.. </a>
+                            <a class="content-link" href="assets/pdf/Report IOT.pdf"> Click Here.. </a>
                         </li>
                         <br />
 
@@ -180,7 +177,7 @@
                     </ul>
                     <h2>Others</h2>
                     <hr>
-                    <ul type="disc">
+                    <ul type="disc" style="margin-left: 20px;">
                         <li>
                             Parents-Teachers Meet for BCA V Semester, 12th Oct, 2019.
                             <a href="PTM-BCA-V report.pdf"> Click Here.. </a>

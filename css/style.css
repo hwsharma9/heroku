@@ -917,7 +917,7 @@ body {
 }
 
 .main-content-area .content-right {
-  margin-top: 10px;
+  margin-top: 80px;
 }
 .content-right .sidebar-content {
   margin-top: 20px;
@@ -989,7 +989,7 @@ body {
  *************** QUOTES *******************************/
 .quote-container {
   background-color: #e8f0fe;
-  padding: 5px 20px 20px 20px;
+  padding: 50px 20px 50px 20px;
   margin: 20px 0 0 -15px;
   border-radius: 10px;
   max-width: 370px;
@@ -1031,7 +1031,7 @@ body {
 .faculty-card {
   /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
   transition: 0.3s;
-  width: 250px;
+  width: 262px;
   text-align: center;
   margin: 10px 0;
 }

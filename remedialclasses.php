@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -40,7 +37,7 @@
                             as:
                         </b>
                     </p>
-                    <ul>
+                    <ul style="margin-left: 20px;">
                         <li>Slow learners</li>
                         <li>Absentees of students</li>
                         <li>
@@ -48,7 +45,7 @@
                         </li>
                         <li>Students participation in sports and other activities</li>
                         <li>Festivals and unexpected holidays etc.</li>
-                    </ul>
+                    </ul><br>
                     <p>
                         For complete coverage of course and good understanding of concepts to any
                         students, need to conduct the remedial classes. Therefore, teachers in the

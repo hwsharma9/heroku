@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -39,19 +36,7 @@
                     <p>
                         The applications should be submitted online
                         <a href="https://davv.mponline.gov.in/Portal/Services/DAVV/Entrance/NON_CET/Admission_Entrance_Form.aspx"
-                            target="_blank" class="content-link">Click here.</a>
-
-                        The online application fee is Rs. 750/- (Rs. 400/- for SC/ST candidates of
-                        M.P. domicile) per programme. If an applicant wishes to be considered for more
-                        than one programme, he/she must apply in separate application form for each
-                        programme. Payment of application fee can be done online through Debit card/
-                        Credit card or Net Banking. The admission will be given purely on the basis of
-                        merit in the qualifying examination. Graduates, whose final year/semester
-                        result is awaited, can also apply on the basis of their result of previous
-                        year/ semester. The candidates awaiting their results of qualifying
-                        examination and have been admitted provisionally, will have to submit the
-                        final mark-sheet of qualifying examination by 30th September 2020 or by the
-                        date as notified by Government of Madhya Pradesh.
+                            target="_blank" class="content-link">Click here.</a> The online application fee is Rs. 750/- (Rs. 400/- for SC/ST candidates of M.P. domicile) per programme. If an applicant wishes to be considered for more than one programme, he/she must apply in separate application form for each programme. Payment of application fee can be done online through Debit card/Credit card or Net Banking. The admission will be given purely on the basis of merit in the qualifying examination. Graduates, whose final year/semester result is awaited, can also apply on the basis of their result of previous year/ semester. The candidates awaiting their results of qualifying examination and have been admitted provisionally, will have to submit the final mark-sheet of qualifying examination by 30th September 2020 or by the date as notified by Government of Madhya Pradesh.
                     </p>
 
                     <h2>MCA Programme (2 years)</h2>
