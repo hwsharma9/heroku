@@ -195,18 +195,6 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/dinesh.jpg" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Brijesh Singh Bhadoria</b></h4>
-                                    <!-- <p>M.A., M.Lib., I.Sc.</p> -->
-                                    <p>Senior Technical Assistant</p>
-                                    <!-- <p>9977966170</p> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="faculty-card">
                                 <img loading="lazy" src="./images/facultyimg/nonteaching/sheelakhode.jpg" alt="Avatar"
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
@@ -215,6 +203,9 @@
                                     <p>Sweeper</p>
                                 </div>
                             </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card"></div>
                         </div>
                         <div class="item">
                             <div class="faculty-card"></div>

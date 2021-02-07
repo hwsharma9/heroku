@@ -29,12 +29,11 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>School of Computer Science & IT, DAVV</h1>
                     <h1>Process for verification of Ex-student Credentials</h1>
 
                     <ol>
-                        <li>Pay verification Fees Rs. 1000/-.</li>
-                        <li>Payment to be made using online banking only (RTGS/ IMPS/ NEFT).
+                        <li>Pay verification Fees Rs. 1000/-.</li><br>
+                        <li>Payment to be made using online banking only (RTGS/ IMPS/ NEFT).<br><br>
                         <table style="width: 100%;text-align: left;">
                             <tr>
                                 <th>Pay to (Name of Bank) :</th>
@@ -57,8 +56,8 @@
                                 <td>30389, DAVV Branch, Takshshila Campus, Indore-17</td>
                             </tr>
                         </table>
-                        </li>
-                        <li>Fill the following attached form.</li>
+                        </li><br>
+                        <li>Fill the following attached form.</li><br>
                         <li>Scan copies of Bank transaction receipt, credentials (Marksheet and Degree of course), filled form, to be mail at <a class="content-link" href="mailto:deepikarai.scs@gmail.com">deepikarai.scs@gmail.com</a> .</li>
                     </ol><br>
                 </div>

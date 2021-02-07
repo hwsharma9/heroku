@@ -76,7 +76,7 @@
                             <li class="content-link">Fees Structure for Students Admitted in 2019</li>
                         </a>
                         <a href="./assets/pdf/FeeStructure2018.pdf">
-                            <li class="content-link">Fees Structure for Students Admitted in 2018-20</li>
+                            <li class="content-link">Fees Structure for Students Admitted in 2018</li>
                         </a>
 
                     </ul>
@@ -84,10 +84,7 @@
                     <button type="button" class="collapsible">Previous year’s Fee Structures</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
-                            <a href="./assets/pdf/FeeStructure2017.pdf"><li class="content-link">Fees Structure for students admitted in 2017-19</li></a>
-                            <a href="./assets/pdf/FeeStructure2017.pdf">
-                                <li class="content-link">Fees Structure for students admitted in 2017</li>
-                            </a>
+                            <a href="./assets/pdf/FeeStructure2017.pdf"><li class="content-link">Fees Structure for students admitted in 2017</li></a>
                             <a href="./assets/pdf/FeeStructure2016.pdf">
                                 <li class="content-link">Fees Structure for students admitted in 2016</li>
                             </a>

@@ -76,7 +76,7 @@
 
                     <button type="button" class="collapsible">Previous Year's Course Schemes</button>
                     <div class="content">
-                        <ul style="margin-left: 50px;">
+                        <ul style="margin-left: 35px;">
                             <a href="assets/pdf/Course Scheme Jul-Dec 2019.pdf">
                                 <li class="content-link">Scheme July-Dec, 2019</li>
                             </a>

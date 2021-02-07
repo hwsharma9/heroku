@@ -48,8 +48,13 @@
                         institutional effectiveness. The assessment process involves the collection and analysis of data
                         regarding teaching strategy and students learning in an individual course. Analyzed data can be
                         used to inform future teaching and learning decisions.
-
-                    </p>
+                    </p><br>
+                    <ul style="margin-left: 50px;">
+                        <a class="content-link" href="Why_Assessment.php"><li>Why Assessment?</li></a><br>
+                        <a class="content-link" href="Assessment_Methods.php"><li>Assessment Methods</li></a><br>
+                        <a class="content-link" href="Improvement_Process.php"><li>Improvement Process</li></a><br>
+                        <a class="content-link" href="Impact_of_Assessment.php"><li>Impact of Assessment</li></a>
+                    </ul>
 
                 </div>
 
@@ -62,10 +67,10 @@
                             <a href="./IQAC.php">
                                 <li class=""><span>🔗</span>IQAC</li>
                             </a>
-                            <a href="./">
+                            <a href="./assets/pdf/Jan-may-18.pdf">
                                 <li class=""><span>🔗</span>Report: Assessment Workshop Jan-May, 2018</li>
                             </a>
-                            <a href="./">
+                            <a href="./assets/pdf/july-dec, 2018.pdf">
                                 <li class=""><span>🔗</span>Report: Assessment Workshop July-Dec., 2018</li>
                             </a>
                         </ul>

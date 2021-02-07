@@ -68,9 +68,10 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Course Offered</h1>
+                    <h1>Courses Offered</h1>
+                    <img src="" alt="">
 
-                        <button type="button" class="collapsible">Bachelor of Computer Application</button>
+                        <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
                         <div class="content">
                             <p>B.C.A [3 Yr.]/ B.C.A(Hons.) [4 Yr.]</p>
 
@@ -100,7 +101,7 @@
                         </div>
 
 
-                        <button type="button" class="collapsible">Master of Computer Application</button>
+                        <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
                         <div class="content">
                             <p>Master of Computer Application [M.C.A](2 yr.)<br>
                                 [Admission performed through Vyapam, Bhopal (M.P.)]</p>
@@ -143,9 +144,9 @@
                         </div>
 
 
-                        <button type="button" class="collapsible">Master of Science (CS/IT)</button>
+                        <button type="button" class="collapsible">Master of Science (M.Sc. CS)</button>
                         <div class="content">
-                            <p>M.Sc.(CS/IT) [2 Yr.]</p>
+                            <p>M.Sc. CS [2 Yr.]</p>
 
                             <h2>Eligibility :</h2>
                             <p>B. C. A./B. Sc. (Hons)/ B. Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50 % marks and Mathematics as one of the compulsory subject.</p>
@@ -178,6 +179,15 @@
                                 <li>Apply the modern tools and technology to produce cost effective and maintainable
                                 software.</li> 
                             </ul>
+                        </div>
+
+
+                        <button type="button" class="collapsible">Master of Science (M.Sc. IT)</button>
+                        <div class="content">
+                            <p>M.Sc. IT [2 Yr.]</p>
+
+                            <h2>Eligibility :</h2>
+                            <p>B. C. A./B. Sc. (Hons)/ B. Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50 % marks and Mathematics as one of the compulsory subject.</p>
 
                             <h2>PROGRAMME OUTCOMES (POs)</h2>
                             <hr>
@@ -240,7 +250,7 @@
                         </div>
 
 
-                        <button type="button" class="collapsible">Post Graduate Diploma in button Applications</button>
+                        <button type="button" class="collapsible">Post Graduate Diploma in button Applications (PGDCA)</button>
                         <div class="content">
                             <p>Post Graduate Diploma in Computer Applications (PGDCA) - [1 yr.]</p>
 
@@ -268,11 +278,11 @@
                         </div>
 
 
-                        <button type="button" class="collapsible">Master of Technology</button>
+                        <button type="button" class="collapsible">Master of Technology (M.Tech.)</button>
                         <div class="content">
-                            <p>M.Tech(CS) Specialization in Computer Science [2 Yr.] <a href="#">Click Here..</a><br>
-                            M.Tech(SE) Information Architecture & Software Engineering [2 Yr.] <a href="#">Click Here..</a><br>
-                            M.Tech(NM) Network Management & Information Security [2 Yr.] <a href="#">Click Here..</a>
+                            <p>M.Tech(CS) Specialization in Computer Science [2 Yr.]<br>
+                            M.Tech(SE) Information Architecture & Software Engineering [2 Yr.]<br>
+                            M.Tech(NM) Network Management & Information Security [2 Yr.]
                             </p>
 
                             <h2>PROGRAMME OUTCOMES (POs)</h2>
