@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="lishugupta">
     <title>Scsit Davv</title>
@@ -379,8 +376,8 @@
                                             <div class="front-card-content">
                                                 <h3>Dr. (Mrs.) Maya Ingle</h3>
                                                 <p>Sr. System Analyst (Professor Equivalent) </p>
-                                                <p>Software Engineering, Statistical Language Processing, Algorithms
-                                                </p>
+                                                <!-- <p>Software Engineering, Statistical Language Processing, Algorithms
+                                                </p> -->
                                             </div>
                                         </div>
                                         <div class="flip-card-back">
@@ -397,8 +394,8 @@
                                             <div class="front-card-content">
                                                 <h3>Dr. Priyesh Kanungo</h3>
                                                 <p>Sr. System Engineer (Professor Equivalent)</p>
-                                                <p>Advance Operating Systems, Artificial Intelligence, Data Structures
-                                                </p>
+                                                <!-- <p>Advance Operating Systems, Artificial Intelligence, Data Structures
+                                                </p> -->
                                             </div>
                                         </div>
                                         <div class="flip-card-back">
@@ -415,8 +412,8 @@
                                             <div class="front-card-content">
                                                 <h3>Dr. Alok Tiwari </h3>
                                                 <p>Programmer (Lecturer Equivalent)</p>
-                                                <p>Artificial Intelligence
-                                                </p>
+                                                <!-- <p>Artificial Intelligence
+                                                </p> -->
                                             </div>
                                         </div>
                                         <div class="flip-card-back">
@@ -433,8 +430,8 @@
                                             <div class="front-card-content">
                                                 <h3>Mr. Anand More</h3>
                                                 <p>Maintenance Engineer (Lecturer Equivalent)</p>
-                                                <p>Wireless systems
-                                                </p>
+                                                <!-- <p>Wireless systems
+                                                </p> -->
                                             </div>
                                         </div>
                                         <div class="flip-card-back">
