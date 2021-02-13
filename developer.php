@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="WEB AND ANDROID DEVELOEPR">
     <meta name="keywords" content="lishu gupta, gitman, developer, lishu">
-    <meta name="author" content="lishugupta">
+    <meta name="author" content="scsit davv">
     <title>LISHU GUPTA</title>
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
     <link rel="stylesheet"

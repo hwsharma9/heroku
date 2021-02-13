@@ -9,7 +9,7 @@
                             professionals of global standards with capabilities of accepting
                             new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishugupta">
+    <meta name="author" content="scsit davv">
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
     <title>Scsit Davv</title>
 

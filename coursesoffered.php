@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishugupta">
+    <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
 
@@ -14,8 +14,8 @@
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css">
-
-    <style>
+    <style type="text/css">
+        
         .collapsible {
           background-color: #777;
           color: white;
@@ -69,7 +69,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Courses Offered</h1>
-                    <img src="" alt="">
+                    <img src="./images/Pics/Courses offered and front.jpg" alt="Courses offered and front.jpg" style="max-height: 500px;">
 
                     <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
                     <div class="content">
@@ -278,12 +278,9 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Technology (M.Tech.)</button>
+                    <button type="button" class="collapsible">Master of Technology (M.Tech. CS)</button>
                     <div class="content">
-                        <p>M.Tech(CS) Specialization in Computer Science [2 Yr.]<br>
-                        M.Tech(SE) Information Architecture & Software Engineering [2 Yr.]<br>
-                        M.Tech(NM) Network Management & Information Security [2 Yr.]
-                        </p>
+                        <p>M.Tech(CS) Specialization in Computer Science [2 Yr.]</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -305,6 +302,60 @@
                             <li>Design, develop and evaluate computer based systems for novel applications which meet the requirements of customer.</li>
                             <li>Undertake fundamental research at the cutting edge of computer science.</li>
                             <li>Provide IT related solutions in socioeconomic context.</li>
+                        </ul><br>
+                    </div>
+
+
+                    <button type="button" class="collapsible">Master of Technology (M.Tech. IA&SE)</button>
+                    <div class="content">
+                        <p>M.Tech(SE) Information Architecture & Software Engineering [2 Yr.]</p>
+
+                        <h2>PROGRAMME OUTCOMES (POs)</h2>
+                        <hr>
+                        <ul style="margin-left: 20px;">
+                            <li>Knowledge and skills in the processes and practices adopted in software development.</li>
+                            <li>Able to undertake need based research focus on issues related to industries.</li>
+                            <li>Learn necessary skills for technical documentation and presentation.</li>
+                            <li>Design, develop and deliver complex, scalable and cost effective software systems by applying Software Engineering principles, tools and processes.</li>
+                            <li>Comprehend the role and responsibilities of the professional software engineer with importance to quality and management issues involved in software construction.</li>
+                        </ul>
+
+                        <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
+                        <p>At the end of this programme, M.Tech(IA&SE) student will be able to:</p>
+                        <hr>
+                        <ul style="margin-left: 20px;">
+                            <li>Design and Develop Information Architecture and apply best practices of software engineering to provide cost effective software solution</li>
+                            <li>Apply appropriate research methodologies, design, techniques and tools in current scenario.</li>
+                            <li>Contribute individually/in group(s) to the development of scientific/technological knowledge in one or more domains of engineering.</li>
+                            <li>Use of modern tools - Create, select, learn and apply appropriate techniques, resources, and modern engineering and IT tools of Software Engineering. </li>
+                        </ul><br>
+                    </div>
+
+
+                    <button type="button" class="collapsible">Master of Technology (M.Tech. NM&IS)</button>
+                    <div class="content">
+                        <p>
+                        M.Tech(NM) Network Management & Information Security [2 Yr.]
+                        </p>
+
+                        <h2>PROGRAMME OUTCOMES (POs)</h2>
+                        <hr>
+                        <ul style="margin-left: 20px;">
+                            <li>Design and develop Network, Mobile and Web based Computational systems under realistic constraints.</li>
+                            <li>Attain in-depth knowledge of Network Management with wider and global perspective.</li>
+                            <li>Understand security concerns and apply tools, policies & technique for effective security.</li>
+                            <li>Learn existing and new knowledge for enhancement of networking solutions</li>
+                        </ul>
+
+                        <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
+                        <p>At the end of this programme, M.Tech(NM&IS) student will be able to:</p>
+                        <hr>
+                        <ul style="margin-left: 20px;">
+                            <li>Analyze network Engineering related problems, and solve issues related to Network Management and Information Security. </li>
+                            <li>Evaluate a wide range of potential networking solutions for those problems and arrive at feasible, optimal solutions.</li>
+                            <li>Apply appropriate research methodologies, techniques and tools in domains of networking.</li>
+                            <li>Select, learn and apply appropriate techniques, resources, and modern network engineering and IT security tools.</li>
+                            <li>Acquire professional and intellectual integrity, professional code of conduct, ethics of research.</li>
                         </ul><br>
                     </div>
 

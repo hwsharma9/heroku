@@ -4,12 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishugupta">
+    <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
 
@@ -39,9 +36,11 @@
                         students collect clothes, book, stationary etc. from the students and faculty
                         of the department and then distribute them to needy people in slum areas.
                     </p>
-
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy" />
+                    <br>
+                    <img src="./images/Pics/Samarpan.jpg" alt="CAMPUS" loading="lazy" />
+                    <img src="./images/Pics/Samarpan2.jpg" alt="CAMPUS" loading="lazy" />
+                    <img src="./images/Pics/Samarpan3.jpg" alt="CAMPUS" loading="lazy" />
+                    <img src="./images/Pics/Samarpan4.jpg" alt="CAMPUS" loading="lazy" />
 
                 </div>
 

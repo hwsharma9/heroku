@@ -93,6 +93,7 @@
                     <a href="./placement.php">Past Placements</a>
                     <a href="./placement_committee.php">Placement Committee</a>
                     <a href="./abilityprofiler.php">Ability Profiler</a>
+                    <a href="./">Why Recruit Us?</a>
                 </div>
             </div>
             <!-- dropdown  -->
@@ -106,7 +107,7 @@
                     <a href="./">Course Scheme and Class Time table</a>
                     <a href="./Lab_Manual.php">Lab Manual</a>
                     <a href="./">Programme Coordinators and Class Cordinators</a>
-                    <a href="./">Mentors</a>
+                    <!-- <a href="./">Mentors</a> -->
                     <a href="./counsellor.php">Counsellor</a>
                     <a href="./scholarship.php">Scholarship</a>
                     <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG" target="_blank">Online

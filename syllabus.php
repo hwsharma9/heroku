@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishugupta">
+    <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
     <!-- SCRIPTS START   -->
@@ -26,44 +26,6 @@
 }
 </style>
 
-    <style>
-        .collapsible {
-          background-color: #777;
-          color: white;
-          cursor: pointer;
-          padding: 18px;
-          width: 100%;
-          border: none;
-          text-align: left;
-          outline: none;
-          font-size: 15px;
-        }
-
-        .active, .collapsible:hover {
-          background-color: #555;
-        }
-
-        .collapsible:after {
-          content: '\002B';
-          color: white;
-          font-weight: bold;
-          float: right;
-          margin-left: 5px;
-        }
-
-        .active:after {
-          content: "\2212";
-        }
-
-        .content {
-          padding: 0 18px;
-          max-height: 0;
-          overflow: hidden;
-          transition: max-height 0.2s ease-out;
-          background-color: #f1f1f1;
-        }
-    </style>
-
 <body>
 
     <div class="root">
@@ -78,65 +40,65 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <button type="button" class="collapsible">Bachelor of Computer Application</button>
+                    <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
                     <div class="content">
                         
                         <ul style="margin-left: 20px;">
-                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf"><li class="content-link">Bachelor of Computer Application I July Section A 2019</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application I July Section B 2019</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application Batch A II Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application Batch B II Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application III July 2019</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application IV Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application V Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">Bachelor of Computer Application VI Semester</li></a>
+                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf"><li class="content-link">BCA I July Section A 2019</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA I July Section B 2019</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA Batch A II Semester</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA Batch B II Semester</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA III July 2019</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA IV Semester</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA V Semester</li></a>
+                            <a href="assets/pdf/"><li class="content-link">BCA VI Semester</li></a>
                         </ul>
                     </div>
 
-                    <button type="button" class="collapsible">Master of Computer Application</button>
+                    <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
                     <div class="content">
                         
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">Master of Computer Application I Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application II Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application III Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application IV Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application V Semester</li></a>
+                            <a href=""><li class="content-link">MCA I Semester</li></a>
+                            <a href=""><li class="content-link">MCA II Semester</li></a>
+                            <a href=""><li class="content-link">MCA III Semester</li></a>
+                            <a href=""><li class="content-link">MCA IV Semester</li></a>
+                            <a href=""><li class="content-link">MCA V Semester</li></a>
                         </ul>
                     </div>
 
                     <button type="button" class="collapsible">Master of Computer Application (Integrated) / BCA (Hons.)</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">Master of Computer Application (Integrated) I Semester / BCA (Hons.) VII Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application (Integrated) II Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application (Integrated) III Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application (Integrated) IV Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application (Integrated) V Semester</li></a>
-                            <a href=""><li class="content-link">Master of Computer Application (Integrated) VI Semester</li></a>
+                            <a href=""><li class="content-link">MCA (Integrated) I Semester / BCA (Hons.) VII Semester</li></a>
+                            <a href=""><li class="content-link">MCA (Integrated) II Semester</li></a>
+                            <a href=""><li class="content-link">MCA (Integrated) III Semester</li></a>
+                            <a href=""><li class="content-link">MCA (Integrated) IV Semester</li></a>
+                            <a href=""><li class="content-link">MCA (Integrated) V Semester</li></a>
+                            <a href=""><li class="content-link">MCA (Integrated) VI Semester</li></a>
                         </ul>
                     </div>
 
-                    <button type="button" class="collapsible">Master of Science(CS/IT)</button>
+                    <button type="button" class="collapsible">Master of Science M.Sc. (CS/IT)</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">Master of Science(CS/IT) I Semester</li></a>
-                            <a href=""><li class="content-link">Master of Science(CS/IT) II Semester</li></a>
-                            <a href=""><li class="content-link">Master of Science(CS/IT) III Semester</li></a>
-                            <a href=""><li class="content-link">Master of Science(CS/IT) IV Semester</li></a>
+                            <a href=""><li class="content-link">M.Sc. (CS/IT) I Semester</li></a>
+                            <a href=""><li class="content-link">M.Sc. (CS/IT) II Semester</li></a>
+                            <a href=""><li class="content-link">M.Sc. (CS/IT) III Semester</li></a>
+                            <a href=""><li class="content-link">M.Sc. (CS/IT) IV Semester</li></a>
                         </ul>
                     </div>
 
-                    <button type="button" class="collapsible">Master of Business Administration(CM)</button>
+                    <button type="button" class="collapsible">Master of Business Administration MBA(CM)</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">Master of Business Administration(CM) I Semester</li></a>
-                            <a href=""><li class="content-link">Master of Business Administration(CM) II Semester</li></a>
-                            <a href=""><li class="content-link">Master of Business Administration(CM) III Semester</li></a>
-                            <a href=""><li class="content-link">Master of Business Administration(CM) IV Semester</li></a>
+                            <a href=""><li class="content-link">MBA (CM) I Semester</li></a>
+                            <a href=""><li class="content-link">MBA (CM) II Semester</li></a>
+                            <a href=""><li class="content-link">MBA (CM) III Semester</li></a>
+                            <a href=""><li class="content-link">MBA (CM) IV Semester</li></a>
                         </ul>
                     </div>
-                    <h4 class="" style="margin: 20px 0">For Old Curriculum <a href="./previous_Student_kit.php"
+                    <h4 class="" style="margin: 20px 0">For Old Curriculum <a href="./Previous_Student_kit.php"
                             class="content-link">click here </a></h4>
                 </div>
 

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishugupta">
+    <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
 
@@ -56,47 +56,48 @@
                         </li><br />
                     </ul>
 
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
-
-
-                    <h2>Library :</h2>
-                    <hr />
-                    <ul style="margin-left: 20px;">
-                        <a href="#">
-                            <li class="content-link">Collection of Books in SCSIT Library</li>
-                        </a>
-                    </ul>
-                    <h2>Downloads :</h2>
-                    <hr>
-                    <ul style="margin-left: 20px;">
-                        <a href="#">
-                            <li class="content-link">Membership Form</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Library Book(S) Requisition Form</li>
-                        </a>
-                    </ul>
-                    <h2>Notice :</h2>
-                    <hr>
-                    <ul style="margin-left: 20px;">
-                        <a href="#">
-                            <li class="content-link">Book Submission Notice Regarding Late Fees</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Notice for ST / SC Students</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Library Rules</li>
-                        </a>
-                        <a href="#">
-                            <li class="content-link">Membership Procedure</li>
-                        </a>
-                    </ul>
+                    <div class="library_images">
+                        <img src="./images/Pics/Library.jpg" alt="CAMPUS" loading="lazy" style="width: 500px;" />
+                    </div>
 
                 </div>
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <h2>Library :</h2>
+                        <ul style="margin-left: 20px;">
+                            <a href="#">
+                                <li class="content-link">Collection of Books in SCSIT Library</li>
+                            </a>
+                        </ul>
+
+                        <h2>Downloads :</h2>
+                        <ul style="margin-left: 20px;">
+                            <a href="#">
+                                <li class="content-link">Membership Form</li>
+                            </a>
+                            <a href="#">
+                                <li class="content-link">Library Book(S) Requisition Form</li>
+                            </a>
+                        </ul>
+                        
+                        <h2>Notice :</h2>
+                        <ul style="margin-left: 20px;">
+                            <a href="#">
+                                <li class="content-link">Book Submission Notice Regarding Late Fees</li>
+                            </a>
+                            <a href="#">
+                                <li class="content-link">Notice for ST / SC Students</li>
+                            </a>
+                            <a href="#">
+                                <li class="content-link">Library Rules</li>
+                            </a>
+                            <a href="#">
+                                <li class="content-link">Membership Procedure</li>
+                            </a>
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->
