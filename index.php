@@ -6,14 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
-    <meta name="author" content="lishu gupta">
+    <meta name="author" content="scsit davv">
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
     <title>Scsit Davv</title>
 
     <!-- css include -->
     <link rel="stylesheet" href="./css/owl.css" />
     <link rel="stylesheet" href="./css/style.css" />
-    <link rel="stylesheet" href="https://raw.githack.com/LishuGupta652/web-static-content/main/sty.css" />
     <!-- <link rel="preload" href="./css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript>
         <link rel="stylesheet" href="./css/style.css">
@@ -167,7 +166,6 @@
     <script src="./js/jquery.js"></script>
     <script src="./js/owl.js"></script>
     <script src="./js/homepage.js"></script>
-    <script src="https://raw.githack.com/LishuGupta652/web-static-content/main/scr.js"></script>
 </body>
 
 </html>

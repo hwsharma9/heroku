@@ -58,13 +58,13 @@
                         
                         <a href="assets/pdf/UGC-SAP PROJECT 2009.pdf"><li class="content-link">UGC SAP Project Under DRS Phase I 2009-2014</li></a>
                         
-                        <li class="content-link">Seed money is provided to Dr. Maya Ingle on Developing Emotion
+                        <li>Seed money is provided to Dr. Maya Ingle on Developing Emotion
                             Detection System Based on Human Facial Expressions and EEG</li>
                     
-                        <li class="content-link">Seed money is provided to Dr. Ugrasen Suman on Agile Software and I
+                        <li>Seed money is provided to Dr. Ugrasen Suman on Agile Software and I
                             Authentication</li>
                     
-                        <li class="content-link">Seed money is provided to Dr. Ajay Tiwari on Design of Optimization
+                        <li>Seed money is provided to Dr. Ajay Tiwari on Design of Optimization
                             Algorithms for Improved Network Resource Utilization using Operations Research Model
                         </li>
                     </ul>

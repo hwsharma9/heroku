@@ -57,7 +57,7 @@
                     </ul>
 
                     <div class="library_images">
-                        <img src="./images/Pics/Library.jpg" alt="CAMPUS" loading="lazy" style="width: 500px;" />
+                        <img src="./images/Pics/Library.jpg" alt="CAMPUS" loading="lazy" />
                     </div>
 
                 </div>
@@ -65,36 +65,24 @@
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
 
-                        <h2>Library :</h2>
-                        <ul style="margin-left: 20px;">
+                        <ul>
                             <a href="#">
-                                <li class="content-link">Collection of Books in SCSIT Library</li>
-                            </a>
-                        </ul>
-
-                        <h2>Downloads :</h2>
-                        <ul style="margin-left: 20px;">
-                            <a href="#">
-                                <li class="content-link">Membership Form</li>
+                                <li><span>🔗</span> Membership Form</li>
                             </a>
                             <a href="#">
-                                <li class="content-link">Library Book(S) Requisition Form</li>
-                            </a>
-                        </ul>
-                        
-                        <h2>Notice :</h2>
-                        <ul style="margin-left: 20px;">
-                            <a href="#">
-                                <li class="content-link">Book Submission Notice Regarding Late Fees</li>
+                                <li><span>🔗</span> Library Book(S) Requisition Form</li>
                             </a>
                             <a href="#">
-                                <li class="content-link">Notice for ST / SC Students</li>
+                                <li><span>🔗</span> Book Submission Notice Regarding Late Fees</li>
                             </a>
                             <a href="#">
-                                <li class="content-link">Library Rules</li>
+                                <li><span>🔗</span> Notice for ST / SC Students</li>
                             </a>
                             <a href="#">
-                                <li class="content-link">Membership Procedure</li>
+                                <li><span>🔗</span> Library Rules</li>
+                            </a>
+                            <a href="#">
+                                <li><span>🔗</span> Membership Procedure</li>
                             </a>
                         </ul>
 

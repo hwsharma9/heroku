@@ -944,7 +944,7 @@ body {
   width: 100%;
 }
 /* image */
-/*.content-left img {
+.content-left img {
   width: 100%;
   min-width: 100%;
   min-height: 400px;
@@ -952,7 +952,7 @@ body {
   max-height: 400px;
   object-fit: cover;
   position: relative;
-}*/
+}
 .content-left img::after {
   content: "LOADING ...";
   position: absolute;
