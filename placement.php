@@ -82,7 +82,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Past Placements</h1>
-                    <img src="" alt="">
+                    <img src="./images/Pics/placement.png" alt="placement">
 
                     <div id="container">
                         <header class="tabs-nav">

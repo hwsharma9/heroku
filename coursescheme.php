@@ -72,6 +72,7 @@
                         <a href="assets/pdf/Course-Scheme-New-September-2020.pdf">
                             <li class="content-link">Scheme July-Dec 2020 (Odd Semester)</li>
                         </a>
+                        <li class="content-link">Scheme Jan-May 2021 (Even Semester)</li>
                     </ul>
 
                     <button type="button" class="collapsible">Previous Year's Course Schemes</button>

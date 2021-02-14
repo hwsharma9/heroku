@@ -13,6 +13,57 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style type="text/css">
+        . {
+          box-sizing: border-box;
+          margin: 0 ;
+        }
+
+        .container {
+          margin: 0 auto;
+          max-width: 1200px;
+          padding: 0 1rem;
+        }
+
+        .responsive-image {
+          max-width: 100%;
+        }
+        .cell img {
+          display: block;
+        }
+        @media screen and (min-width: 600px){
+          .grid {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+          }
+          .cell {
+            width:50%;
+          }
+        }
+        @media screen and (min-width: 1000px){
+          .cell {
+            width:calc (100%/3);
+          }
+        }
+        .cell {
+          margin: 1rem;
+        }
+        .cell h3{
+          text-align: center;
+        }
+
+        @media screen and (min-width: 600px){
+          .cell {
+            width: calc(50% - 2rem);
+          }
+        }
+        @media screen and (min-width: 1000px){
+          .cell{
+            width: calc(50% - 2rem);
+          }
+        }
+    </style>
 </head>
 
 <body>
@@ -56,8 +107,22 @@
                         </li><br />
                     </ul>
 
-                    <div class="library_images">
-                        <img src="./images/Pics/Library.jpg" alt="CAMPUS" loading="lazy" />
+                    
+                    <div class="container">
+                        <div class="grid">
+                            <div class="cell">
+                                <img src="./images/Pics/Library-1.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                            <div class="cell">
+                                <img src="./images/Pics/Library-2.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                            <div class="cell">
+                                <img src="./images/Pics/Library-3.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                            <div class="cell">
+                                <img src="./images/Pics/Library-4.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                        </div>
                     </div>
 
                 </div>

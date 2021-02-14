@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -43,29 +40,27 @@
                     <p style="text-align:center"> Presently following research scholars are working as JRF/SRF through
                         UGC/CSIR:</p>
 
-                    <div class="books-items" style="display:flex; flex-wrap:wrap;justify-content:space-around;">
-                        <div class="item">
+                    <div class="books-items">
+                        <div class="item" style="display:flex; flex-direction: row;">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/pl-slider/jonny.png" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Senior Research Fellowship (SRF)</b></h4>
-                                    <p>He is currently working on Real-Time Big Data under the supervision of Dr.
-                                        Ugrasen Suman.
-                                    </p>
-                                </div>
+                                <img loading="lazy" src="./images/ResearchFellowship/Mr. Devesh K. Lal.jpg" alt="Avatar" />
+                            </div>
+                            <div class="faculty-card-container" style="margin-top: 30px;">
+                                <h4><b>Senior Research Fellowship (SRF)</b></h4>
+                                <p>He is currently working on Real-Time Big Data under the supervision of Dr.
+                                    Ugrasen Suman.
+                                </p>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" style="display:flex; flex-direction: row;">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/pl-slider/jonny.png" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4><b>Junior Research Fellowship (JRF)</b></h4>
-                                    <p>He is currently working on Under Water Sensor Network (UWSN) under the
-                                        supervision of Dr. Preeti Saxena and Dr. Sanjay Tanwani (Co-Supervisor)
-                                    </p>
-                                </div>
+                                <img loading="lazy" src="./images/ResearchFellowship/Mr. Jitendra Gora.jpg" alt="Avatar" />
+                            </div>
+                            <div class="faculty-card-container" style="margin-top: 30px;">
+                                <h4><b>Junior Research Fellowship (JRF)</b></h4>
+                                <p>He is currently working on Under Water Sensor Network (UWSN) under the
+                                    supervision of Dr. Preeti Saxena and Dr. Sanjay Tanwani (Co-Supervisor)
+                                </p>
                             </div>
                         </div>
 

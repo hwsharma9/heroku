@@ -126,6 +126,21 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./career_counselling.php">
+                                <li><span>🔗</span>Career Counseling</li>
+                            </a>
+                            <a href="./placement.php">
+                                <li><span>🔗</span>Placement</li>
+                            </a>
+                            <a href="./placement_committee.php">
+                                <li><span>🔗</span>Placement Committee</li>
+                            </a>
+                            <a href="./abilityprofiler.php">
+                                <li><span>🔗</span>Ability Profiler</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

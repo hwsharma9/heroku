@@ -29,7 +29,7 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Head of Department Message</h1>
+                    <h1>Head Message</h1>
                     <p>
                         Welcome to the School of Computer Science & Information Technology (SCSIT) - established in 1986
                         with funding from UGC for MCA programme. Later, the School started M.Sc.(Computer Science) in

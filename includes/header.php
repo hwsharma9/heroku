@@ -92,8 +92,8 @@
                     <a href="./consultancy.php">Consultancy Services </a>
                     <a href="./placement.php">Past Placements</a>
                     <a href="./placement_committee.php">Placement Committee</a>
-                    <a href="./abilityprofiler.php">Ability Profiler</a>
-                    <a href="./">Why Recruit Us?</a>
+                    <!-- <a href="./abilityprofiler.php">Ability Profiler</a> -->
+                    <a href="./why_recruit_us.php">Why Recruit Us?</a>
                 </div>
             </div>
             <!-- dropdown  -->

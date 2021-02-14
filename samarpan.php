@@ -13,6 +13,57 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style type="text/css">
+        . {
+          box-sizing: border-box;
+          margin: 0 ;
+        }
+
+        .container {
+          margin: 0 auto;
+          max-width: 1200px;
+          padding: 0 1rem;
+        }
+
+        .responsive-image {
+          max-width: 100%;
+        }
+        .cell img {
+          display: block;
+        }
+        @media screen and (min-width: 600px){
+          .grid {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+          }
+          .cell {
+            width:50%;
+          }
+        }
+        @media screen and (min-width: 1000px){
+          .cell {
+            width:calc (100%/3);
+          }
+        }
+        .cell {
+          margin: 1rem;
+        }
+        .cell h3{
+          text-align: center;
+        }
+
+        @media screen and (min-width: 600px){
+          .cell {
+            width: calc(50% - 2rem);
+          }
+        }
+        @media screen and (min-width: 1000px){
+          .cell{
+            width: calc(50% - 2rem);
+          }
+        }
+    </style>
 </head>
 
 <body>
@@ -37,10 +88,22 @@
                         of the department and then distribute them to needy people in slum areas.
                     </p>
                     <br>
-                    <img src="./images/Pics/Samarpan.jpg" alt="CAMPUS" loading="lazy" />
-                    <img src="./images/Pics/Samarpan2.jpg" alt="CAMPUS" loading="lazy" />
-                    <img src="./images/Pics/Samarpan3.jpg" alt="CAMPUS" loading="lazy" />
-                    <img src="./images/Pics/Samarpan4.jpg" alt="CAMPUS" loading="lazy" />
+                    <div class="container">
+                        <div class="grid">
+                            <div class="cell">
+                                <img src="./images/Pics/Samarpan.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                            <div class="cell">
+                                <img src="./images/Pics/Samarpan2.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                            <div class="cell">
+                                <img src="./images/Pics/Samarpan3.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                            <div class="cell">
+                                <img src="./images/Pics/Samarpan4.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
 
