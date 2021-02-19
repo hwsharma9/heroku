@@ -19,7 +19,10 @@
     </noscript> -->
     <style type="text/css">
         .owl-stage-outer {
-            margin-right: 10px;
+            margin-right: 40px;
+            margin-top: 15px;
+            border: 1px solid;
+            box-shadow: 2px 2px 10px 2px;
         }
     </style>
 
