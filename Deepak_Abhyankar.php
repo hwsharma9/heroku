@@ -31,6 +31,11 @@
         .content-left {
             width: 100%;
         }
+
+        .s-fac tr {
+            height: 25px;
+            padding: 10px 0;
+        }
         </style>
         <div class="primary-container faculty">
             <div class="main-content-area" id="main-content-area">

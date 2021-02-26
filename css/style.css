@@ -1147,10 +1147,15 @@ body {
 .s-fac .fac-right table tr {
   margin: 115px 0;
 }
-.s-fac tr td {
-  padding-left: 20px;
+.s-fac tr {
+  height: 45px;
+  padding: 10px 0;
+}
+.s-fac td {
+  padding-right: 20px;
   height: 30px;
 }
+
 .s-fac ul li {
   margin-left: 10px;
 }
