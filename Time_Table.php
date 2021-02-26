@@ -12,6 +12,20 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style type="text/css">
+        .content-left {
+            border: none;
+        }
+
+        .content-left h1 {
+            font-size: 16px;
+        }
+
+        .news-card {
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -28,19 +42,14 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Exam Time Table</h1>
-                    <ul style="margin-left: 50px;">
-                        <a href="./">
-                            <li class="content-link">Exam Time Table for Special ATKT Aug.-Sept. 2020 </li>
-                        </a>
-                        <a href="./">
-                            <li class="content-link">Exam Time Table for All IV Semester Aug-Sept. 2020 </li>
-                        </a>
-                        <a href="./">
-                            <li class="content-link">Exam Time Table for BCA VI Semester Aug-Sept. 2020 </li>
-                        </a>
-
-                    </ul>
+                    <h3 style="text-align:center;margin: 20px 0">Exam Time Table</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+                            <!-- <a href="./">
+                                <div class="news-card"><h1></h1></div>
+                            </a> -->
+                        </div>
+                    </div>
 
                 </div>
 

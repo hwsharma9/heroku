@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -100,6 +97,31 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./DepartmentalResearchCommittee.php">
+                                <li><span>🔗</span>Departmental Research Committee</li>
+                            </a>
+                            <a href="./ResearchSupervisors.php">
+                                <li><span>🔗</span>Research Supervisors</li>
+                            </a>
+                            <a href="./Facilities.php">
+                                <li><span>🔗</span>Facilities</li>
+                            </a>
+                            <a href="./Publications.php">
+                                <li><span>🔗</span>Publications</li>
+                            </a>
+                            <a href="./upcoming_events.php">
+                                <li><span>🔗</span>Seminars, Workshops & Conferences</li>
+                            </a>
+                            <a href="./CodeEthicsResearch.php">
+                                <li><span>🔗</span>Code of Ethics</li>
+                            </a>
+                            <a href="./ResearchFellowship.php">
+                                <li><span>🔗</span>Research Fellowship</li>
+                            </a>
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

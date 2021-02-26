@@ -72,7 +72,7 @@
                     <img src="./images/Pics/Courses offered and front.jpg" alt="Courses offered and front.jpg" style="max-height: 500px;">
 
                     <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
-                    <div class="content">
+                    <div class="content"><br>
                         <p>B.C.A [3 Yr.]/ B.C.A(Hons.) [4 Yr.]</p>
 
                         <h2>Eligibility :</h2>
@@ -102,7 +102,7 @@
 
 
                     <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
-                    <div class="content">
+                    <div class="content"><br>
                         <p>Master of Computer Application [M.C.A](2 yr.)<br>
                             [Admission performed through Vyapam, Bhopal (M.P.)]</p>
 
@@ -144,8 +144,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Science (M.Sc. CS)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Master of Science M.Sc. (CS)</button>
+                    <div class="content"><br>
                         <p>M.Sc. CS [2 Yr.]</p>
 
                         <h2>Eligibility :</h2>
@@ -182,8 +182,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Science (M.Sc. IT)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Master of Science M.Sc. (IT)</button>
+                    <div class="content"><br>
                         <p>M.Sc. IT [2 Yr.]</p>
 
                         <h2>Eligibility :</h2>
@@ -216,8 +216,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Business button(Computer Management)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Master of Business Administration (Computer Management)</button>
+                    <div class="content"><br>
                         <p>MBA (CM) [2 Yr.]</p>
 
                         <h2>Eligibility :</h2>
@@ -250,8 +250,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Post Graduate Diploma in button Applications (PGDCA)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Post Graduate Diploma in Computer Applications (PGDCA)</button>
+                    <div class="content"><br>
                         <p>Post Graduate Diploma in Computer Applications (PGDCA) - [1 yr.]</p>
 
                         <h2>Eligibility :</h2>
@@ -278,8 +278,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Technology (M.Tech. CS)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (CS)</button>
+                    <div class="content"><br>
                         <p>M.Tech(CS) Specialization in Computer Science [2 Yr.]</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
@@ -306,8 +306,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Technology (M.Tech. IA&SE)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (IA&SE)</button>
+                    <div class="content"><br>
                         <p>M.Tech(SE) Information Architecture & Software Engineering [2 Yr.]</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
@@ -332,8 +332,8 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Technology (M.Tech. NM&IS)</button>
-                    <div class="content">
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (NM&IS)</button>
+                    <div class="content"><br>
                         <p>
                         M.Tech(NM) Network Management & Information Security [2 Yr.]
                         </p>
@@ -360,9 +360,9 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Ph.D</button>
-                    <div class="content">
-                        <p>Ph.D (Computer Science) programme in various research areas</p>
+                    <button type="button" class="collapsible">Ph.D (CS) programme in various research areas</button>
+                    <div class="content"><br>
+                        <!-- <p>Ph.D (Computer Science) programme in various research areas</p> -->
 
                         <p>Doctoral Entrance Test (DET) is conducted by the University Yearly / Half Yearly for admission in PhD programme.</p>
                     </div>

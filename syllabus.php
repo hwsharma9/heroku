@@ -80,14 +80,14 @@
                     <div class="content">
                         
                         <ul style="margin-left: 20px;">
-                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf"><li class="content-link">BCA I July Section A 2019</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA I July Section B 2019</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA Batch A II Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA Batch B II Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA III July 2019</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA IV Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA V Semester</li></a>
-                            <a href="assets/pdf/"><li class="content-link">BCA VI Semester</li></a>
+                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf"><li class="content-link">BCA I Semester</li></a>
+                            <!-- <a href="assets/pdf/"><li class="content-link">BCA I July Section B 2019</li></a> -->
+                            <a href="javascript::void(0)"><li class="content-link">BCA II Semester</li></a>
+                            <!-- <a href="javascript::void(0)"><li class="content-link">BCA Batch B II Semester</li></a> -->
+                            <a href="javascript::void(0)"><li class="content-link">BCA III Semester</li></a>
+                            <a href="javascript::void(0)"><li class="content-link">BCA IV Semester</li></a>
+                            <a href="javascript::void(0)"><li class="content-link">BCA V Semester</li></a>
+                            <a href="javascript::void(0)"><li class="content-link">BCA VI Semester</li></a>
                         </ul>
                     </div>
 
@@ -103,7 +103,7 @@
                         </ul>
                     </div>
 
-                    <button type="button" class="collapsible">Master of Computer Application (Integrated) / BCA (Hons.)</button>
+                    <!-- <button type="button" class="collapsible">Master of Computer Application (Integrated) / BCA (Hons.)</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
                             <a href=""><li class="content-link">MCA (Integrated) I Semester / BCA (Hons.) VII Semester</li></a>
@@ -113,7 +113,7 @@
                             <a href=""><li class="content-link">MCA (Integrated) V Semester</li></a>
                             <a href=""><li class="content-link">MCA (Integrated) VI Semester</li></a>
                         </ul>
-                    </div>
+                    </div> -->
 
                     <button type="button" class="collapsible">Master of Science M.Sc. (CS/IT)</button>
                     <div class="content">

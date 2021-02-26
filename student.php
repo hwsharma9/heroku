@@ -12,13 +12,22 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style>
+        .content-left {
+            border: none;
+        }
+
+        .content-left h1 {
+            font-size: 16px;
+        }
+
+        .news-card {
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 
-<style>
-.content-left li {
-    margin: 10px 0;
-}
-</style>
 
 <body>
 
@@ -34,18 +43,20 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Students</h1>
-                    <ul style="margin-left: 50px;">
-                        <a href="assets/pdf/Students 2018.pdf"><li class="content-link">List of admitted students in 2020</li></a>
+                    <h3 style="text-align:center;margin: 20px 0">Students</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+                            <a href="assets/pdf/Students 2018.pdf"><div class="news-card"><h1>List of admitted students in 2020</h1></div></a>
 
-                        <a href="assets/pdf/Students 2018.pdf"><li class="content-link">List of admitted students in 2019</li></a>
+                            <a href="assets/pdf/Students 2018.pdf"><div class="news-card"><h1>List of admitted students in 2019</h1></div></a>
 
-                        <a href="assets/pdf/Students 2018.pdf"><li class="content-link">List of admitted students in 2018</li></a>
-                    
-                        <li class="content-link"><a href="assets/pdf/Student 2017.PDF">List of admitted students in 2017</a></li>
-                    
-                        <li class="content-link"><a href="assets/pdf/Student 2016.PDF">List of admitted students in 2016</a></li>
-                    </ul>
+                            <a href="assets/pdf/Students 2018.pdf"><div class="news-card"><h1>List of admitted students in 2018</h1></div></a>
+                        
+                            <a href="assets/pdf/Student 2017.PDF"><div class="news-card"><h1>List of admitted students in 2017</h1></div></a>
+                        
+                            <a href="assets/pdf/Student 2016.PDF"><div class="news-card"><h1>List of admitted students in 2016</h1></div></a>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="sidebar content-right">

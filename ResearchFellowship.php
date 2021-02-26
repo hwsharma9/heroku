@@ -37,13 +37,14 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1> Research Fellowship</h1>
-                    <p style="text-align:center"> Presently following research scholars are working as JRF/SRF through
-                        UGC/CSIR:</p>
+                    <!-- <p style="text-align:center"> Presently following research scholars are working as JRF/SRF through
+                        UGC/CSIR:</p> -->
 
                     <div class="books-items">
                         <div class="item" style="display:flex; flex-direction: row;">
                             <div class="faculty-card">
                                 <img loading="lazy" src="./images/ResearchFellowship/Mr. Devesh K. Lal.jpg" alt="Avatar" />
+                                <p>Mr. Devesh K. Lal</p>
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">
                                 <h4><b>Senior Research Fellowship (SRF)</b></h4>
@@ -55,6 +56,7 @@
                         <div class="item" style="display:flex; flex-direction: row;">
                             <div class="faculty-card">
                                 <img loading="lazy" src="./images/ResearchFellowship/Mr. Jitendra Gora.jpg" alt="Avatar" />
+                                <p>Mr. Jitendra Gora (JRF)</p>
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">
                                 <h4><b>Junior Research Fellowship (JRF)</b></h4>

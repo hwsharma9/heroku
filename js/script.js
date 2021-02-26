@@ -1,5 +1,5 @@
 // sticky
-/*document.addEventListener("DOMContentLoaded", (event) => {
+document.addEventListener("DOMContentLoaded", (event) => {
   var sidebar = document.getElementById("sidebar");
   var sticky = sidebar.offsetTop;
   var mainContentArea = document.getElementById("main-content-area");
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
       facLeft.classList.remove("sticky");
     }
   }
-});*/
+});
 
 //  <script src="./js/pace.js"></script>
 // loading duration capture

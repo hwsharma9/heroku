@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -15,6 +12,20 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style type="text/css">
+        .content-left {
+            border: none;
+        }
+
+        .content-left h1 {
+            font-size: 16px;
+        }
+
+        .news-card {
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -31,39 +42,41 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1> Lab Manual</h1>
-                    <ul style="margin-left: 50px;">
-                        <a href="#" class="content-link">
-                            <li>CS-2023 Computer Organization and Hardware Maintenance</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-2222 Data Structures and Algorithms</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-3505 Computer Graphics & Multimedia Fundamentals</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-4022 Computer Organization and Assembly Language Programming</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-4205 Programming and Problem Solving Using C</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-4211 Object Oriented Programming using JAVA</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-4508 Computer Graphics & Multimedia</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-5511 Operating Systems</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-6221 Advanced Algorithm Design</li>
-                        </a><br />
-                        <a href="#" class="content-link">
-                            <li>CS-6630 Internet of Things</li>
-                        </a>
-                    </ul>
+                    <h3 style="text-align:center;margin: 20px 0">Lab Manual</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-2023 Computer Organization and Hardware Maintenance</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-2222 Data Structures and Algorithms</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-3505 Computer Graphics & Multimedia Fundamentals</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-4022 Computer Organization and Assembly Language Programming</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-4205 Programming and Problem Solving Using C</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-4211 Object Oriented Programming using JAVA</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-4508 Computer Graphics & Multimedia</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-5511 Operating Systems</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-6221 Advanced Algorithm Design</h1></div>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <div class="news-card"><h1>CS-6630 Internet of Things</h1></div>
+                            </a>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="sidebar content-right">

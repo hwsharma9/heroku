@@ -29,41 +29,22 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Events</h1>
-                    <h2>Cultural Events</h2>
-                    <hr>
-                    <ul type="disc" style="margin-left: 20px;">
-                        <li>
-                            A SPIC MACAY Program (VIRASAT 2019 Series) on 19th September, 2019
-                            <a class="content-link" href="assets/pdf/Report SPIC MACAY2019.pdf"> Click Here.. </a>
-                        </li>
-                        <br />
-
-                        <li>
-                            Annual Function: Genesis 2019
-                            <a class="content-link" href="assets/pdf/Report GENESIS  2019.pdf"> Click Here.. </a>
-                        </li>
-                        <br />
-                        <li>
-                            Annual Function Genesis 2018
-                            <a class="content-link" href="assets/pdf/Report GENESIS 2018.pdf"> Click Here.. </a>
-                        </li>
-                        <br />
-                        <li>
-                            Annual Function Genesis 2017
-                            <a class="content-link" href="assets/pdf/Report_Genesis2K17.pdf"> Click Here.. </a>
-                        </li>
-                        <br />
-
-                        <li>
-                            SPIC MACAY Programme by Pandit Ajay Pohankar, world renowned
-                            Vocalist (Hindustani Music), Shri Ramendra Singh Solanki on Tabla,
-                            and Dr. Vivek Bansod on Harmonium, January 20, 2016.
-                        </li>
-                        <br />
-                    </ul>
                     <h2>Technical Events</h2>
                     <hr>
                     <ul type="disc" style="margin-left: 20px;">
+                        <li>Webinar on "Mother Awaits Thought Warriors" by Shri Mukul Kanitkar, Bhartiya Shikshan Mandal, January 2021</li><br>
+
+                        <li>Webinar on "Advances in Cloud Computing" by Mr. Srinivas Kandula, VMware, November 2020.</li><br>
+
+                        <li>Webinar on "Art of Mind Control" by Mr. Raghavanand Das, Akshaya Patra Foundation, November 2020.</li><br>
+
+                        <li>Webinar on "Introduction to Blockchain: Money & Beyond" in association with Inblox Technology, September 2020.</li><br>
+
+                        <li>Webinar on "A dive into the future Machine Learning" by Ms. Divya Puraswani, California, July 2020.</li><br>
+
+                        <li>Three weeks online workshop on "AWS Cloud" from 3rd June 2020 to 24th June 2020.</li><br>
+
+                        <li>Two day Online Faculty Development Program on "Latex" from 30th May to 31st May 2020 in association with Spoken Tutorial project.</li><br>
                         <li>
                             Report of Faculty Development Programme Introduction to
                             Programming: A Pedagogical Approach 17-22 June 2019
@@ -172,6 +153,38 @@
                         <li>
                             Lecture on Campus to Corporate by Mr. Sandeep Atre ( CH Edge
                             Makers), February 3rd, 2016.
+                        </li>
+                        <br />
+                    </ul>
+                    <h2>Cultural Events</h2>
+                    <hr>
+                    <ul type="disc" style="margin-left: 20px;">
+                        <li>
+                            A SPIC MACAY Program (VIRASAT 2019 Series) on 19th September, 2019
+                            <a class="content-link" href="assets/pdf/Report SPIC MACAY2019.pdf"> Click Here.. </a>
+                        </li>
+                        <br />
+
+                        <li>
+                            Annual Function: Genesis 2019
+                            <a class="content-link" href="assets/pdf/Report GENESIS  2019.pdf"> Click Here.. </a>
+                        </li>
+                        <br />
+                        <li>
+                            Annual Function Genesis 2018
+                            <a class="content-link" href="assets/pdf/Report GENESIS 2018.pdf"> Click Here.. </a>
+                        </li>
+                        <br />
+                        <li>
+                            Annual Function Genesis 2017
+                            <a class="content-link" href="assets/pdf/Report_Genesis2K17.pdf"> Click Here.. </a>
+                        </li>
+                        <br />
+
+                        <li>
+                            SPIC MACAY Programme by Pandit Ajay Pohankar, world renowned
+                            Vocalist (Hindustani Music), Shri Ramendra Singh Solanki on Tabla,
+                            and Dr. Vivek Bansod on Harmonium, January 20, 2016.
                         </li>
                         <br />
                     </ul>

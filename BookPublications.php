@@ -31,45 +31,45 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <section>
                         <h1> Book Publications</h1>
-                        <div class="books-items" style="display:flex; flex-wrap:wrap;justify-content:space-around;">
-                            <div class="item">
+                        <div class="books-items">
+                            <div class="item" style="display:flex; flex-direction: row;">
                                 <div class="faculty-card">
                                     <img loading="lazy" src="./images/BookPublications/SoftwareEngg..jpg" alt="Avatar"
                                         style="width: 100%" />
-                                    <div class="faculty-card-container">
-                                        <h4><b>Dr.Ugrasen Suman, Software Engineering: Concepts & Practices, 1st
-                                                Edition, Cengage Learning, 2013</b></h4>
-                                    </div>
+                                </div>
+                                <div class="faculty-card-container" style="margin-top: 30px;">
+                                    <h4><b>Dr.Ugrasen Suman, Software Engineering: Concepts & Practices, 1st
+                                            Edition, Cengage Learning, 2013</b></h4>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="item" style="display:flex; flex-direction: row;">
                                 <div class="faculty-card">
                                     <img loading="lazy" src="./images/BookPublications/Engg.jpg" alt="Avatar"
                                         style="width: 100%" />
-                                    <div class="faculty-card-container">
-                                        <h4><b>Dr.Ugrasen Suman, Software Engineering, 1st Edittion, Cengage Learning, 2018</b></h4>
-                                    </div>
+                                </div>
+                                <div class="faculty-card-container" style="margin-top: 30px;">
+                                    <h4><b>Dr.Ugrasen Suman, Software Engineering, 1st Edittion, Cengage Learning, 2018</b></h4>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="item" style="display:flex; flex-direction: row;">
                                 <div class="faculty-card">
                                     <img loading="lazy" src="./images/BookPublications/OOPs.jpg" alt="Avatar"
                                         style="width: 100%" />
-                                    <div class="faculty-card-container">
-                                        <h4><b>Dr.Ugrasen Suman, Dr. Sanjeev Kumar Sharma, Dr. Maya Rathore, Object
-                                                Oriented Analysis & Design using UML, 1st Edition, Cengage Learning,
-                                                2018</b></h4>
-                                    </div>
+                                </div>
+                                <div class="faculty-card-container" style="margin-top: 30px;">
+                                    <h4><b>Dr.Ugrasen Suman, Dr. Sanjeev Kumar Sharma, Dr. Maya Rathore, Object
+                                            Oriented Analysis & Design using UML, 1st Edition, Cengage Learning,
+                                            2018</b></h4>
                                 </div>
                             </div>
-                            <div class="item">
+                            <div class="item" style="display:flex; flex-direction: row;">
                                 <div class="faculty-card">
                                     <img loading="lazy" src="./images/BookPublications/BigData.jpg" alt="Avatar"
                                         style="width: 100%" />
-                                    <div class="faculty-card-container">
-                                        <h4><b>Dr.Rajkamal, Dr.Preeti Saxena, Big Data Analytics, Tata McGraw Hill,
-                                                2019</b></h4>
-                                    </div>
+                                </div>
+                                <div class="faculty-card-container" style="margin-top: 30px;">
+                                    <h4><b>Dr.Rajkamal, Dr.Preeti Saxena, Big Data Analytics, Tata McGraw Hill,
+                                            2019</b></h4>
                                 </div>
                             </div>
                         </div>

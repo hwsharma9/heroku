@@ -54,21 +54,16 @@
                     </ul>
                     <h2>Laboratories</h2><hr>
                     <ul style="margin-left: 20px;">
-                        <a href="./Labs_Embaded.php" class="content-link">
-                            <li>Networks, Wireless, Security and Embedded Labs.</li>
-                        </a>
-                        <a href="./Labs_Database.php" class="content-link">
-                            <li>Information System, Database and Software Engineering Labs.</li>
-                        </a>
-                        <a href="./Labs_hci.php" class="content-link">
-                            <li>Multimedia, Animation and HCI Labs.</li>
-                        </a>
-                        <a href="./Labs_vlsi.php" class="content-link">
-                            <li>High Performance Computing, VLSI, AI and Simulation Labs.</li>
-                        </a>
-                        <a href="./Labs_ecommerce.php" class="content-link">
-                            <li>Programming System, OS, Internet and E-Commerce Labs.</li>
-                        </a>
+                        <!-- <a href="./Labs_Embaded.php" class="content-link"></a> -->
+                        <li>Networks, Wireless, Security and Embedded Labs.</li>
+                        <!-- <a href="./Labs_Database.php" class="content-link"></a> -->
+                        <li>Information System, Database and Software Engineering Labs.</li>
+                        <!-- <a href="./Labs_hci.php" class="content-link"></a> -->
+                        <li>Multimedia, Animation and HCI Labs.</li>
+                        <!-- <a href="./Labs_vlsi.php" class="content-link"></a> -->
+                        <li>High Performance Computing, VLSI, AI and Simulation Labs.</li>
+                        <!-- <a href="./Labs_ecommerce.php" class="content-link"></a> -->
+                        <li>Programming System, OS, Internet and E-Commerce Labs.</li>
                         <li>
                             English language lab equipped with microphones and Globarena software are
                             provided to students of all classes.

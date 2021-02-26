@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -34,23 +31,17 @@
                     <h1>Course Curriculum</h1>
                     <h3>UG & PG Year Wise Course Curriculum</h3>
                     <ul>
-                        <a href="#" class="content-link">2017-18 </a>
-                        <br>
-                        <a href="#" class="content-link">2016-17 </a>
-                        <br>
-                        <a href="#" class="content-link">2015-16 </a>
-                        <br>
-                        <a href="#" class="content-link">2014-15 </a>
-                        <br>
-                        <a href="#" class="content-link">2013-14 </a>
-                        <br>
-                        <a href="#" class="content-link">2012-13 </a>
-
+                        <a href="javascript::void(0)" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="javascript::void(0)" class="content-link">2016-17 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="javascript::void(0)" class="content-link">2015-16 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="javascript::void(0)" class="content-link">2014-15 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="javascript::void(0)" class="content-link">2013-14 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="javascript::void(0)" class="content-link">2012-13 </a>
                     </ul>
                     <hr />
-                    <a href="#" class="content-link">M.Tech. Course Curriculum</a>
+                    <a href="javascript::void(0)" class="content-link">M.Tech. Course Curriculum</a>
                     <br>
-                    <a href="#" class="content-link">PGDCA Course Curriculum</a>
+                    <a href="javascript::void(0)" class="content-link">PGDCA Course Curriculum</a>
 
 
 

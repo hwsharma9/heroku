@@ -51,6 +51,20 @@
           background-color: #f1f1f1;
         }
     </style>
+    <style>
+        .content-left {
+            border: none;
+        }
+
+        .content-left h1 {
+            font-size: 16px;
+        }
+
+        .news-card {
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -67,13 +81,31 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Course Scheme</h1>
-                    <ul style="margin-left: 50px;">
+                    <h3 style="text-align:center;margin: 20px 0">Course Scheme</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+
+                            <!-- NEWS ITEMS ADD -->
+                            <a href="assets/pdf/Course-Scheme-New-September-2020.pdf">
+                                <div class="news-card">
+                                    <h1>Scheme July-Dec 2020 (Odd Semester)</h1>
+                                </div>
+                            </a>
+
+                            <!-- NEWS ITEMS ADD -->
+                            <a href="javascript:void(0)">
+                                <div class="news-card">
+                                    <h1>Scheme Jan-May 2021 (Even Semester)</h1>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- <ul style="margin-left: 50px;">
                         <a href="assets/pdf/Course-Scheme-New-September-2020.pdf">
                             <li class="content-link">Scheme July-Dec 2020 (Odd Semester)</li>
                         </a>
                         <li class="content-link">Scheme Jan-May 2021 (Even Semester)</li>
-                    </ul>
+                    </ul> -->
 
                     <button type="button" class="collapsible">Previous Year's Course Schemes</button>
                     <div class="content">

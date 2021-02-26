@@ -13,6 +13,21 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+
+    <style>
+        .content-left {
+            border: none;
+        }
+
+        .content-left h1 {
+            font-size: 16px;
+        }
+
+        .news-card {
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -30,15 +45,19 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
 
-                    <h1>Education with ICT</h1>
-                    <ul style="margin-left: 50px;">
-                        <a href="assets/pdf/A REPORT ON MISSION EDUCATION THROUGH ICT.pdf">
-                            <li class="content-link">A report on mission education through ICT</li>
-                        </a>
-                        <a href="assets/pdf/Mission Document ICT.pdf">
-                            <li class="content-link">Mission Document ICT</li>
-                        </a>
-                    </ul>
+                    <h3 style="text-align:center;margin: 20px 0">Education with ICT</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+                            <!-- NEWS ITEMS ADD -->
+
+                            <a href="assets/pdf/A REPORT ON MISSION EDUCATION THROUGH ICT.pdf">
+                                <div class="news-card"><h1>A report on mission education through ICT</h1></div>
+                            </a>
+                            <a href="assets/pdf/Mission Document ICT.pdf">
+                                <div class="news-card"><h1>Mission Document ICT</h1></div>
+                            </a>
+                        </div>
+                    </div>
 
                 </div>
 

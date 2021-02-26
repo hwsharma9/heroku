@@ -33,7 +33,7 @@
                     <br>
                     <table id="table">
                         <tr>
-                            <th>Name of Faculty</th>
+                            <th style="width: 200px;">Name of Faculty</th>
                             <th>Expertise</th>
                             <th>Email</th>
                         </tr>

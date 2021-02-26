@@ -34,13 +34,13 @@
                     <div style="display:flex;justify-content: space-evenly;">
                         <div>
                             <h2>Dr. Shraddha Masih</h2>
-                            <p><strong>Mobile :- </strong>9893107558</p>
-                            <p><strong>Email :- </strong>shraddhadandel@yahoo.com</p>
+                            <p><strong>Mobile : </strong>9893107558</p>
+                            <p><strong>Email : </strong>shraddhadandel@yahoo.com</p>
                         </div>
                         <div>
                             <h2>Dr. Deepal Abhyankar</h2>
-                            <p><strong>Mobile :- </strong>9827438976</p>
-                            <p><strong>Email :- </strong>deepak.scsit@gmail.com</p>
+                            <p><strong>Mobile : </strong>9827438976</p>
+                            <p><strong>Email : </strong>deepak.scsit@gmail.com</p>
                         </div>
                     </div>
                     <!-- <table id="table">

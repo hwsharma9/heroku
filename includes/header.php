@@ -7,7 +7,7 @@
         <ul>
             <!-- dropdown  -->
             <div class="dropdown">
-                <a href="#">
+                <a href="./">
                     <button class="dropbtn">Home</button>
                 </a>
             </div>
@@ -58,15 +58,17 @@
 
             <!-- dropdown  -->
             <div class="dropdown">
-                <button class="dropbtn">
-                    Research
-                    <i class="fa fa-caret-down"></i>
-                </button>
-                <div class="dropdown-content">
+                <a href="./research.php">
+                    <button class="dropbtn">
+                        Research
+                        <i class="fa fa-caret-down"></i>
+                    </button>
+                </a>
+                <!-- <div class="dropdown-content">
                     <a href="./research.php">Research</a>
                     <a href="./ResearchCenter.php">Research Center</a>
                     <a href="./ResearchFellowship.php">Research Fellowship</a>
-                </div>
+                </div> -->
             </div>
             <!-- dropdown  -->
             <div class="dropdown">

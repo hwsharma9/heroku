@@ -13,6 +13,20 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style type="text/css">
+        .content-left {
+            border: none;
+        }
+
+        .content-left h1 {
+            font-size: 16px;
+        }
+
+        .news-card {
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -29,39 +43,41 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left  padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Student Life</h1>
-                    <ul style="margin-left: 50px;">
-                        <a href="./wificampus.php" class="content-link">
-                            <li>Wifi Campus</li>
-                        </a>
-                        <a href="./nss.php" class="content-link">
-                            <li>NSS</li>
-                        </a>
-                        <a href="./learnbyearnscheme.php" class="content-link">
-                            <li>Learn by Earn Scheme</li>
-                        </a>
-                        <a href="./remedialclasses.php" class="content-link">
-                            <li>Remedial Classes</li>
-                        </a>
-                        <a href="./languagelab.php" class="content-link">
-                            <li>Language Lab</li>
-                        </a>
-                        <a href="./swachhbharatabhiyan.php" class="content-link">
-                            <li>Swachh Bharat Abhiyan</li>
-                        </a>
-                        <a href="./samarpan.php" class="content-link">
-                            <li>SAMARPAN</li>
-                        </a>
-                        <a href="./bloodbonation.php" class="content-link">
-                            <li>Blood Donation Camp</li>
-                        </a>
-                        <a href="./treeplantation.php" class="content-link">
-                            <li>Tree Plantation</li>
-                        </a>
-                        <a href="./sports.php" class="content-link">
-                            <li>Sports</li>
-                        </a>
-                    </ul>
+                    <h3 style="text-align:center;margin: 20px 0">Student Life</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+                            <a href="./wificampus.php">
+                                <div class="news-card"><h1>Wifi Campus</h1></div>
+                            </a>
+                            <a href="./nss.php">
+                                <div class="news-card"><h1>NSS</h1></div>
+                            </a>
+                            <a href="./learnbyearnscheme.php">
+                                <div class="news-card"><h1>Learn by Earn Scheme</h1></div>
+                            </a>
+                            <a href="./remedialclasses.php">
+                                <div class="news-card"><h1>Remedial Classes</h1></div>
+                            </a>
+                            <a href="./languagelab.php">
+                                <div class="news-card"><h1>Language Lab</h1></div>
+                            </a>
+                            <a href="./swachhbharatabhiyan.php">
+                                <div class="news-card"><h1>Swachh Bharat Abhiyan</h1></div>
+                            </a>
+                            <a href="./samarpan.php">
+                                <div class="news-card"><h1>SAMARPAN</h1></div>
+                            </a>
+                            <a href="./bloodbonation.php">
+                                <div class="news-card"><h1>Blood Donation Camp</h1></div>
+                            </a>
+                            <a href="./treeplantation.php">
+                                <div class="news-card"><h1>Tree Plantation</h1></div>
+                            </a>
+                            <a href="./sports.php">
+                                <div class="news-card"><h1>Sports</h1></div>
+                            </a>
+                        </div>
+                    </div>
 
                 </div>
 

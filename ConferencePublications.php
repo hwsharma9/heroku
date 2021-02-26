@@ -111,7 +111,7 @@
                         <li>U. Suman, and M. Ingle, “Object Oriented Reverse Engineering Approach for Procedural Systems”, Proc. of International Conference on ICT in Education and Development, AISECT’04, Bhopal, India, pp.91-97, 16-18 December 2004.</li>
                     </ul>
 
-                    <h2>Dr. Ugrasen Suman</h2>
+                    <h2>Dr. Preeti Saxena</h2>
                     <hr>
                     <ul style="margin-left: 20px;">
                         <li>Shimpy Harbhajanka, Preeti Saxena, Survey Paper on Trust Management & Security Issues in Cloud Computing, IEEE, Proc. 1st IEEE Symposium on Colossal Data Analysis and Networking, 2016.</li>

@@ -81,9 +81,10 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Past Placements</h1>
+                    <h1>Our Recruiters and Partners</h1>
                     <img src="./images/Pics/placement.png" alt="placement">
 
+                    <h1>Past Placements</h1>
                     <div id="container">
                         <header class="tabs-nav">
                             <ul>
