@@ -132,7 +132,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="padding-left:30px">
+                                    <td style="">
                                         <b> Guidance</b>
                                     </td>
                                     <td colspan="2">
@@ -151,7 +151,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td style="padding-left:30px">
+                                    <td style="">
                                         <b>Publications</b>
                                     </td>
                                     <td colspan="2">
