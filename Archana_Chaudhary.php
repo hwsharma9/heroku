@@ -46,12 +46,11 @@
                             <hr />
                             <table width="95%">
                                 <tr>
-                                    <td>
+                                    <td width="20%">
 
                                         <b>Name</b>
                                     </td>
                                     <td> <b>Dr. Archana Thakur</b>
-
                                     </td>
                                 <tr>
                                     <td>

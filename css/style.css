@@ -1148,12 +1148,20 @@ body {
   margin: 115px 0;
 }
 .s-fac tr {
-  height: 45px;
+  height: 20px;
   padding: 10px 0;
 }
 .s-fac td {
   padding-right: 20px;
   height: 30px;
+  vertical-align: top;
+}
+.s-fac ul {
+  margin-bottom: 20px;
+}
+.s-fac table {
+  border-collapse: separate;
+  border-spacing: 0 1em;
 }
 
 .s-fac ul li {

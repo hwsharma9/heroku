@@ -46,7 +46,7 @@
                             <hr>
                             <table align="center" width="100%" height="auto" border="0" class="style3">
 
-                                <tr height="50px">
+                                <tr>
                                     <td width="20%">
 
                                         <b>Name</b>
@@ -67,13 +67,13 @@
                                     <td>
                                         <b>Designation</b>
                                     </td>
-                                    <td colspan="2">Professor</td>
+                                    <td>Professor</td>
                                 </tr>
                                 <tr>
                                     <td>
                                         <b>Experience </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         More than 19 Years of Experience in Teaching and Research
                                     </td>
                                 </tr>
@@ -81,7 +81,7 @@
                                     <td>
                                         <b>Courses Taught </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         Software Engineering, Object-Oriented Analysis & Design, Software Reuse,
                                         Compiler Design, Data Structures, Operating Systems, Professional & Social
                                         Issues in IT, Knowledge Management & IT Strategy
@@ -91,7 +91,7 @@
                                     <td>
                                         <b>Current Teaching </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <a class="content-link"
                                             href="http://www.scs.dauniv.ac.in/faculty/Software%20Reuse.pdf">
                                             Software Reuse & Customisation,
@@ -106,7 +106,7 @@
                                     <td>
                                         <b>Recent Teaching </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <a class="content-link"
                                             href="http://www.scs.dauniv.ac.in/faculty/OOAD Syllabus.pdf">
                                             Object-Oriented Analysis & Design,
@@ -125,7 +125,7 @@
                                     <td>
                                         <b>Research Interest </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         Software Engineering, Agile Software Development, Service-Oriented
                                         Computing,<br />
                                         Big Data Software Engineering.
@@ -135,7 +135,7 @@
                                     <td style="">
                                         <b> Guidance</b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
 
 
 
@@ -154,7 +154,7 @@
                                     <td style="">
                                         <b>Publications</b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <ul type="disc">
                                             <li>
                                                 Books :<br />
@@ -190,7 +190,7 @@
                                     <td>
                                         <b>Projects </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         1. Dy. Coordinator,
                                         <a class="content-link" href="http://www.ugc.ac.in">UGC-SAP</a> Project under
                                         DRS Phase-II,
@@ -200,11 +200,12 @@
                                         Phase-I, 2009-2014.
                                     </td>
                                 </tr>
-                                <tr>
+                                <br>
+                                <tr style="margin-top:10px">
                                     <td>
-                                        <b>Membership</b>s
+                                        <b>Membership</b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <a class="content-link" href="http://www.ieee.org/">
                                             MIEEE,
                                         </a> <a class="content-link" href="http://www.comsoc.org">
@@ -224,7 +225,7 @@
                                         <b>Academic Activities <br />
                                         </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <ul type="disc">
                                             <li>
                                                 Chairman Board of Studies, Computer Science, DAVV since 2020.
@@ -257,7 +258,7 @@
                                 <tr>
                                     <td><strong>Professional Activities
                                         </strong></td>
-                                    <td colspan="2">
+                                    <td>
                                         <ul type="disc">
                                             <li>
                                                 Member nominated in UGC Inspection Team, NAAC Pear Team, NBA
@@ -290,7 +291,7 @@
                                     <td>
                                         <b>Telephone</b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         Office: +91-731-2470041-43 +509 (ext.), Mobile: 9826953187
                                     </td>
                                 </tr>
@@ -298,7 +299,7 @@
                                     <td>
                                         <b>E-Mail </b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <a class="content-link" href="mailto:ugrasen123@yahoo.com">ugrasen123@yahoo.com
                                         </a>,
                                         <a class="content-link"
@@ -310,7 +311,7 @@
                                     <td>
                                         <b>Address</b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         78, Shri Krishna Avenue, Phase I, Limbodi, Indore(M.P.) - 452001, India
                                     </td>
                                 </tr>
@@ -318,7 +319,7 @@
                                     <td>
                                         <b>Resume</b>
                                     </td>
-                                    <td colspan="2">
+                                    <td>
                                         <a class="content-link" href="Resume/CV_US-1-9-2020.pdf">Click here..</a>
                                     </td>
                                 </tr>
