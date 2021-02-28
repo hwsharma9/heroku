@@ -103,11 +103,12 @@
 
                     <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
                     <div class="content"><br>
-                        <p>Master of Computer Application [M.C.A](2 yr.)<br>
-                            [Admission performed through Vyapam, Bhopal (M.P.)]</p>
+                        <p>Master of Computer Application [M.C.A](2 yr.)</p>
+
+                        <h2>Admission performed through Vyapam, Bhopal (M.P.)</h2>
 
                         <h2>Eligibility :</h2>
-                        <p>To Know about eligibility</p>
+                        <p>To Know about eligibility Click here</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -280,7 +281,7 @@
 
                     <button type="button" class="collapsible">Master of Technology M.Tech. (CS)</button>
                     <div class="content"><br>
-                        <p>M.Tech(CS) Specialization in Computer Science [2 Yr.]</p>
+                        <p>M.Tech(CS) [2 Yr.]</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -306,9 +307,9 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Technology M.Tech. (IA&SE)</button>
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (IA & SE)</button>
                     <div class="content"><br>
-                        <p>M.Tech(SE) Information Architecture & Software Engineering [2 Yr.]</p>
+                        <p>M.Tech(IA & SE) [2 Yr.]</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -332,10 +333,10 @@
                     </div>
 
 
-                    <button type="button" class="collapsible">Master of Technology M.Tech. (NM&IS)</button>
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (NM & IS)</button>
                     <div class="content"><br>
                         <p>
-                        M.Tech(NM) Network Management & Information Security [2 Yr.]
+                        M.Tech(NM & IS) [2 Yr.]
                         </p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
@@ -348,7 +349,7 @@
                         </ul>
 
                         <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
-                        <p>At the end of this programme, M.Tech(NM&IS) student will be able to:</p>
+                        <p>At the end of this programme, M.Tech(NM & IS) student will be able to:</p>
                         <hr>
                         <ul style="margin-left: 20px;">
                             <li>Analyze network Engineering related problems, and solve issues related to Network Management and Information Security. </li>

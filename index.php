@@ -19,10 +19,12 @@
     </noscript> -->
     <style type="text/css">
         .owl-stage-outer {
-            margin-right: 40px;
-            margin-top: 15px;
-            border: 1px solid;
-            box-shadow: 2px 2px 10px 2px;
+            margin-right: 50px;
+            margin-top: 30px;
+            box-shadow: 5px 5px 20px black;
+        }
+        #placement-slider .owl-stage-outer { 
+                margin-right: 0px !important;
         }
     </style>
 
