@@ -24,6 +24,9 @@
   background-color: #555;
 }
 
+img {
+  object-fit: initial;
+}
 .font {
   /* color: #232323; */
   font-size: 14px;
@@ -1222,6 +1225,9 @@ body {
 .width-small {
   width: 20%;
   height: fit-content;
+}
+.cell img {
+  object-fit: initial !important;
 }
 
 @media (max-width: 900px) {
