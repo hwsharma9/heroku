@@ -62,6 +62,37 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+
+                            <a href="./wificampus.php">
+                                <li><span>🔗</span> Wifi Campus</li>
+                            </a>
+                            <a href="./nss.php">
+                                <li><span>🔗</span> NSS</li>
+                            </a>
+                            <a href="./learnbyearnscheme.php">
+                                <li><span>🔗</span> Learn by Earn Scheme</li>
+                            </a>
+                            <a href="./remedialclasses.php">
+                                <li><span>🔗</span>Remedial Classes </li>
+                            </a>
+                            <a href="./languagelab.php">
+                                <li><span>🔗</span>Language Lab </li>
+                            </a>
+                            <a href="./swachhbharatabhiyan.php">
+                                <li><span>🔗</span> Swachh Bharat Abhiyan</li>
+                            </a>
+                            <a href="./samarpan.php">
+                                <li><span>🔗</span>SAMARPAN </li>
+                            </a>
+                            <a href="./bloodbonation.php">
+                                <li><span>🔗</span>Blood Donation Camp </li>
+                            </a>
+                            <a href="./treeplantation.php">
+                                <li><span>🔗</span> Tree Plantation</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

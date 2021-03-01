@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -24,42 +25,43 @@
 .skid:hover {
     color: #121212;
 }
-        
-        .collapsible {
-          background-color: #777;
-          color: white;
-          cursor: pointer;
-          padding: 18px;
-          width: 100%;
-          border: none;
-          text-align: left;
-          outline: none;
-          font-size: 15px;
-        }
 
-        .active, .collapsible:hover {
-          background-color: #555;
-        }
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
 
-        .collapsible:after {
-          content: '\002B';
-          color: white;
-          font-weight: bold;
-          float: right;
-          margin-left: 5px;
-        }
+.active,
+.collapsible:hover {
+    background-color: #555;
+}
 
-        .active:after {
-          content: "\2212";
-        }
+.collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
 
-        .content {
-          padding: 0 18px;
-          max-height: 0;
-          overflow: hidden;
-          transition: max-height 0.2s ease-out;
-          background-color: #f1f1f1;
-        }
+.active:after {
+    content: "\2212";
+}
+
+.content {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
+}
 </style>
 
 <body>
@@ -78,28 +80,50 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
                     <div class="content">
-                        
+
                         <ul style="margin-left: 20px;">
-                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf"><li class="content-link">BCA I Semester</li></a>
+                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf">
+                                <li class="content-link">BCA I Semester</li>
+                            </a>
                             <!-- <a href="assets/pdf/"><li class="content-link">BCA I July Section B 2019</li></a> -->
-                            <a href="javascript::void(0)"><li class="content-link">BCA II Semester</li></a>
+                            <a href="javascript::void(0)">
+                                <li class="content-link">BCA II Semester</li>
+                            </a>
                             <!-- <a href="javascript::void(0)"><li class="content-link">BCA Batch B II Semester</li></a> -->
-                            <a href="javascript::void(0)"><li class="content-link">BCA III Semester</li></a>
-                            <a href="javascript::void(0)"><li class="content-link">BCA IV Semester</li></a>
-                            <a href="javascript::void(0)"><li class="content-link">BCA V Semester</li></a>
-                            <a href="javascript::void(0)"><li class="content-link">BCA VI Semester</li></a>
+                            <a href="javascript::void(0)">
+                                <li class="content-link">BCA III Semester</li>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <li class="content-link">BCA IV Semester</li>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <li class="content-link">BCA V Semester</li>
+                            </a>
+                            <a href="javascript::void(0)">
+                                <li class="content-link">BCA VI Semester</li>
+                            </a>
                         </ul>
                     </div>
 
                     <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
                     <div class="content">
-                        
+
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">MCA I Semester</li></a>
-                            <a href=""><li class="content-link">MCA II Semester</li></a>
-                            <a href=""><li class="content-link">MCA III Semester</li></a>
-                            <a href=""><li class="content-link">MCA IV Semester</li></a>
-                            <a href=""><li class="content-link">MCA V Semester</li></a>
+                            <a href="">
+                                <li class="content-link">MCA I Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MCA II Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MCA III Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MCA IV Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MCA V Semester</li>
+                            </a>
                         </ul>
                     </div>
 
@@ -118,20 +142,36 @@
                     <button type="button" class="collapsible">Master of Science M.Sc. (CS/IT)</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">M.Sc. (CS/IT) I Semester</li></a>
-                            <a href=""><li class="content-link">M.Sc. (CS/IT) II Semester</li></a>
-                            <a href=""><li class="content-link">M.Sc. (CS/IT) III Semester</li></a>
-                            <a href=""><li class="content-link">M.Sc. (CS/IT) IV Semester</li></a>
+                            <a href="">
+                                <li class="content-link">M.Sc. (CS/IT) I Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">M.Sc. (CS/IT) II Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">M.Sc. (CS/IT) III Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">M.Sc. (CS/IT) IV Semester</li>
+                            </a>
                         </ul>
                     </div>
 
                     <button type="button" class="collapsible">Master of Business Administration MBA(CM)</button>
                     <div class="content">
                         <ul style="margin-left: 20px;">
-                            <a href=""><li class="content-link">MBA (CM) I Semester</li></a>
-                            <a href=""><li class="content-link">MBA (CM) II Semester</li></a>
-                            <a href=""><li class="content-link">MBA (CM) III Semester</li></a>
-                            <a href=""><li class="content-link">MBA (CM) IV Semester</li></a>
+                            <a href="">
+                                <li class="content-link">MBA (CM) I Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MBA (CM) II Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MBA (CM) III Semester</li>
+                            </a>
+                            <a href="">
+                                <li class="content-link">MBA (CM) IV Semester</li>
+                            </a>
                         </ul>
                     </div>
                     <h4 class="" style="margin: 20px 0">For Old Curriculum <a href="./Previous_Student_kit.php"
@@ -140,6 +180,30 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <!-- <a href="./syllabus.php">
+        <li><span>🔗</span>Syllabus</li>
+    </a> -->
+                            <a href="./Lab_Manual.php">
+                                <li><span>🔗</span>Lab Manual</li>
+                            </a>
+                            <a href="./counsellor.php">
+                                <li><span>🔗</span>Counsellor</li>
+                            </a>
+                            <a href="./scholarship.php">
+                                <li><span>🔗</span>Scholarship</li>
+                            </a>
+                            <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG">
+                                <li><span>🔗</span>Online Lectures-Swayam</li>
+                            </a>
+                            <a href="./onlineskilltest.php">
+                                <li><span>🔗</span>Online Skill Test</li>
+                            </a>
+                            <a href="./studentlife.php">
+                                <li><span>🔗</span>Student Life</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->
@@ -186,20 +250,20 @@
     });
     </script>
     <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
 
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.maxHeight){
-                    content.style.maxHeight = null;
-                } else {
-                    content.style.maxHeight = content.scrollHeight + "px";
-                } 
-            });
-        }
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            } else {
+                content.style.maxHeight = content.scrollHeight + "px";
+            }
+        });
+    }
     </script>
 </body>
 
