@@ -1,5 +1,5 @@
 <div class="slider company" style="margin-bottom: -40px;">
-    <h1>Our Recruiters and Partners</h1>
+    <h1>Our Recruiters & Partners</h1>
     <marquee scrollamount="20">
         <div class="company-marquee">
             <div class="item">
