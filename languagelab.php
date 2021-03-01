@@ -59,9 +59,10 @@
                         </li>
                         <li>Prepare for company specific test pattern.</li>
                     </ul>
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
+                   <!-- <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
                     <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy" />
                     <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" />
+                    -->
                 </div>
 
                 <div class="sidebar content-right">

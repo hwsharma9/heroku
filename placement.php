@@ -22,11 +22,11 @@
 
         .tabs-nav li {
           display: inline-block;
-          background: rgba(165, 165, 165, 0.78);
+          background: #134486;
           color: #fefefe;
           border-width: 1px 1px 0 1px;
           border-style: solid;
-          border-color: #34495E;
+          border-color: #134486;
           margin-right: 5px;
         }
 
@@ -81,11 +81,11 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Our Recruiters & Partners</h1>
-                    <img src="./images/Pics/placement.png" alt="placement">
-
                     <h1>Past Placements</h1>
+                    <img src="./images/Pics/placement.png" alt="placement">
+                    
                     <div id="container">
+                    <br>
                         <header class="tabs-nav">
                             <ul>
                                 <li class="active"><a href="#2021">2021</a></li>

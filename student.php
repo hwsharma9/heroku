@@ -46,9 +46,9 @@
                     <h3 style="text-align:center;margin: 20px 0">Students</h3>
                     <div class="news-wrapper">
                         <div class="all-news">
-                            <a href="assets/pdf/Students 2018.pdf"><div class="news-card"><h1>List of admitted students in 2020</h1></div></a>
+                            <a href="assets/pdf/Students 2020.pdf"><div class="news-card"><h1>List of admitted students in 2020</h1></div></a>
 
-                            <a href="assets/pdf/Students 2018.pdf"><div class="news-card"><h1>List of admitted students in 2019</h1></div></a>
+                            <a href="assets/pdf/Students 2019.pdf"><div class="news-card"><h1>List of admitted students in 2019</h1></div></a>
 
                             <a href="assets/pdf/Students 2018.pdf"><div class="news-card"><h1>List of admitted students in 2018</h1></div></a>
                         

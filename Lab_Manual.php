@@ -45,34 +45,34 @@
                     <h3 style="text-align:center;margin: 20px 0">Lab Manual</h3>
                     <div class="news-wrapper">
                         <div class="all-news">
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual  Computer Organization and Assembly Language Programming.pdf">
                                 <div class="news-card"><h1>CS-2023 Computer Organization and Hardware Maintenance</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual  Data Structures and Algorithms.pdf">
                                 <div class="news-card"><h1>CS-2222 Data Structures and Algorithms</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual Computer Graphics & Multimedia Fundamentals.pdf">
                                 <div class="news-card"><h1>CS-3505 Computer Graphics & Multimedia Fundamentals</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual Computer Organization and Hardware Maintenance.pdf">
                                 <div class="news-card"><h1>CS-4022 Computer Organization and Assembly Language Programming</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual Programming and Problem Solving Using C.pdf">
                                 <div class="news-card"><h1>CS-4205 Programming and Problem Solving Using C</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual Object Oriented Programming using JAVA.pdf">
                                 <div class="news-card"><h1>CS-4211 Object Oriented Programming using JAVA</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual Computer Graphics & Multimedia.pdf">
                                 <div class="news-card"><h1>CS-4508 Computer Graphics & Multimedia</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual  Operating Systems.pdf">
                                 <div class="news-card"><h1>CS-5511 Operating Systems</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual  Advanced Algorithm Design.pdf">
                                 <div class="news-card"><h1>CS-6221 Advanced Algorithm Design</h1></div>
                             </a>
-                            <a href="javascript::void(0)">
+                            <a href="assets/pdf/Lab manual Internet of Things.pdf">
                                 <div class="news-card"><h1>CS-6630 Internet of Things</h1></div>
                             </a>
                         </div>

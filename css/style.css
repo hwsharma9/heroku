@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
 :root {
-  --primary-color: #ad1219;
+  --primary-color: #13448a;
   /* --primary-color: #001f6b; */
   --primary-color-faded: rgba(17, 182, 64, 0.1);
   --border-radius: 10px;
@@ -673,7 +673,7 @@ body {
   cursor: pointer;
 }
 .news-card:hover {
-  color: white;
+  color: white !important;
   background-color: #134486 ;
 }
 .news-card-container {
@@ -876,7 +876,6 @@ body {
   font-weight: 600;
   font-size: 26px;
   text-align: center;
-  color: #134486;
 }
 .content-left h2 {
   font-size: 20px;
@@ -989,7 +988,7 @@ body {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #2d3436;
+  background-color: #838d8d;
   color: white;
 }
 
@@ -1003,7 +1002,7 @@ body {
   max-width: 240px;
   font-family: "Roboto Condensed", sans-serif;
   position: relative;
-  box-shadow: 5px 5px 20px #ad1219;
+  box-shadow: 5px 5px 20px #134486;
 }
 .quote-container .tag {
   position: absolute;

@@ -48,6 +48,7 @@
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">
                                 <h4><b>Senior Research Fellowship (SRF)</b></h4>
+                                <br>
                                 <p>He is currently working on Real-Time Big Data under the supervision of Dr.
                                     Ugrasen Suman.
                                 </p>
@@ -60,6 +61,7 @@
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">
                                 <h4><b>Junior Research Fellowship (JRF)</b></h4>
+                                <br>
                                 <p>He is currently working on Under Water Sensor Network (UWSN) under the
                                     supervision of Dr. Preeti Saxena and Dr. Sanjay Tanwani (Co-Supervisor)
                                 </p>

@@ -32,7 +32,7 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1> Assessment Method.</h1>
+                    <h1> Assessment Method</h1>
                     <p> There are a number of assessment methods, each of which is appropriate for different assessment
                         purposes. Assessment methods provide feedback throughout learning process, measure learning of
                         students at the end of the course, provide standardization of program and institute, used for
@@ -43,7 +43,7 @@
 
                     </p>
                     <hr>
-                    <h2> Student feedback system.</h2>
+                    <h2> Student feedback system</h2>
                     <p> Students Feedback Form in 3-section covers the important aspects of teaching strategy, course
                         contents and other constructive suggestions by the students for further improvements. The
                         students are asked to rate the teacher of their concerned course on the basis of ten parameters
@@ -61,7 +61,7 @@
                         File for rigorous analysis.
                     </p>
                     <hr>
-                    <h2> Ongoing performance monitoring.</h2>
+                    <h2> Ongoing performance monitoring</h2>
                     <p> Student achievement on quizzes, seminars, tutorials, case studies, assignments, laboratory
                         experiments and class and laboratory attendance are regularly monitored to determine how well
                         students are responding to the instruction. With above assessment attributes, teachers have the
@@ -74,7 +74,7 @@
 
                     </p>
                     <hr>
-                    <h2> Student evaluation system.</h2>
+                    <h2> Student evaluation system</h2>
                     <p> Students are evaluated through conducting Internal and External examination. In internal
                         evaluation, students are measured through mid-term exams, project development, classroom
                         performance, laboratory exam and special measures used (if any) by the teachers. External
@@ -85,7 +85,7 @@
                         assessment purpose.
                     </p>
                     <hr>
-                    <h2> Parent teacher meet.</h2>
+                    <h2> Parent teacher meet</h2>
                     <p> To develop the communication that will allow parents and teachers to make plans, set goals,
                         solve problems, and establish the relationship that they need in order to have a good
                         partnership, a Parent-Teacher Meeting is required. A parent teacher meet helps to communicate to
@@ -99,7 +99,7 @@
 
                     </p>
                     <hr>
-                    <h2> Alumni meet.</h2>
+                    <h2> Alumni meet</h2>
                     <p> The purpose of Alumni Meet is to strengthen the relationships between alumni and the Institute.
                         It gives a stronger industry-specific orientation and enhances the learning skills of students.
                         The event brings together a wealth of talented and capable professionals who share their
@@ -114,7 +114,7 @@
 
                     </p>
                     <hr>
-                    <h2> Industry meet.</h2>
+                    <h2> Industry meet</h2>
                     <p> The Department has developed a strong relation with Industry by providing them good man power in
                         a form of post graduate students. Every year students of this institute joins the various
                         software and research & development (R&D) industry. Experts from industry share their experience
@@ -128,7 +128,7 @@
                         as well as the industry.
                     </p>
                     <hr>
-                    <h2> Exit survey for graduating students.</h2>
+                    <h2> Exit survey for graduating students</h2>
                     <p> Graduating seniors are required, as part of their application to graduate, to complete an exit
                         survey that asks the student to rank the importance of each program objective and outcome. For
                         each outcome, we determine how well the program met the particular outcome in his or her

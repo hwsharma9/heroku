@@ -29,10 +29,11 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Process for verification of Ex-student Credentials</h1>
+                    <h1>Process for Verification of Ex-Student Credentials</h1>
 
                     <ol>
-                        <li>Pay verification Fees Rs. 1000/-.</li><br>
+                        <br>
+                        <li>Pay verification fees Rs. 1000/-.</li><br>
                         <li>Payment to be made using online banking only (RTGS/ IMPS/ NEFT).<br><br>
                         <table style="width: 100%;text-align: left;">
                             <tr>
@@ -57,8 +58,12 @@
                             </tr>
                         </table>
                         </li><br>
-                        <li>Fill the following attached form.</li><br>
-                        <li>Scan copies of Bank transaction receipt, credentials (Marksheet and Degree of course), filled form, to be mail at <a class="content-link" href="mailto:deepikarai.scs@gmail.com">deepikarai.scs@gmail.com</a> .</li>
+                        <li>Fill the <a class="content-link" href="assets/pdf/Ex-Student_Verification_form2021.PDF"> verification form </a></li><br>
+                        <li>Mail the scan copies of following documents at <a class="content-link" href="mailto:deepikarai.scs@gmail.com">deepikarai.scs@gmail.com</a></li> 
+                        <br>
+                         1.   Bank transaction receipt <br><br>
+                         2.   Marksheet of final Year/ Semester and Degree of course <br><br>
+                         3.   Filled form
                     </ol><br>
                 </div>
 
