@@ -32,9 +32,17 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Swachh Bharat Abhiyan</h1>
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Wifi campus page.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/wifi campus page 2.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                    </div>
+                    <!-- <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
                     <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" />
+                    <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" /> -->
                 </div>
 
                 <div class="sidebar content-right">

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -50,7 +51,8 @@
                         the disaster victims.
                     </p><br>
                     <p>
-                        Camps are held annually, funded by the government of India, and are usually located in a rural village or a city suburb. Volunteers may be involved in such activities as:
+                        Camps are held annually, funded by the government of India, and are usually located in a rural
+                        village or a city suburb. Volunteers may be involved in such activities as:
                     </p>
                     <ul style="margin-left: 20px;">
                         <li>Cleaning</li>
@@ -63,7 +65,8 @@
                         <li>Inviting doctors for health camps</li>
                     </ul><br>
                     <p>
-                        There are no predefined or preassigned tasks; it is left up to the volunteers to provide service in any way that is feasible. Students of SCSIT conducted the following activities of NSS:
+                        There are no predefined or preassigned tasks; it is left up to the volunteers to provide service
+                        in any way that is feasible. Students of SCSIT conducted the following activities of NSS:
                     </p>
                     <ul style="margin-left: 20px;">
                         <li>Campus cleaning</li>
@@ -78,10 +81,14 @@
                         <li>Yoga activities</li>
                     </ul>
                     <hr />
-                    <img src="https://unsplash.it/220/220" alt="CAMPUS" loading="lazy">
-                    <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy">
-
-
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Wifi campus page.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/wifi campus page 2.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                    </div>
                 </div>
 
                 <div class="sidebar content-right">

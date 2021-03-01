@@ -96,7 +96,27 @@
                         of the department and then distribute them to needy people in slum areas.
                     </p>
                     <br>
-                    <div class="img-container">
+
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Samarpan.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Samarpan2.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Samarpan3.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Samarpan4.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                    </div>
+                    <!-- OLD IMAGE CONTAINER  -->
+                    <!-- <div class="img-container">
                         <div class="grid">
                             <div class="cell">
                                 <img src="./images/Pics/Samarpan.jpg" alt="CAMPUS" loading="lazy"
@@ -115,7 +135,7 @@
                                     class="responsive-image" />
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 

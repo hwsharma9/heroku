@@ -40,10 +40,24 @@
                         Students have participated in State, Regional and National in various sports. They have
                         exhibited high level of performance and have won awards at all levels.
                     </p>
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" />
-
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation2.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation3.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation4.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                    </div>
                 </div>
 
                 <div class="sidebar content-right">

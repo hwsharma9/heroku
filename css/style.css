@@ -1237,6 +1237,31 @@ body {
 }
 
 /****************************************************************
+ *************** STUDENT LIFE IAMGES  *******************************/
+.sl-img-col {
+  float: left;
+  width: 49.99%;
+  padding: 3px;
+}
+@media (max-width: 900px) {
+  .sl-img-col {
+    float: left;
+    width: 99.99%;
+    padding: 3px;
+  }
+}
+.sl-img-col img {
+  object-fit: initial;
+}
+
+/* Clearfix (clear floats) */
+.sl-image::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/****************************************************************
  *************** MEDIA QUERIES *******************************/
 @media (min-width: 1400px) {
   html {
