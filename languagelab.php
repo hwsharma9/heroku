@@ -60,15 +60,7 @@
                         </li>
                         <li>Prepare for company specific test pattern.</li>
                     </ul>
-                    <div class="sl-image">
-                        <div class="sl-img-col">
-                            <img src="./images/Pics/Wifi campus page.jpg" alt="CAMPUS" loading="lazy">
-                        </div>
-                        <div class="sl-img-col">
-                            <img src="./images/Pics/wifi campus page 2.jpg" alt="CAMPUS" loading="lazy">
-                        </div>
-                    </div>
-                    <!-- <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" /> -->
+
                 </div>
 
                 <div class="sidebar content-right">
