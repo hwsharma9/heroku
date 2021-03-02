@@ -41,7 +41,7 @@
                                 </tr>
                                 <tr>
                                     <td>Dr. Sanjay Tanwani </td>
-                                    <td>Embedded Systems, Advanced Database</td>
+                                    <td>Embedded Systems, Advanced Database System</td>
                                 </tr>
                                 <tr>
                                     <td>Dr. Maya Ingle </td>
@@ -53,7 +53,7 @@
                                 </tr>
                                 <tr>
                                     <td>Dr. Ugrasen Suman</td>
-                                    <td>Software Engineering, Service Oriented Computing</td>
+                                    <td>Software Engineering, Agile Software Development, Service Oriented Computing, Big Data Software Engineering</td>
                                 </tr>
 
                                 <tr>
@@ -73,7 +73,7 @@
 
                                 <tr>
                                     <td>Dr. Archana Thakur</td>
-                                    <td>ERP, Software Engineering</td>
+                                    <td>Artificial Intelligence, Machine Learning, Software Engineering, Data Science, Cloud Computing</td>
                                 </tr>
 
                                 <tr>

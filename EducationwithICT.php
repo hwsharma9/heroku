@@ -51,7 +51,7 @@
                             <!-- NEWS ITEMS ADD -->
 
                             <a href="assets/pdf/A REPORT ON MISSION EDUCATION THROUGH ICT.pdf">
-                                <div class="news-card"><h1>A report on mission education through ICT</h1></div>
+                                <div class="news-card"><h1>A report on Mission Education through ICT</h1></div>
                             </a>
                             <a href="assets/pdf/Mission Document ICT.pdf">
                                 <div class="news-card"><h1>Mission Document ICT</h1></div>

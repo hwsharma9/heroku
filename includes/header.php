@@ -106,9 +106,9 @@
                 </button>
                 <div class="dropdown-content">
                     <a href="./syllabus.php">Syllabus</a>
-                    <a href="./">Course Scheme and Class Time table</a>
+                    <a href="">Course Scheme and Class Time table</a>
                     <a href="./Lab_Manual.php">Lab Manual</a>
-                    <a href="./">Programme Coordinators and Class Cordinators</a>
+                    <a href="assets/pdf/Coordinators 2020.pdf"">Programme Coordinators and Class Cordinators</a>
                     <!-- <a href="./">Mentors</a> -->
                     <a href="./counsellor.php">Counsellor</a>
                     <a href="./scholarship.php">Scholarship</a>

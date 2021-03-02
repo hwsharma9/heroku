@@ -15,58 +15,55 @@
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
     <style type="text/css">
-    .tabs-nav ul {
-        margin: 0;
-        padding: 0;
-    }
+        .tabs-nav ul {
+          margin: 0;
+          padding: 0;
+        }
 
-    .tabs-nav li {
-        display: inline-block;
-        background: rgba(165, 165, 165, 0.78);
-        color: #fefefe;
-        border-width: 1px 1px 0 1px;
-        border-style: solid;
-        border-color: #34495E;
-        margin-right: 5px;
-    }
+        .tabs-nav li {
+          display: inline-block;
+          background: #134486;
+          color: #fefefe;
+          border-width: 1px 1px 0 1px;
+          border-style: solid;
+          border-color: #134486;
+          margin-right: 5px;
+        }
 
-    .tabs-nav a {
-        display: block;
-        padding: 10px 15px;
-        font-weight: bold;
-        color: #fff;
-    }
+        .tabs-nav a {
+          display: block;
+          padding: 10px 15px;
+          font-weight: bold;
+          color: #fff;
+        }
+        /* Active tab */
 
-    /* Active tab */
+        .tabs-nav li.active {
+          background: #FFF;
+          color: #000;
+        }
 
-    .tabs-nav li.active {
-        background: #FFF;
-        color: #000;
-    }
+        .tabs-nav li.active a {
+          color: inherit;
+        }
+        /* Tab content */
 
-    .tabs-nav li.active a {
-        color: inherit;
-    }
+        .tabs-content {
+          border: 1px solid #34495E;
+          padding: 10px;
+          background: #FFF;
+          margin-top: -1px;
+          overflow: hidden;
+        }
 
-    /* Tab content */
+        .tabs-content IMG {
+          margin-right: 10px;
+        }
+        /* Hide all but first content div */
 
-    .tabs-content {
-        border: 1px solid #34495E;
-        padding: 10px;
-        background: #FFF;
-        margin-top: -1px;
-        overflow: hidden;
-    }
-
-    .tabs-content IMG {
-        margin-right: 10px;
-    }
-
-    /* Hide all but first content div */
-
-    .tabs-content div:not(:first-child) {
-        display: none;
-    }
+        .tabs-content div:not(:first-child) {
+          display: none;
+        }
     </style>
 </head>
 
@@ -84,11 +81,11 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Our Recruiters & Partners</h1>
-                    <img src="./images/Pics/placement.png" alt="placement">
-
                     <h1>Past Placements</h1>
+                    <img src="./images/Pics/placement.png" alt="placement">
+                    
                     <div id="container">
+                    <br>
                         <header class="tabs-nav">
                             <ul>
                                 <li class="active"><a href="#2021">2021</a></li>
