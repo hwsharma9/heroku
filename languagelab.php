@@ -60,7 +60,6 @@
                         </li>
                         <li>Prepare for company specific test pattern.</li>
                     </ul>
-
                 </div>
 
                 <div class="sidebar content-right">

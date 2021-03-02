@@ -139,12 +139,13 @@
 
 
 
-                                        <a href="http://www.scs.dauniv.ac.in/Usuman_under_supervision.php">
+                                        <a href="./Usuman_under_supervision.php">
                                             Ph.D Supervision,
-                                        </a> <a href="http://www.scs.dauniv.ac.in/Usuman_under_supervision.php">
+                                        </a>
+                                         <a href="./Usuman_under_supervision.php">
                                             M.Tech (CS) by Research
                                         </a>,
-                                        <a href="http://www.scs.dauniv.ac.in/Usuman_under_supervision.php">
+                                        <a href="./Usuman_under_supervision.php">
                                             M.Tech & Other PG Projects
                                         </a>
 

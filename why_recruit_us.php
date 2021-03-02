@@ -76,16 +76,16 @@
                             <td>30</td>
                         </tr>
                         <tr>
-                            <td>MBA(Computer Management)</td>
+                            <td>MCA</td>
                             <td>2 Yrs.</td>
                             <td>120</td>
                         </tr>
                         <tr>
                             <td>
-                                M.Tech. Specialization in
-                                <ul style="margin-left: 20px;">
-                                    <li>Computer Science</li>
-                                    <li>Network Management & Information Security</li>
+                                M.Tech. Specialization in 
+                                <ul style="margin-left: 20px;"><br>
+                                    <li>Computer Science</li><br>
+                                    <li>Network Management & Information Security</li><br>
                                     <li>Information Architecture & Software Engineering</li>
                                 </ul>
                             </td>
@@ -103,57 +103,27 @@
                             <td>90</td>
                         </tr>
                     </table>
-                    <p>Subjects offered to our students include:</p>
-
-                    <h2>Post Graduate Level</h2>
-                    <hr>
-                    <p><strong>Core subjects:</strong> Computer Organization & Assembly Language Programming,
-                        Programming and Problem-Solving Using C, Operating Systems, Discrete Structures, Database
-                        Management System, Software Engineering, Computer Architecture Computer Networks, Theory of
-                        Computation, Object Oriented Programming using JAVA, Computer Graphics and Multimedia,
-                        Mathematical Foundation for Computer Application, Data Structures using C++, Database
-                        Application and Tools, Design and Analysis of Algorithms, Mobile and Wireless Systems,
-                        Enterprise Resource Planning, Compiler Design, Object Oriented Analysis & Design, , Artificial
-                        Intelligence, Data Mining and Warehousing, Professional and Social Issues in IT, Linux/UNIX
-                        Administration.</p><br>
-                    <p><strong>Advanced skill based Subjects:</strong> Machine Learning, Artificial Intelligence, Data
-                        Analytics using R, Cloud Computing, Internet & Web Technology etc.</p><br>
-                    <p><strong>Interdisciplinary subjects:</strong> Communication Skills and Report Writing, Accounting
-                        and Financial Systems, Organization and Management Concepts etc.</p>
-
-                    <h2>Under Graduate Level</h2>
-                    <hr>
-                    <p><strong>Core subjects:</strong> Fundamentals of Programming and Problem Solving through C, Basic
-                        Electricals and Electronics, Electronic Circuits, Operating System Basics & PC Packages Object
-                        Oriented Programming through C++, Digital Electronics, Data Structure and Algorithms, System
-                        Analysis & Design, Data and Computer Communication, Introduction to DBMS (SQL& PLSQL), Computer
-                        Organization and Hardware Maintenance, Microprocessor and Assembly Language programming,
-                        Database Programming using VB, JAVA Programming</p><br>
-                    <p><strong>Interdisciplinary subjects:</strong> Mathematics, Physics, English language and
-                        Composition, Financial Accounting, Principles and Practice of Management, Statistics &
-                        Probability, Environmental Awareness etc.</p><br>
-                    <p><strong>MBA (CM) Specialization:</strong> Computer Organization & Assembly Language Programming,
-                        Programming and Problem-Solving Using C, Operating Systems, Management Information, Database
-                        Management System, Software Engineering, Mathematical Foundation of Computer Science, IT
-                        Infrastructure Management, Cloud Computing, Web Technology and E-Commerce, Introduction to
-                        Enterprise Resource Planning, Object Oriented Programming using JAVA, Web Technology and
-                        Programming etc.</p><br>
-
-                    <h3>M. Tech. Programme</h3>
-                    <p><strong>Computer Science Specialization:</strong> Advanced Computer Architecture, Internet
-                        Programming Using Java, Advanced Operating Systems, Data Mining and Warehousing, Advanced
-                        Algorithm Design, Advanced Database Management Systems, Advanced Compiler Design, Cloud
-                        Computing, Soft Computing, Data Science, Internet of Things etc.</p><br>
-                    <p><strong>Network Management Specialization:</strong> Network Management, Internet Programming
-                        Using Java, Advanced Operating Systems, Information Security, Advanced Computer Network etc.</p>
                     <br>
-                    <p><strong>Software Engineering Specialization:</strong> Information Architecture, Advanced Software
-                        Engineering, Information System Design, Internet Programming Using Java etc.</p><br>
-                    <p>Other than the subjects mentioned above, our students attend various workshops for enhancing
-                        skills. Extra workshops offered at department include AWS cloud, Blockchain, Machine Learning,
-                        IoT etc.</p>
+                    <h2>Subjects offered to our students include:</h2>
+
+                    <h2>Post Graduate Level</h2><hr>
+                    <p><strong>Core subjects:</strong> Computer Organization & Assembly Language Programming, Programming and Problem-Solving Using C, Operating Systems, Discrete Structures, Database Management System, Software Engineering, Computer Architecture Computer Networks, Theory of Computation, Object Oriented Programming using JAVA, Computer Graphics and Multimedia, Mathematical Foundation for Computer Application, Data Structures using C++, Database Application and Tools, Design and Analysis of Algorithms, Mobile and Wireless Systems, Enterprise Resource Planning, Compiler Design, Object Oriented Analysis & Design, , Artificial Intelligence, Data Mining and Warehousing, Professional and Social Issues in IT, Linux/UNIX Administration.</p><br>
+                    <p><strong>Advanced skill based Subjects:</strong> Machine Learning, Artificial Intelligence, Data Analytics using R, Cloud Computing, Internet & Web Technology etc.</p><br>
+                    <p><strong>Interdisciplinary subjects:</strong> Communication Skills and Report Writing, Accounting and Financial Systems, Organization and Management Concepts etc.</p>
+
+                    <h2>Under Graduate Level</h2><hr>
+                    <p><strong>Core subjects:</strong> Fundamentals of Programming and Problem Solving through C, Basic Electricals and Electronics, Electronic Circuits, Operating System Basics & PC Packages Object Oriented Programming through C++, Digital Electronics, Data Structure and Algorithms, System Analysis & Design, Data and Computer Communication, Introduction to DBMS (SQL& PLSQL), Computer Organization and Hardware Maintenance, Microprocessor and Assembly Language programming, Database Programming using VB, JAVA Programming</p><br>
+                    <p><strong>Interdisciplinary subjects:</strong> Mathematics, Physics, English language and Composition, Financial Accounting, Principles and Practice of Management, Statistics & Probability, Environmental Awareness etc.</p>
+                    <h2>MBA (CM) Specialization</h2><hr>
+                    <p> Computer Organization & Assembly Language Programming, Programming and Problem-Solving Using C, Operating Systems, Management Information, Database Management System, Software Engineering, Mathematical Foundation of Computer Science, IT Infrastructure Management, Cloud Computing, Web Technology and E-Commerce, Introduction to Enterprise Resource Planning, Object Oriented Programming using JAVA, Web Technology and Programming etc.</p>
+                    <h2>M. Tech. Programme</h2><hr>
+                    <p><strong>Computer Science Specialization:</strong> Advanced Computer Architecture, Internet Programming Using Java, Advanced Operating Systems, Data Mining and Warehousing, Advanced Algorithm Design, Advanced Database Management Systems, Advanced Compiler Design, Cloud Computing, Soft Computing, Data Science, Internet of Things etc.</p><br>
+                    <p><strong>Network Management Specialization:</strong> Network Management, Internet Programming Using Java, Advanced Operating Systems, Information Security, Advanced Computer Network etc.</p><br>
+                    <p><strong>Software Engineering Specialization:</strong> Information Architecture, Advanced Software Engineering, Information System Design, Internet Programming Using Java etc.</p><br>
+                    <p>Other than the subjects mentioned above, our students attend various workshops for enhancing skills. Extra workshops offered at department include AWS cloud, Blockchain, Machine Learning, IoT etc.</p>
                     <p>For detailed syllabus of every programme, please visit:
-                        http://www.scs.dauniv.ac.in/StudentKit.php</p>
+                    <a class="content-link" href="http://www.scs.dauniv.ac.in/Syllabus.php"> http://www.scs.dauniv.ac.in/Syllabus.php</a>
+                    </p>
                 </div>
 
                 <div class="sidebar content-right">

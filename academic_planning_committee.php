@@ -52,15 +52,15 @@
                             <tr>
                                 <td>Dr. Sanjay Tanwani (Chairperson) </td>
                                 <td>sanjay_tanwani@hotmail.com</td>
-                                <td>98266 23640</td>
+                                <td>9826623640</td>
                             </tr>
                             <tr>
                                 <td>Dr. Preeti Saxena </td>
                                 <td>psaxena.scs@dauniv.ac.in</td>
-                                <td>98270 71501</td>
+                                <td>9827071501</td>
                             </tr>
                             <tr>
-                                <td>Ms. Chaitali Uikey </td>
+                                <td>Dr. Chaitali Uikey </td>
                                 <td>chaitneel@gmail.com</td>
                                 <td>9406853401</td>
                             </tr>

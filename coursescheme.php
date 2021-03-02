@@ -16,24 +16,26 @@
 
     <style>
         .collapsible {
-          background-color: #777;
-          color: white;
+          background-color: #efebeb;
+          color:#1b1b1b;
           cursor: pointer;
           padding: 18px;
           width: 100%;
           border: none;
           text-align: left;
           outline: none;
-          font-size: 15px;
+          font-size: 18px;
+          box-shadow: 5px 5px 20px #a29fa0
         }
 
         .active, .collapsible:hover {
-          background-color: #555;
+            background-color: #134486;
+          color: #ffffff;
         }
 
         .collapsible:after {
           content: '\002B';
-          color: white;
+          color: #1b1b1b;
           font-weight: bold;
           float: right;
           margin-left: 5px;
@@ -86,16 +88,16 @@
                         <div class="all-news">
 
                             <!-- NEWS ITEMS ADD -->
-                            <a href="assets/pdf/Course-Scheme-New-September-2020.pdf">
+                            <a href="assets/pdf/Course-Scheme-Feb-2021.pdf">
                                 <div class="news-card">
-                                    <h1>Scheme July-Dec 2020 (Odd Semester)</h1>
+                                    <h1>Scheme Jan-May 2021 (Even Semester)</h1>
                                 </div>
                             </a>
 
                             <!-- NEWS ITEMS ADD -->
-                            <a href="javascript:void(0)">
+                            <a href="assets/pdf/Course-Scheme-New-September-2020.pdf">
                                 <div class="news-card">
-                                    <h1>Scheme Jan-May 2021 (Even Semester)</h1>
+                                    <h1>Scheme July-Dec 2020 (Odd Semester)</h1>
                                 </div>
                             </a>
                         </div>

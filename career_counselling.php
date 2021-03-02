@@ -62,9 +62,11 @@
                     <h5>Dr. Sanjay Tanwani</h5>
                     <h5>Professor & Head</h5>
                     <h5>
-                        School of Computer Science, Devi Ahilya Vishwavidyalaya, Takshashila Campus,
-                        Khandwa Road Indore, 452001
-                    </h5>
+                        School of Computer Science, Devi Ahilya Vishwavidyalaya, </h5>
+
+                        <h5>
+                           Takshashila Campus, Khandwa Road Indore, 452001
+                     </h5>
 
                 </div>
 
