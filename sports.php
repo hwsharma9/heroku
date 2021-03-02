@@ -40,14 +40,59 @@
                         Students have participated in State, Regional and National in various sports. They have
                         exhibited high level of performance and have won awards at all levels.
                     </p>
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" />
-
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation2.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation3.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Plantation4.JPG" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                    </div>
                 </div>
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+
+                            <a href="./wificampus.php">
+                                <li><span>🔗</span> Wifi Campus</li>
+                            </a>
+                            <a href="./nss.php">
+                                <li><span>🔗</span> NSS</li>
+                            </a>
+                            <a href="./learnbyearnscheme.php">
+                                <li><span>🔗</span> Learn by Earn Scheme</li>
+                            </a>
+                            <a href="./remedialclasses.php">
+                                <li><span>🔗</span>Remedial Classes </li>
+                            </a>
+                            <a href="./languagelab.php">
+                                <li><span>🔗</span>Language Lab </li>
+                            </a>
+                            <a href="./swachhbharatabhiyan.php">
+                                <li><span>🔗</span> Swachh Bharat Abhiyan</li>
+                            </a>
+                            <a href="./samarpan.php">
+                                <li><span>🔗</span>SAMARPAN </li>
+                            </a>
+                            <a href="./bloodbonation.php">
+                                <li><span>🔗</span>Blood Donation Camp </li>
+                            </a>
+                            <a href="./treeplantation.php">
+                                <li><span>🔗</span> Tree Plantation</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

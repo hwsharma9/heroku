@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -45,7 +46,8 @@
                                     <li>Database design</li><br />
                                     <li>Software testing</li><br />
                                     <li>IT Infrastructure planning</li><br />
-                                    <li>Faculty requirement and manpower planning for computer science education section</li><br />
+                                    <li>Faculty requirement and manpower planning for computer science education section
+                                    </li><br />
                                 </ul>
                             </td>
                             <td>sanjay_tanwani@hotmail.com</td>
@@ -78,7 +80,8 @@
                             <td>
                                 <ul style="margin-left: 10px;">
                                     <li>IT Solutions for NGO’s</li><br />
-                                    <li>Faculty requirement and manpower planning for computer science education section</li><br />
+                                    <li>Faculty requirement and manpower planning for computer science education section
+                                    </li><br />
                                     <li>IT infrastructure planning</li><br />
                                     <li>Compiler design</li><br />
                                 </ul>
@@ -128,17 +131,26 @@
                     <div class="sidebar-content" id="sidebar">
 
                         <ul>
-                            <a href="./career_counselling.php">
-                                <li><span>🔗</span>Career Counseling</li>
+                            <a href="./why_recruit_us.php">
+                                <li><span>🔗</span>Why Recruit Us?</li>
                             </a>
                             <a href="./placement.php">
-                                <li><span>🔗</span>Placement</li>
+                                <li><span>🔗</span>Past Placements</li>
+                            </a>
+                            <!-- <a href="./consultancy.php">
+                                <li><span>🔗</span>Consultancy Services</li>
+                            </a> -->
+                            <a href="./career_counselling.php">
+                                <li><span>🔗</span>Career Counseling</li>
                             </a>
                             <a href="./placement_committee.php">
                                 <li><span>🔗</span>Placement Committee</li>
                             </a>
                             <a href="./abilityprofiler.php">
-                                <li><span>🔗</span>Ability Profiler</li>
+                                <li><span>🔗</span>Ablity Profiler</li>
+                            </a>
+                            <a href="./">
+                                <li><span>🔗</span>Contact Us for Recruitment / Internship</li>
                             </a>
                         </ul>
                         <!-- SIDEBAR LINKS START   -->

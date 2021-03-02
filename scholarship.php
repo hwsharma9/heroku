@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -178,6 +179,30 @@
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
                         <div>
+
+                            <ul>
+                                <a href="./syllabus.php">
+                                    <li><span>🔗</span>Syllabus</li>
+                                </a>
+                                <a href="./Lab_Manual.php">
+                                    <li><span>🔗</span>Lab Manual</li>
+                                </a>
+                                <a href="./counsellor.php">
+                                    <li><span>🔗</span>Counsellor</li>
+                                </a>
+                                <!-- <a href="./scholarship.php">
+                                    <li><span>🔗</span>Scholarship</li>
+                                </a> -->
+                                <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG">
+                                    <li><span>🔗</span>Online Lectures-Swayam</li>
+                                </a>
+                                <a href="./onlineskilltest.php">
+                                    <li><span>🔗</span>Online Skill Test</li>
+                                </a>
+                                <a href="./studentlife.php">
+                                    <li><span>🔗</span>Student Life</li>
+                                </a>
+                            </ul>
                             <!-- SIDEBAR LINKS START   -->
                             <?php include './includes/sidebarlinks.php';?>
                             <!-- SIDEBAR LINKS END -->

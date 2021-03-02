@@ -47,7 +47,7 @@
                             <table>
 
                                 <tr>
-                                    <td>
+                                    <td width="20%">
 
                                         <b>Name</b>
                                     </td>

@@ -24,6 +24,9 @@
   background-color: #555;
 }
 
+img {
+  object-fit: initial;
+}
 .font {
   /* color: #232323; */
   font-size: 14px;
@@ -1157,12 +1160,20 @@ body {
   margin: 115px 0;
 }
 .s-fac tr {
-  height: 45px;
+  height: 20px;
   padding: 10px 0;
 }
 .s-fac td {
   padding-right: 20px;
   height: 30px;
+  vertical-align: top;
+}
+.s-fac ul {
+  margin-bottom: 20px;
+}
+.s-fac table {
+  border-collapse: separate;
+  border-spacing: 0 1em;
 }
 
 .s-fac ul li {
@@ -1224,6 +1235,9 @@ body {
   width: 20%;
   height: fit-content;
 }
+.cell img {
+  object-fit: initial !important;
+}
 
 @media (max-width: 900px) {
   .responsive-flex {
@@ -1235,6 +1249,31 @@ body {
   .width-small {
     width: 100%;
   }
+}
+
+/****************************************************************
+ *************** STUDENT LIFE IAMGES  *******************************/
+.sl-img-col {
+  float: left;
+  width: 49.99%;
+  padding: 3px;
+}
+@media (max-width: 900px) {
+  .sl-img-col {
+    float: left;
+    width: 99.99%;
+    padding: 3px;
+  }
+}
+.sl-img-col img {
+  object-fit: initial;
+}
+
+/* Clearfix (clear floats) */
+.sl-image::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 /****************************************************************

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -82,11 +83,15 @@
                     <br>
                     <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
                     <div class="content">
-                        
+
                         <ul style="margin-left: 20px;">
-                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf"><li class="content-link">BCA I Semester</li></a>
+                            <a href="assets/pdf/Syllabus BCA 1st Semester.pdf">
+                                <li class="content-link">BCA I Semester</li>
+                            </a>
                             <!-- <a href="assets/pdf/"><li class="content-link">BCA I July Section B 2019</li></a> -->
-                            <a href="javascript::void(0)"><li class="content-link">BCA II Semester</li></a>
+                            <a href="javascript::void(0)">
+                                <li class="content-link">BCA II Semester</li>
+                            </a>
                             <!-- <a href="javascript::void(0)"><li class="content-link">BCA Batch B II Semester</li></a> -->
                             <a href="assets/pdf/Syllabus BCA 3rd Semester.pdf"><li class="content-link">BCA III Semester</li></a>
                             <a href="javascript::void(0)"><li class="content-link">BCA IV Semester</li></a>
@@ -97,7 +102,7 @@
              <br>
                     <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
                     <div class="content">
-                        
+
                         <ul style="margin-left: 20px;">
                             <a href="assets/pdf/Syllabus MCA 1st Semester.pdf"><li class="content-link">MCA I Semester</li></a>
                             <a href=""><li class="content-link">MCA II Semester</li></a>
@@ -171,6 +176,30 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <!-- <a href="./syllabus.php">
+        <li><span>🔗</span>Syllabus</li>
+    </a> -->
+                            <a href="./Lab_Manual.php">
+                                <li><span>🔗</span>Lab Manual</li>
+                            </a>
+                            <a href="./counsellor.php">
+                                <li><span>🔗</span>Counsellor</li>
+                            </a>
+                            <a href="./scholarship.php">
+                                <li><span>🔗</span>Scholarship</li>
+                            </a>
+                            <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG">
+                                <li><span>🔗</span>Online Lectures-Swayam</li>
+                            </a>
+                            <a href="./onlineskilltest.php">
+                                <li><span>🔗</span>Online Skill Test</li>
+                            </a>
+                            <a href="./studentlife.php">
+                                <li><span>🔗</span>Student Life</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->
@@ -217,20 +246,20 @@
     });
     </script>
     <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
 
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.maxHeight){
-                    content.style.maxHeight = null;
-                } else {
-                    content.style.maxHeight = content.scrollHeight + "px";
-                } 
-            });
-        }
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            } else {
+                content.style.maxHeight = content.scrollHeight + "px";
+            }
+        });
+    }
     </script>
 </body>
 

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -19,6 +20,8 @@
 .content-left img {
     min-height: auto;
     height: 200px;
+    width: 250px;
+    object-fit: initial;
 }
 </style>
 
@@ -43,7 +46,8 @@
                     <div class="books-items">
                         <div class="item" style="display:flex; flex-direction: row;">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/ResearchFellowship/Mr. Devesh K. Lal.jpg" alt="Avatar" />
+                                <img loading="lazy" src="./images/ResearchFellowship/Mr. Devesh K. Lal.jpg"
+                                    alt="Avatar" />
                                 <p>Mr. Devesh K. Lal</p>
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">
@@ -56,7 +60,8 @@
                         </div>
                         <div class="item" style="display:flex; flex-direction: row;">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/ResearchFellowship/Mr. Jitendra Gora.jpg" alt="Avatar" />
+                                <img loading="lazy" src="./images/ResearchFellowship/Mr. Jitendra Gora.jpg"
+                                    alt="Avatar" />
                                 <p>Mr. Jitendra Gora (JRF)</p>
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">

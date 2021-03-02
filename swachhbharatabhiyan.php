@@ -32,13 +32,53 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Swachh Bharat Abhiyan</h1>
-                    <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Wifi campus page.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/wifi campus page 2.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                    </div>
+                    <!-- <img src="https://unsplash.it/200/200" alt="CAMPUS" loading="lazy" />
                     <img src="https://unsplash.it/500/300" alt="CAMPUS" loading="lazy" />
-                    <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" />
+                    <img src="https://unsplash.it/300/200" alt="CAMPUS" loading="lazy" /> -->
                 </div>
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+
+                            <a href="./wificampus.php">
+                                <li><span>🔗</span> Wifi Campus</li>
+                            </a>
+                            <a href="./nss.php">
+                                <li><span>🔗</span> NSS</li>
+                            </a>
+                            <a href="./learnbyearnscheme.php">
+                                <li><span>🔗</span> Learn by Earn Scheme</li>
+                            </a>
+                            <a href="./remedialclasses.php">
+                                <li><span>🔗</span>Remedial Classes </li>
+                            </a>
+                            <a href="./languagelab.php">
+                                <li><span>🔗</span>Language Lab </li>
+                            </a>
+
+                            <a href="./samarpan.php">
+                                <li><span>🔗</span>SAMARPAN </li>
+                            </a>
+                            <a href="./bloodbonation.php">
+                                <li><span>🔗</span>Blood Donation Camp </li>
+                            </a>
+                            <a href="./treeplantation.php">
+                                <li><span>🔗</span> Tree Plantation</li>
+                            </a>
+                            <a href="./sports.php">
+                                <li><span>🔗</span> Sports</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

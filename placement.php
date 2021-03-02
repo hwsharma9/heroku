@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -14,7 +15,6 @@
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
     <style type="text/css">
-
         .tabs-nav ul {
           margin: 0;
           padding: 0;
@@ -101,7 +101,9 @@
                                 <h2>PLACED STUDENTS: 2021</h2>
                                 <table id="table">
                                     <tr>
-                                        <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                        <th>NAME</th>
+                                        <th>COURSE</th>
+                                        <th>COMPANY NAME</th>
                                     </tr>
                                     <tr>
                                         <td>HITESH BAIRAGI</td>
@@ -276,30 +278,32 @@
                                 <h2>PLACED STUDENTS: 2020</h2>
                                 <table id="table">
                                     <tr>
-                                        <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                        <th>NAME</th>
+                                        <th>COURSE</th>
+                                        <th>COMPANY NAME</th>
                                     </tr>
                                     <tr>
-                                        <td>Aditi Varshney</td> 
+                                        <td>Aditi Varshney</td>
                                         <td>M.Tech</td>
                                         <td>VMWARE</td>
                                     </tr>
                                     <tr>
-                                        <td>Abhishek Tiwari</td> 
+                                        <td>Abhishek Tiwari</td>
                                         <td>MCA VYAPAM</td>
                                         <td>FICO</td>
                                     </tr>
                                     <tr>
-                                        <td>Shrashti Ajmera</td> 
+                                        <td>Shrashti Ajmera</td>
                                         <td>MCA VYAPAM</td>
                                         <td>FICO</td>
                                     </tr>
                                     <tr>
-                                        <td>Amrata Pathak</td> 
+                                        <td>Amrata Pathak</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Gammastack</td>
                                     </tr>
                                     <tr>
-                                        <td>Nimish Gupta</td> 
+                                        <td>Nimish Gupta</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Gammastack</td>
                                     </tr>
@@ -309,107 +313,107 @@
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Lichi Mahajan</td> 
+                                        <td>Lichi Mahajan</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Neha Sharma</td> 
+                                        <td>Neha Sharma</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Nilesh Sharma</td> 
+                                        <td>Nilesh Sharma</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Nimish Gupta</td> 
+                                        <td>Nimish Gupta</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Piyush Ludhiyani</td> 
+                                        <td>Piyush Ludhiyani</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Priyal Jain</td> 
+                                        <td>Priyal Jain</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Accenture</td>
                                     </tr>
                                     <tr>
-                                        <td>Sunaina Ranglani</td> 
+                                        <td>Sunaina Ranglani</td>
                                         <td>MCA Integrated</td>
                                         <td>Cognam</td>
                                     </tr>
                                     <tr>
-                                        <td>Anushka Garg</td> 
+                                        <td>Anushka Garg</td>
                                         <td>M.Tech</td>
                                         <td>Cognizant</td>
                                     </tr>
                                     <tr>
-                                        <td>Ranu Yadav</td> 
+                                        <td>Ranu Yadav</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Daffodils</td>
                                     </tr>
                                     <tr>
-                                        <td>Harsha Ubnare</td> 
+                                        <td>Harsha Ubnare</td>
                                         <td>MCA Lateral</td>
                                         <td>Diaspark</td>
                                     </tr>
                                     <tr>
-                                        <td>Lalit Prasad</td> 
+                                        <td>Lalit Prasad</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Diaspark</td>
                                     </tr>
                                     <tr>
-                                        <td>Namrata Jain</td> 
+                                        <td>Namrata Jain</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Diaspark</td>
                                     </tr>
                                     <tr>
-                                        <td>Archita Mishra</td> 
+                                        <td>Archita Mishra</td>
                                         <td>M.Tech</td>
                                         <td>Diaspark</td>
                                     </tr>
                                     <tr>
-                                        <td>Aayushi Jatav</td> 
+                                        <td>Aayushi Jatav</td>
                                         <td>MCA Lateral</td>
                                         <td>Infosys</td>
                                     </tr>
                                     <tr>
-                                        <td>Anushka Garg</td> 
+                                        <td>Anushka Garg</td>
                                         <td>M.Tech</td>
                                         <td>Infosys</td>
                                     </tr>
                                     <tr>
-                                        <td>Kunal Sanjay Bagdare</td> 
+                                        <td>Kunal Sanjay Bagdare</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Infosys</td>
                                     </tr>
                                     <tr>
-                                        <td>Piyush Ludhiyani</td> 
+                                        <td>Piyush Ludhiyani</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Infosys</td>
                                     </tr>
                                     <tr>
-                                        <td>Pragati Nayak</td> 
+                                        <td>Pragati Nayak</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Infosys</td>
                                     </tr>
                                     <tr>
-                                        <td>Sagar Srivastava</td> 
+                                        <td>Sagar Srivastava</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Infosys</td>
                                     </tr>
                                     <tr>
-                                        <td>Lucky Gupta</td> 
+                                        <td>Lucky Gupta</td>
                                         <td>MCA VYAPAM</td>
                                         <td>TCS</td>
                                     </tr>
                                     <tr>
-                                        <td>Mansi Patodi</td> 
+                                        <td>Mansi Patodi</td>
                                         <td>MCA Lateral</td>
                                         <td>TCS</td>
                                     </tr>
@@ -419,42 +423,42 @@
                                         <td>TCS</td>
                                     </tr>
                                     <tr>
-                                        <td>Priyal Kumawat</td> 
+                                        <td>Priyal Kumawat</td>
                                         <td>MCA VYAPAM</td>
                                         <td>TCS</td>
                                     </tr>
                                     <tr>
-                                        <td>Saurabh Keshari</td> 
+                                        <td>Saurabh Keshari</td>
                                         <td>M.Tech</td>
                                         <td>TCS</td>
                                     </tr>
                                     <tr>
-                                        <td>Anirudha Tiwari</td> 
+                                        <td>Anirudha Tiwari</td>
                                         <td>MCA Lateral</td>
                                         <td>TCS</td>
                                     </tr>
                                     <tr>
-                                        <td>Aayushi Jatav</td> 
+                                        <td>Aayushi Jatav</td>
                                         <td>MCA Lateral</td>
                                         <td>TCS</td>
                                     </tr>
                                     <tr>
-                                        <td>Nitish Puranik</td> 
+                                        <td>Nitish Puranik</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Hexaware</td>
                                     </tr>
                                     <tr>
-                                        <td>Priyanka Jaiswal</td> 
+                                        <td>Priyanka Jaiswal</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Impetus</td>
                                     </tr>
                                     <tr>
-                                        <td>Shiavni Sen</td> 
+                                        <td>Shiavni Sen</td>
                                         <td>MCA VYAPAM</td>
                                         <td>Impetus</td>
                                     </tr>
                                     <tr>
-                                        <td>Vaidehi Borkar</td> 
+                                        <td>Vaidehi Borkar</td>
                                         <td>M.Tech.</td>
                                         <td>Impetus</td>
                                     </tr>
@@ -464,278 +468,280 @@
                                 <h2>PLACED STUDENTS: 2019</h2>
                                 <table id="table">
                                     <tr>
-                                        <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                        <th>NAME</th>
+                                        <th>COURSE</th>
+                                        <th>COMPANY NAME</th>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Nisha Soni 
+                                            Nisha Soni
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Evive 
+                                            Evive
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Jayshri Yadav 
+                                            Jayshri Yadav
                                         </td>
                                         <td>
                                             MCA INTEGRATED
                                         </td>
                                         <td>
-                                            BestPeers 
+                                            BestPeers
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Ankita Chouhan 
+                                            Ankita Chouhan
                                         </td>
                                         <td>
                                             MCA INTEGRATED
                                         </td>
                                         <td>
-                                            Gateway Group 
+                                            Gateway Group
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Garvit joshi 
+                                            Garvit joshi
                                         </td>
                                         <td>
                                             MCA INTEGRATED
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Eshu Rajawat 
+                                            Eshu Rajawat
                                         </td>
                                         <td>
                                             MCA LATERAL
                                         </td>
                                         <td>
-                                            Infosys 
+                                            Infosys
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Saloni Saxena 
+                                            Saloni Saxena
                                         </td>
                                         <td>
                                             MCA LATERAL
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            ANJALI AHUJA 
+                                            ANJALI AHUJA
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Infosys 
+                                            Infosys
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            GOUTAM GUPTA 
+                                            GOUTAM GUPTA
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Gunjan Sharma 
+                                            Gunjan Sharma
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Harbinger 
+                                            Harbinger
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Harshita Ostwal 
+                                            Harshita Ostwal
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Kartik Joshi 
+                                            Kartik Joshi
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            kartikay kumar 
+                                            kartikay kumar
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            panday Cognam 
+                                            panday Cognam
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            RAJAT GUPTA 
+                                            RAJAT GUPTA
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            SRS Value tech 
+                                            SRS Value tech
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Raksha Jeurkar 
+                                            Raksha Jeurkar
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Samar sharma 
+                                            Samar sharma
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            sandeep yadav 
+                                            sandeep yadav
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            SRS Value tech 
+                                            SRS Value tech
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Shubham vishwakarma 
+                                            Shubham vishwakarma
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            UDIT SINGH SOLANKI 
+                                            UDIT SINGH SOLANKI
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Parul Derashri 
+                                            Parul Derashri
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Accenture 
+                                            Accenture
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Suverna Ghate 
+                                            Suverna Ghate
                                         </td>
                                         <td>
                                             MCA Vyapam
                                         </td>
                                         <td>
-                                            Techracers 
+                                            Techracers
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Shubhangi wadekar 
+                                            Shubhangi wadekar
                                         </td>
                                         <td>
                                             MSc CS
                                         </td>
                                         <td>
-                                            Harbinger 
+                                            Harbinger
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Payal Jain 
+                                            Payal Jain
                                         </td>
                                         <td>
                                             MCA
                                         </td>
                                         <td>
-                                            Divergent Software Solution 
+                                            Divergent Software Solution
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Zeba Ansari 
+                                            Zeba Ansari
                                         </td>
                                         <td>
                                             MCA
                                         </td>
                                         <td>
-                                            Divergent Software Solution 
+                                            Divergent Software Solution
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Umesh Mewari 
+                                            Umesh Mewari
                                         </td>
                                         <td>
                                             MCA
                                         </td>
                                         <td>
-                                            Divergent Software Solution 
+                                            Divergent Software Solution
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>
-                                            Anshika Jain 
+                                            Anshika Jain
                                         </td>
                                         <td>
-                                            Mango IT 
+                                            Mango IT
                                         </td>
                                         <td>
                                             M. Tech.
@@ -748,7 +754,9 @@
                                 <h2>PLACED STUDENTS: 2018</h2>
                                 <table id="table">
                                     <tr>
-                                        <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                        <th>NAME</th>
+                                        <th>COURSE</th>
+                                        <th>COMPANY NAME</th>
                                     </tr>
                                     <tr>
                                         <td>Megha Sawaliya </td>
@@ -978,7 +986,9 @@
                                 <h2>PLACED STUDENTS: 2017</h2>
                                 <table id="table">
                                     <tr>
-                                        <th>NAME</th> <th>COURSE</th> <th>COMPANY NAME</th>
+                                        <th>NAME</th>
+                                        <th>COURSE</th>
+                                        <th>COMPANY NAME</th>
                                     </tr>
                                     <tr>
                                         <td>Meghavi Naik </td>
@@ -1162,18 +1172,28 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
                         <ul>
+                            <a href="./why_recruit_us.php">
+                                <li><span>🔗</span>Why Recruit Us?</li>
+                            </a>
+                            <!-- <a href="./placement.php">
+                                <li><span>🔗</span>Past Placements</li>
+                            </a> -->
                             <a href="./consultancy.php">
                                 <li><span>🔗</span>Consultancy Services</li>
                             </a>
                             <a href="./career_counselling.php">
                                 <li><span>🔗</span>Career Counseling</li>
                             </a>
+                            <a href="./placement_committee.php">
+                                <li><span>🔗</span>Placement Committee</li>
+                            </a>
                             <a href="./abilityprofiler.php">
                                 <li><span>🔗</span>Ablity Profiler</li>
                             </a>
-                            <a href="./abilityprofiler.php">
-                                <li><span>🔗</span>Placement Committee</li>
+                            <a href="./">
+                                <li><span>🔗</span>Contact Us for Recruitment / Internship</li>
                             </a>
                         </ul>
 
@@ -1193,7 +1213,7 @@
 
     </div>
 
-<script type="text/javascript">
+    <script type="text/javascript">
     $(function() {
         $('.tabs-nav a').click(function() {
 
@@ -1209,7 +1229,7 @@
             return false;
         });
     });
-</script>
+    </script>
 </body>
 
 </html>

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -58,6 +59,38 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+
+                            <a href="./wificampus.php">
+                                <li><span>🔗</span> Wifi Campus</li>
+                            </a>
+                            <a href="./nss.php">
+                                <li><span>🔗</span> NSS</li>
+                            </a>
+                            <a href="./learnbyearnscheme.php">
+                                <li><span>🔗</span> Learn by Earn Scheme</li>
+                            </a>
+
+                            <a href="./languagelab.php">
+                                <li><span>🔗</span>Language Lab </li>
+                            </a>
+                            <a href="./swachhbharatabhiyan.php">
+                                <li><span>🔗</span> Swachh Bharat Abhiyan</li>
+                            </a>
+                            <a href="./samarpan.php">
+                                <li><span>🔗</span>SAMARPAN </li>
+                            </a>
+                            <a href="./bloodbonation.php">
+                                <li><span>🔗</span>Blood Donation Camp </li>
+                            </a>
+                            <a href="./treeplantation.php">
+                                <li><span>🔗</span> Tree Plantation</li>
+                            </a>
+                            <a href="./sports.php">
+                                <li><span>🔗</span> Sports</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

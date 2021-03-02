@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -30,9 +31,28 @@
                 <div class="content-left  padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Why Recruit Us?</h1>
-                    <p>Warm greetings on behalf of School of Computer Science & IT, Devi Ahilya University, Indore. Our School was established in 1986 and since then it has endeavored into promoting technical education and research in the important and fast growing branches of Computer Science and Information Technology. We are an autonomous department under Devi Ahilya Vishwavidyalaya with its goal to produce computer science specialists who can meet the global challenges. The School has highly experienced faculty members, modern laboratories, building infrastructure equipped with ICT and library. Vision of our department is to achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals with capabilities of accepting new challenges.</p><br>
-                    <p>School of Computer Science & IT, DAVV aims to produce world-class professionals who have excellent analytical skills, communication skills, team building spirit and ability to work in cross cultural environment. We produce quality IT professionals, who can independently design, develop and implement computer applications.</p><br>
-                    <p>Since inception, School of Computer Science & IT followed best academic practices. Students are groomed up not only in the theoretical foundation of the subject but are required to learn through practical training. We regularly organize skill development courses, workshops and seminars that help to make students industry ready. Internship and minor/ major projects are compulsory component of every programme. We focus on developing problem solving skills in students. We also encourage our students to follow social norms and IT ethics. Our Alumina are presently serving in top companies of the world. Presently we are running one undergraduate and five post graduate programmes. We also have Ph.D Programme and many scholars are presently registered under faculty of Computer Science.</p><br>
+                    <p>Warm greetings on behalf of School of Computer Science & IT, Devi Ahilya University, Indore. Our
+                        School was established in 1986 and since then it has endeavored into promoting technical
+                        education and research in the important and fast growing branches of Computer Science and
+                        Information Technology. We are an autonomous department under Devi Ahilya Vishwavidyalaya with
+                        its goal to produce computer science specialists who can meet the global challenges. The School
+                        has highly experienced faculty members, modern laboratories, building infrastructure equipped
+                        with ICT and library. Vision of our department is to achieve excellent standards of quality
+                        education by keeping pace with rapidly changing technologies & create computer professionals
+                        with capabilities of accepting new challenges.</p><br>
+                    <p>School of Computer Science & IT, DAVV aims to produce world-class professionals who have
+                        excellent analytical skills, communication skills, team building spirit and ability to work in
+                        cross cultural environment. We produce quality IT professionals, who can independently design,
+                        develop and implement computer applications.</p><br>
+                    <p>Since inception, School of Computer Science & IT followed best academic practices. Students are
+                        groomed up not only in the theoretical foundation of the subject but are required to learn
+                        through practical training. We regularly organize skill development courses, workshops and
+                        seminars that help to make students industry ready. Internship and minor/ major projects are
+                        compulsory component of every programme. We focus on developing problem solving skills in
+                        students. We also encourage our students to follow social norms and IT ethics. Our Alumina are
+                        presently serving in top companies of the world. Presently we are running one undergraduate and
+                        five post graduate programmes. We also have Ph.D Programme and many scholars are presently
+                        registered under faculty of Computer Science.</p><br>
 
                     <table id="table">
                         <tr>
@@ -109,20 +129,29 @@
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
 
-                        <!-- <ul>
-                            <a href="./">
-                                <li><span>🔗</span>Pas Placements</li>
+                        <ul>
+                            <!-- <a href="./why_recruit_us.php">
+                                <li><span>🔗</span>Why Recruit Us?</li>
+                            </a> -->
+                            <a href="./placement.php">
+                                <li><span>🔗</span>Past Placements</li>
                             </a>
-                            <a href="./">
-                                <li><span>🔗</span>Placement Committee</li>
-                            </a>
-                            <a href="./">
-                                <li><span>🔗</span>Career Counseling</li>
-                            </a>
-                            <a href="./">
+                            <a href="./consultancy.php">
                                 <li><span>🔗</span>Consultancy Services</li>
                             </a>
-                        </ul> -->
+                            <a href="./career_counselling.php">
+                                <li><span>🔗</span>Career Counseling</li>
+                            </a>
+                            <a href="./placement_committee.php">
+                                <li><span>🔗</span>Placement Committee</li>
+                            </a>
+                            <a href="./abilityprofiler.php">
+                                <li><span>🔗</span>Ablity Profiler</li>
+                            </a>
+                            <a href="./">
+                                <li><span>🔗</span>Contact Us for Recruitment / Internship</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->
