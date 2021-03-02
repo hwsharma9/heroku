@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
@@ -18,12 +19,12 @@
         <link rel="stylesheet" href="./css/style.css">
     </noscript> -->
     <style type="text/css">
-        .owl-stage-outer {
-            margin-right: 40px;
-            margin-top: 15px;
-            border: 1px solid;
-            box-shadow: 2px 2px 10px 2px;
-        }
+    .owl-stage-outer {
+        margin-right: 40px;
+        margin-top: 15px;
+        border: 1px solid;
+        box-shadow: 2px 2px 10px 2px;
+    }
     </style>
 
 </head>
@@ -97,7 +98,8 @@
                 <div class="news-feed">
                     <div class="news-wrapper">
                         <h2>Latest @Scsit</h2>
-                        <marquee direction="up" class="news-card-container">
+                        <marquee direction="up" class="news-card-container" onMouseOver="this.stop()"
+                            onMouseOut="this.start()">
                             <!-- NEWS START   -->
                             <?php include './includes/news.php';?>
                             <!-- NEWS END -->
