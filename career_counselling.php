@@ -71,17 +71,26 @@
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
                         <ul>
+                            <a href="./why_recruit_us.php">
+                                <li><span>🔗</span>Why Recruit Us?</li>
+                            </a>
+                            <a href="./placement.php">
+                                <li><span>🔗</span>Past Placements</li>
+                            </a>
                             <a href="./consultancy.php">
                                 <li><span>🔗</span>Consultancy Services</li>
                             </a>
-                            <a href="./placement.php">
-                                <li><span>🔗</span>Placement</li>
-                            </a>
+                            <!-- <a href="./career_counselling.php">
+                                <li><span>🔗</span>Career Counseling</li>
+                            </a> -->
                             <a href="./placement_committee.php">
                                 <li><span>🔗</span>Placement Committee</li>
                             </a>
                             <a href="./abilityprofiler.php">
-                                <li><span>🔗</span>Ability Profiler</li>
+                                <li><span>🔗</span>Ablity Profiler</li>
+                            </a>
+                            <a href="./">
+                                <li><span>🔗</span>Contact Us for Recruitment / Internship</li>
                             </a>
                         </ul>
 
