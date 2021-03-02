@@ -37,7 +37,7 @@
                         The Assessment & Research committee is responsible for Feedback mechanism implementation,
                         Assessment methods implementation, CQI process, organizing Seminars/ Conferences.
                     </p>
-                    <hr />
+                    <br>
                     <div style="overflow-x:auto;">
 
                         <table id="table">
@@ -62,11 +62,7 @@
                                 <td>98274 38976
                                 </td>
                             </tr>
-                            <tr>
-                                <td>Mr. Shantilal Dawar </td>
-                                <td>sldawar@gmail.com </td>
-                                <td>9926120443</td>
-                            </tr>
+                            
                         </table>
                     </div>
 

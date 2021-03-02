@@ -1,5 +1,5 @@
 <div class="slider placement">
-    <h1>Placement 2021</h1>
+    <h1>Placement-2021</h1>
     <div id="placement-slider" class="owl-carousel owl-theme">
         <?php 
             $dir = './assets/placements/2021';

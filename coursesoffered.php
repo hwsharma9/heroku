@@ -17,24 +17,26 @@
     <style type="text/css">
         
         .collapsible {
-          background-color: #777;
-          color: white;
+          background-color: #efebeb;
+          color: #1b1b1b;
           cursor: pointer;
           padding: 18px;
           width: 100%;
           border: none;
           text-align: left;
           outline: none;
-          font-size: 15px;
+          font-size: 18px;
+          box-shadow: 5px 5px 20px #a29fa0
         }
 
         .active, .collapsible:hover {
-          background-color: #555;
+          background-color: #134486;
+          color: #ffffff;
         }
 
         .collapsible:after {
           content: '\002B';
-          color: white;
+          color: #1b1b1b;
           font-weight: bold;
           float: right;
           margin-left: 5px;
@@ -69,11 +71,12 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Courses Offered</h1>
+                    <br>
                     <img src="./images/Pics/Courses offered and front.jpg" alt="Courses offered and front.jpg" style="max-height: 500px;">
 
                     <button type="button" class="collapsible">Bachelor of Computer Application (BCA)</button>
                     <div class="content"><br>
-                        <p>B.C.A [3 Yr.]/ B.C.A(Hons.) [4 Yr.]</p>
+                        <h2>B.C.A [3 Yrs.]/ B.C.A(Hons.) [4 Yrs.]</h2>
 
                         <h2>Eligibility :</h2>
                         <p>12th with 50% marks and Mathematics as one of the compulsory subject</p>
@@ -100,14 +103,19 @@
                         </ul><br>
                     </div>
 
-
+                <br>
                     <button type="button" class="collapsible">Master of Computer Application (MCA)</button>
                     <div class="content"><br>
-                        <p>Master of Computer Application [M.C.A](2 yr.)<br>
-                            [Admission performed through Vyapam, Bhopal (M.P.)]</p>
+                        <h2>Master of Computer Application [MCA](2 Yrs.)</h2>
+
+                        <h2>Admission performed through Vyapam, Bhopal (M.P.)</h2>
 
                         <h2>Eligibility :</h2>
-                        <p>To Know about eligibility</p>
+                        <p>To Know about eligibility 
+                        <a href="https://dte.mponline.gov.in/portal/services/onlinecounselling/counshomepage/home.aspx"> 
+                        Click here... 
+                        </a>
+                        </p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -143,13 +151,13 @@
                         </ul><br>
                     </div>
 
-
+                    <br>
                     <button type="button" class="collapsible">Master of Science M.Sc. (CS)</button>
                     <div class="content"><br>
-                        <p>M.Sc. CS [2 Yr.]</p>
+                        <h2>M.Sc. CS [2 Yrs.]</h2>
 
                         <h2>Eligibility :</h2>
-                        <p>B. C. A./B. Sc. (Hons)/ B. Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50 % marks and Mathematics as one of the compulsory subject.</p>
+                        <p>BCA/B.Sc. (Hons)/ B.Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50% marks and Mathematics as one of the compulsory subject.</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -180,14 +188,14 @@
                             software.</li> 
                         </ul><br>
                     </div>
-
+                    <br>
 
                     <button type="button" class="collapsible">Master of Science M.Sc. (IT)</button>
                     <div class="content"><br>
-                        <p>M.Sc. IT [2 Yr.]</p>
+                        <h2>M.Sc. IT [2 Yrs.]</h2>
 
                         <h2>Eligibility :</h2>
-                        <p>B. C. A./B. Sc. (Hons)/ B. Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50 % marks and Mathematics as one of the compulsory subject.</p>
+                        <p>BCA/B.Sc. (Hons)/ B.Sc. (Computer Science /Electronics/Physics/Information Technology/ Electronics and Tele-communication with 50% marks and Mathematics as one of the compulsory subject.</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -215,10 +223,10 @@
                         </ul><br>
                     </div>
 
-
+                    <br>
                     <button type="button" class="collapsible">Master of Business Administration (Computer Management)</button>
                     <div class="content"><br>
-                        <p>MBA (CM) [2 Yr.]</p>
+                        <h2>MBA (CM) [2 Yrs.]</h2>
 
                         <h2>Eligibility :</h2>
                         <p>Graduate in any discipline with 50% in aggregate.</p>
@@ -249,10 +257,10 @@
                         </ul><br>
                     </div>
 
-
+                    <br>
                     <button type="button" class="collapsible">Post Graduate Diploma in Computer Applications (PGDCA)</button>
                     <div class="content"><br>
-                        <p>Post Graduate Diploma in Computer Applications (PGDCA) - [1 yr.]</p>
+                        <h2>Post Graduate Diploma in Computer Applications (PGDCA) - [1 Yr.]</h2>
 
                         <h2>Eligibility :</h2>
                         <p>Graduate in any discipline with 50% in aggregate.</p>
@@ -277,10 +285,10 @@
                         </ul><br>
                     </div>
 
-
+                    <br>
                     <button type="button" class="collapsible">Master of Technology M.Tech. (CS)</button>
                     <div class="content"><br>
-                        <p>M.Tech(CS) Specialization in Computer Science [2 Yr.]</p>
+                        <h2>M.Tech(CS) [2 Yrs.]</h2>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -305,10 +313,10 @@
                         </ul><br>
                     </div>
 
-
-                    <button type="button" class="collapsible">Master of Technology M.Tech. (IA&SE)</button>
+                    <br>
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (IA & SE)</button>
                     <div class="content"><br>
-                        <p>M.Tech(SE) Information Architecture & Software Engineering [2 Yr.]</p>
+                        <h2>M.Tech(IA & SE) [2 Yrs.]</h2>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -331,12 +339,12 @@
                         </ul><br>
                     </div>
 
-
-                    <button type="button" class="collapsible">Master of Technology M.Tech. (NM&IS)</button>
+                    <br>
+                    <button type="button" class="collapsible">Master of Technology M.Tech. (NM & IS)</button>
                     <div class="content"><br>
-                        <p>
-                        M.Tech(NM) Network Management & Information Security [2 Yr.]
-                        </p>
+                        <h2>
+                        M.Tech(NM & IS) [2 Yrs.]
+                               </h2>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
@@ -348,7 +356,7 @@
                         </ul>
 
                         <h2>PROGRAMME SPECIFIC OUTCOMES (PSO’s)</h2>
-                        <p>At the end of this programme, M.Tech(NM&IS) student will be able to:</p>
+                        <p>At the end of this programme, M.Tech(NM & IS) student will be able to:</p>
                         <hr>
                         <ul style="margin-left: 20px;">
                             <li>Analyze network Engineering related problems, and solve issues related to Network Management and Information Security. </li>
@@ -359,11 +367,11 @@
                         </ul><br>
                     </div>
 
-
-                    <button type="button" class="collapsible">Ph.D (CS) programme in various research areas</button>
+                    <br>
+                    <button type="button" class="collapsible">Ph.D (Computer Science)</button>
                     <div class="content"><br>
-                        <!-- <p>Ph.D (Computer Science) programme in various research areas</p> -->
-
+                        <h2>Ph.D (Computer Science) programme in various research areas</h2>
+                        <br>
                         <p>Doctoral Entrance Test (DET) is conducted by the University Yearly / Half Yearly for admission in PhD programme.</p>
                     </div>
                 </div>

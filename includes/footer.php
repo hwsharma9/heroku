@@ -18,7 +18,7 @@
                            <h4>Professor & Head</h4>
                            <h4>School of Computer Science & IT</h4>
                        </div>
-                       <div style="margin-top: 20px; color: #232323;">
+                       <div style="margin-top: 20px;">
                            <p style="text-align: unset;">
                                Takshashila Campus, Khandwa Road Indore (M.P.) - 452001,
                                India

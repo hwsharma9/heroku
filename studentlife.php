@@ -50,7 +50,7 @@
                                 <div class="news-card"><h1>Wifi Campus</h1></div>
                             </a>
                             <a href="./nss.php">
-                                <div class="news-card"><h1>NSS</h1></div>
+                                <div class="news-card"><h1>National Service Scheme (NSS)</h1></div>
                             </a>
                             <a href="./learnbyearnscheme.php">
                                 <div class="news-card"><h1>Learn by Earn Scheme</h1></div>
@@ -61,9 +61,10 @@
                             <a href="./languagelab.php">
                                 <div class="news-card"><h1>Language Lab</h1></div>
                             </a>
-                            <a href="./swachhbharatabhiyan.php">
+                          <!--  <a href="./swachhbharatabhiyan.php">
                                 <div class="news-card"><h1>Swachh Bharat Abhiyan</h1></div>
                             </a>
+                            -->
                             <a href="./samarpan.php">
                                 <div class="news-card"><h1>SAMARPAN</h1></div>
                             </a>

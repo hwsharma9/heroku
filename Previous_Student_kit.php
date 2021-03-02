@@ -29,7 +29,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Course Curriculum</h1>
-                    <h3>UG & PG Year Wise Course Curriculum</h3>
+                    <h3>UG & PG Year Wise Course Curriculum</h3><br>
                     <ul>
                         <a href="javascript::void(0)" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href="javascript::void(0)" class="content-link">2016-17 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,9 @@
                         <a href="javascript::void(0)" class="content-link">2012-13 </a>
                     </ul>
                     <hr />
+                    <br>
                     <a href="javascript::void(0)" class="content-link">M.Tech. Course Curriculum</a>
+                    <br>
                     <br>
                     <a href="javascript::void(0)" class="content-link">PGDCA Course Curriculum</a>
 

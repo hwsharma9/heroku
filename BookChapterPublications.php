@@ -36,25 +36,25 @@
                         <h1> Book Chapter Publications</h1>
                         <ul type="disc">
                             <li>
-                                "Dr. Maya Rathore, Dr.Ugrasen Suman, Classification of Non-Functional Requirements from
+                                Dr. Maya Rathore, Dr.Ugrasen Suman, Classification of Non-Functional Requirements from
                                 Multi-Perspective View,Requirements Engineering for Service and Cloud Computing,
-                                Springer, 2017"
+                                Springer, 2017.
 
                             </li><br />
                             <li>
-                                "Dr. Nitin Nagar, Dr.Ugrasen Suman, Prevention, Detection, and Recovery of CSRF attack
+                                Dr. Nitin Nagar, Dr.Ugrasen Suman, Prevention, Detection, and Recovery of CSRF attack
                                 in Online Banking System, Online Banking Security Measures and Data Protection, IGI
-                                Global, 2017"
+                                Global, 2017.
                             </li><br />
                             <li>
-                                "Dr. Nitin Nagar, Dr.Ugrasen Suman, Two Factor Authentication Using M-Pin Server for
+                                Dr. Nitin Nagar, Dr.Ugrasen Suman, Two Factor Authentication Using M-Pin Server for
                                 Secure Cloud Computing Environment, Web-Based Services: Concepts, Methodologies, Tools,
-                                and Applications, IGI Global, 2016"
+                                and Applications, IGI Global, 2016.
                             </li><br />
                             <li>
-                                "Dr. Sanjay Tanwani, Ms. Ruchi Patel, Application of Machine Learning Techniques in
+                                Dr. Sanjay Tanwani, Ms. Ruchi Patel, Application of Machine Learning Techniques in
                                 Clinical Information Extraction Book Title: Smart Techniques for a Smarter Planet:
-                                Towards Smarter Algorithms, Studies in Fuzziness and Soft Computing, Springer, 2016"
+                                Towards Smarter Algorithms, Studies in Fuzziness and Soft Computing, Springer, 2016.
                             </li><br />
 
                         </ul>
