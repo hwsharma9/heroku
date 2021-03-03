@@ -824,11 +824,20 @@ body {
 .marquee-flex a:hover {
   cursor: pointer;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: rgb(32, 191, 107, 0.7);
 =======
   letter-spacing: 0.5px;
   opacity: 80%;
 >>>>>>> a7c2464fad42ee80a501cc5346d0bd99992fdc6a
+=======
+
+  color: rgb(32, 191, 107, 0.7);
+
+  letter-spacing: 0.5px;
+  opacity: 80%;
+
+>>>>>>> d5fd6fb55aba985052f558d3159095c5a0b67ccb
 }
 /* NEW MARQUEE */
 .marquee-flex .all-news {
