@@ -1429,7 +1429,7 @@ body {
 @media (max-width: 600px) {
   html {
   }
-
+  
   .footer {
   }
   .footer-content .ft-block {
@@ -1440,5 +1440,24 @@ body {
   }
   .footer-content .ft-block:nth-child(1) {
     width: 100%;
+  }
+  /* FACULTY PAGE */
+  .fac-right .s-line {
+    display: initial;
+  }
+  .s-fac .fac-left {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+.s-fac .fac-right {
+  width: 100%;
+  overflow: auto;
+}
+  .fac-right .s-left {
+    width: initial;
+  }
+  .fac-right h4{
+    width: 100%;;
   }
 }
