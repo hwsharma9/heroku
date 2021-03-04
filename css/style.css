@@ -823,12 +823,21 @@ body {
 }
 .marquee-flex a:hover {
   cursor: pointer;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  color: rgb(32, 191, 107, 0.7);
+=======
+  letter-spacing: 0.5px;
+  opacity: 80%;
+>>>>>>> a7c2464fad42ee80a501cc5346d0bd99992fdc6a
+=======
 
   color: rgb(32, 191, 107, 0.7);
 
   letter-spacing: 0.5px;
   opacity: 80%;
 
+>>>>>>> d5fd6fb55aba985052f558d3159095c5a0b67ccb
 }
 /* NEW MARQUEE */
 .marquee-flex .all-news {
@@ -1429,7 +1438,7 @@ body {
 @media (max-width: 600px) {
   html {
   }
-
+  
   .footer {
   }
   .footer-content .ft-block {
@@ -1440,5 +1449,24 @@ body {
   }
   .footer-content .ft-block:nth-child(1) {
     width: 100%;
+  }
+  /* FACULTY PAGE */
+  .fac-right .s-line {
+    display: initial;
+  }
+  .s-fac .fac-left {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+.s-fac .fac-right {
+  width: 100%;
+  overflow: auto;
+}
+  .fac-right .s-left {
+    width: initial;
+  }
+  .fac-right h4{
+    width: 100%;;
   }
 }
