@@ -71,8 +71,8 @@
                                         <b>Current Subjects</b>
                                     </td>
                                     <td>
-                                        Network security, Cyber Law(IT ACT 2000), Computer Architecture,Information
-                                        Security , Digital Electronics,Computer Network,PERL,Risk Management
+                                        Network security, Cyber Law(IT ACT 2000), Computer Architecture, Information
+                                        Security, Digital Electronics, Computer Network, PERL, Risk Management
                                     </td>
                                 </tr>
                                 </tr>
@@ -84,7 +84,7 @@
                                         <b>Expertise</b>
                                     </td>
                                     <td colspan="2">
-                                        Information Security,Network Security, 2.7 years Industry experience as a
+                                        Information Security, Network Security, 2.7 years Industry experience as a
                                         Network Engineer
                                     </td>
                                 </tr>

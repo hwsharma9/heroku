@@ -397,6 +397,21 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./BookPublications.php">
+                                <li><span>🔗</span>Book Publications</li>
+                            </a>
+                            <a href="./BookChapterPublications.php">
+                                <li><span>🔗</span>Book Chapter Publications</li>
+                            </a>
+                           
+                            <a href="./JournalPublications.php">
+                                <li><span>🔗</span>Journal Publications</li>
+                            </a>
+                           
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

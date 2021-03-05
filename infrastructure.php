@@ -140,8 +140,9 @@
                             <a href="./vision.php">
                                 <li><span>🔗</span>Mission & Vision</li>
                             </a>
-                            <a href="./">
+                           <!-- <a href="./">
                                 <li><span>🔗</span>Governance</li>
+                                -->
                             </a>
                             <a href="https://www.dauniv.ac.in/">
                                 <li><span>🔗</span>University Information </li>

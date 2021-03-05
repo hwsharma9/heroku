@@ -126,12 +126,12 @@
                                     <td colspan="2">
                                         <ul type="disc">
                                             <li>
-                                                <a href="Conference-Publications.pdf">
+                                                <a href="assets/pdf/DrArchana-Conference-Publications.pdf">
                                                     Conference Publications
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="Journal-Publications.pdf">
+                                                <a href="assets/pdf/DrArchana-Journal-Publications.pdf">
                                                     Journal Publications
                                                 </a>
                                             </li>

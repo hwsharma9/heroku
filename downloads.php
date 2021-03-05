@@ -32,53 +32,37 @@
                     <h1>Downloads</h1>
                     <ul style="margin-left: 20px;">
                         <li>
-                            <a class="content-link" href="guideline_mmt02.pdf">
+                            <a class="content-link" href="assets/pdf/Downloads guideline_mmt02.pdf">
                                 Guidelines for Dr. A. K. Ramani Memorial Lecture Hall (MMT-02) Reservation
                             </a>
                         </li><br />
 
                         <li>
-                            <a class="content-link" href="exam_form.pdf">
+                            <a class="content-link" href="assets/pdf/Downloads exam_form.pdf">
                                 Examination Form
                             </a>
                         </li><br />
 
-                        <li>
-                            <a class="content-link" href="pdf/Scholarship_Bank_Detail.pdf">
-                                Bank Details for Scholarship
-                            </a>
-                        </li><br />
+                      
                         <li>
                             <a class="content-link"
-                                href="http://www.scs.dauniv.ac.in/pdf/Registration_form.pdf">Student's Registration
+                                href="assets/pdf/Downloads Registration_form.pdf">Student's Registration
                                 Form</a>
                         </li><br />
                         <li>
                             <a class="content-link" href="#">No Dues Certificate</a>
                         </li><br />
-                        <li>
-                            <a class="content-link" href="#">Leaving Certificate</a>
-                        </li><br />
+                       
                         <li>
                             <a class="content-link" href="#">Casual Leave Application</a>
                         </li><br />
                         <li>
-                            <a class="content-link" href="pdf/membarship_performa.pdf">Library Membership Form</a>
-                        </li><br />
-                        <li>
-                            <a class="content-link" href="pdf/Book_Pur_Performa.pdf">Library Book(S) Requisition
-                                Form</a>
+                            <a class="content-link" href="assets/pdf/Library membarship_form.pdf">Library Membership Form</a>
                         </li><br />
                         
-                        <li>
-                            <a class="content-link" href="pdf/Appraisal_1.pdf">Self Apraisal Form(.pdf)</a>
-                        </li><br />
-                        <li>
-                            <a class="content-link" href="pdf/Appraisal_1.doc">Self Apraisal Form(.doc)</a>
-                        </li><br />
-                        <li>
-                            <a class="content-link" href="pdf/EnrollmentForm2011.pdf">Enrollment Form</a>
-                        </li>
+                        
+                       
+                        
 
                     </ul>
 

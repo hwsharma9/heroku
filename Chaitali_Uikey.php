@@ -51,14 +51,14 @@
 
                                         <b>Name</b>
                                     </td>
-                                    <td> <b>Mrs. Chaitali Uikey</b>
+                                    <td> <b>Dr. Chaitali Uikey</b>
 
                                     </td>
                                 <tr>
                                     <td>
                                         <b>Qualification</b>
                                     </td>
-                                    <td>Persuing PhD, M. Tech.(Information Security), M.C.A.
+                                    <td>PhD(CS), M. Tech.(Information Security), M.C.A.
 
                                     </td>
                                 </tr>

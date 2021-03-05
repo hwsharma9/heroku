@@ -62,7 +62,7 @@
                             <div class="faculty-card">
                                 <img loading="lazy" src="./images/ResearchFellowship/Mr. Jitendra Gora.jpg"
                                     alt="Avatar" />
-                                <p>Mr. Jitendra Gora (JRF)</p>
+                                <p>Mr. Jitendra Gora</p>
                             </div>
                             <div class="faculty-card-container" style="margin-top: 30px;">
                                 <h4><b>Junior Research Fellowship (JRF)</b></h4>
@@ -79,6 +79,29 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./DepartmentalResearchCommittee.php">
+                                <li><span>🔗</span>Departmental Research Committee</li>
+                            </a>
+                            <a href="./ResearchSupervisors.php">
+                                <li><span>🔗</span>Research Supervisors</li>
+                            </a>
+                            <a href="./Facilities.php">
+                                <li><span>🔗</span>Facilities</li>
+                            </a>
+                            <a href="./Publications.php">
+                                <li><span>🔗</span>Publications</li>
+                            </a>
+                            <a href="./upcoming_events.php">
+                                <li><span>🔗</span>Seminars, Workshops & Conferences</li>
+                            </a>
+                            <a href="./CodeEthicsResearch.php">
+                                <li><span>🔗</span>Code of Ethics</li>
+                            </a>
+                            
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

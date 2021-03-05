@@ -42,19 +42,19 @@
                     </p>
                     <div class="sl-image">
                         <div class="sl-img-col">
-                            <img src="./images/Pics/Plantation.JPG" alt="CAMPUS" loading="lazy"
+                            <img src="./images/Pics/Sports 1.JPG" alt="CAMPUS" loading="lazy"
                                 class="responsive-image" />
                         </div>
                         <div class="sl-img-col">
-                            <img src="./images/Pics/Plantation2.JPG" alt="CAMPUS" loading="lazy"
+                            <img src="./images/Pics/Sports 2.JPG" alt="CAMPUS" loading="lazy"
                                 class="responsive-image" />
                         </div>
                         <div class="sl-img-col">
-                            <img src="./images/Pics/Plantation3.JPG" alt="CAMPUS" loading="lazy"
+                            <img src="./images/Pics/Sports 3.JPG" alt="CAMPUS" loading="lazy"
                                 class="responsive-image" />
                         </div>
                         <div class="sl-img-col">
-                            <img src="./images/Pics/Plantation4.JPG" alt="CAMPUS" loading="lazy"
+                            <img src="./images/Pics/Sports 4.JPG" alt="CAMPUS" loading="lazy"
                                 class="responsive-image" />
                         </div>
                     </div>

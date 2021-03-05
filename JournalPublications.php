@@ -174,7 +174,7 @@
                                     Possible Solutions. International Journal of Engineering and Management Research
                                     (IJEMR). 6(2). March-April, 2016.,490- 493. ISSN (Online): 2250-0758.
                                 </p>
-                            </li><br />
+                            </li>
 
                         </ul>
                     </section>
@@ -185,8 +185,35 @@
                             <li>
                                 <p align="justify">
 
+                                Basant Namdeo, U. Suman, "Schema Design Advisor Model for RDBMS to NoSQL Database migration", International Journal of Information Technology, Springer BJIT, Vol.12, Issue 3, 2020.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+
+                                Devesh K. Lal, U. Suman, "SBASH: Stack Based Allocation of Sheer Window Architecture for Real Time Stream Data Processing", International Journal of Data Analytics (IJDA), IGI Gobal, Vol.1.Issue 1, 2020.
+                                </p>
+                            </li>      
+                            <li>
+                                <p align="justify">
+
+                                Reena Gupta, Rajkamal, U. Suman, "Q-DWSO: Hybrid approach for QoS-aware Dynamic Web Services Orchestration", International Journal of Web Engineering & Technology (IJWET), Inderscience, Vo. 13, No. 1, pp.30-55, 2018.
+
+
+                                </p>
+                            </li>
+                            
+                            <li>
+                                <p align="justify">
+
                                     Ritu Jain, U. Suman, A Project Management Framework for Global Software Development,
                                     ACM SIGSOFT Software Engineering Notes, Vol.43, No.1, pp.1-10, January 2018.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+
+                                Reena Gupta, Rajkamal, U. Suman, "Designing of an Orchestration Mechanism for the Efficient Web Services Composition", Springer, Progress in Computing, Analytics and Networking, pp.171-182, ICCAN 2017, KIIT Bhubneswar, India, 15-16 Dec. 2017.
                                 </p>
                             </li>
                             <li>
@@ -324,7 +351,117 @@
                                     No. 1, pp.1-12, January 2014.
                                 </p>
                             </li>
+                            <li>
+                                <p align="justify">
+                                Sanjeev Kumar Sharma, U. Suman, "An efficient Semantic URL Clustering for Web page Recommendation," International Journal of Data Analysis Techniques and Strategies (IJDATS), Inderscience publications, Switzerland, ISSN: 1755-8050, Vol. 5, No. 4, pp.339-358, 2013.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Aditya Trivedi, U. Suman "Design of a Reverse Engineering Model (A Case Study of Cobol to Java Migration)", International Journal of Computer Applications, ISBN: 973-93-80878-05-9, Vol.79, No. 5, pp.1-5, Foundation of Computer Science, New York, USA, 2013.
 
+
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Jitender Choudhari, U. Suman, "Code change approach for software maintenance in XP environment," International Journal of Soft Computing and Software Engineering (JSCSE), ISSN: 2251-7545, Vol.3, No.3, pp.131-136, Proc. of International Conference on Soft Computing and Software Engineering (SCSE-2013), San Francisco, USA, March 1-2, 2013.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Sanjeev Kumar Sharma, U. Suman, "A Framework of Hybrid Recommender System for Web Personalization," International Journal of Business Information Systems (IJBIS), Inderscience publications, ACM Digital Library, Switzerland, ISSN: 1746-0972, Vol.13, No.3, pp.284-316, 2013.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Dhirendra Pandey, U. Suman, A. K. Ramani, "Effectiveness of Requirements Engineering Issues in Software Development," Journal of Global Research in Computer Science, ISSN-2229-371X, Vo. 3, No.9, pp.56-69, September 2012.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Jitender Choudhari, U. Suman, "Designing RC Story for Software Maintenance and Evolution," Journal of Software (JSW), Academy Publisher, Finland, ISSN: 1796-217X, Vol. 7, No. 5, pp.1103-1108, May 2012.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Sanjeev Kumar Sharma, U. Suman, "Analysis and Design of Architectural Framework of Recommender Agent for e-Commerce," International Journal of Computer Science, Information Technology, & Security (IJCSITS), IRACST Press, Bangalore, India, ISSN: 2250-1355, Vol. 1, No. 2, pp.153-162, December 2011.
+
+
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Sanjeev Sharma, U. Suman, "Analysis of Frequent URLs for Recommender systems using Performance Based Transposition Algorithm," CiiT International Journal of Automation and Autonomous System, Coimbatore, ISSN 0974-9659, Vol.3 No.11, pp.526-532, November 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Shruti Dubey, Neha Rahtekar, U. Suman, "Generalized Representation of Advice Using Sequence Trace Diagram," International Journal of Advanced Research in Computer Science (IJARCS), Mandsaur (MP), India, ISSN: 0976- 5697, Volume 2, No. 5, pp.80-84, Sept-Oct 2011.
+
+
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Maya Rathore, U. Suman, "A QoS Broker Based Process Model for Dynamic Web Service Composition," Journal of Computer Science, Science Publications, USA, ISSN: 1549-3636, Vol.7, Issue 8, pp.1267-1274, July 15, 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Nitin Uikey, U. Suman, A. K. Ramani, "A Documented Approach in Agile Software Development," International Journal of Software Engineering (IJSE), CSC Journals, Kuala Lumpur, Malaysia, ISSN: 2180-1320, Volume 2, Issue 2, pp.13-22, May/ June 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Sanjeev Sharma, U. Suman, "A Performance Based Transposition algorithm for Frequent Itemsets Generation," International Journal of Data Engineering (IJDE), CSC Journals, Kuala Lumpur, Malaysia, ISSN: 2180-1274, Volume 2, Issue 2, pp.53-61, May/June 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Dhirendra Pandey, U. Suman, A. K. Ramani, "A Framework for Modeling Software Requirements," International Journal of Computer Science Issues (IJCSI), Republic of Mauritius, ISSN: 1694-0814, Vol. 8, Issue 3, No. 1, pp.164-171, May 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Dhirendra Pandey, U. Suman, A. K. Ramani, "Security Requirement Engineering Issues in Risk Management," International Journal of Computer Applications (IJCA), ISSN: 0975-8887, Foundation of Computer Science, USA, Vol.17, No.5, pp.11-14, March, 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                D. Pathak, U. Suman, "Reducing efforts in Refactoring process using Design Patterns," International Journal of Advanced Research in Computer Science, Mandsaur (MP), India, ISSN: 0976- 5697, Vol.2 Issue1, pp.240-245, Jan-Feb 2011.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Dhirendra Pandey, U. Suman, A. K. Ramani, "Security Requirement Engineering Framework for Developing Secure Software", International Journal of Computational Intelligence and Information Security (IJCIIS), Victoria, Australia, ISSN: 1837-7823, Vol.1, No.8, pp.55-65, October 2010.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Dhirendra Pandey, U. Suman, A. K. Ramani, "Performance Measurement of Different Requirements Engineering Process Models: A Case Study", International Journal of Computer Engineering and Technology (IJCET), Chennai, India, ISSN-0976-6367, Vol.1, Issue 2, pp.286-300, Aug-Sept. 2010.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Dhirendra Pandey, U. Suman, A. K. Ramani, "Social-Organizational Participation difficulties in Requirement Engineering Process- A Study", Journal of Software Engineering, Bioinfo Publications, Mumbai, India, ISSN:2229-4007, Vol.1, Issue 1, pp.01-05, 2010.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                U. Suman, and M. Ingle, "Reverse Engineering of Procedural Systems: An algorithmic approach", International Journal of Computer Science & Information Technology (IJCSIT), Serial Publications, New Delhi, ISSN 0974-8385, Vol.1, No.1, pp.13-21, Jan-June 2008.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                U. Suman, and M. Ingle, "Designing Reuse Repository System for an Effective Software Development with reuse", PCTE Journal of Computer Science, Ludhiana, ISSN 0973-4058,Vol.2, Issue 2, pp.38-47, July-Dec. 2006.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                U. Suman, and M. Ingle, " Towards Development of Quality Softwares using Reuse Reengineering Approach", Journal of Computer Science, Karpagam Educational Institutions, Coimbatore, ISSN 0973-2926, pp.135-145, Sep.-Oct. 2006.
+                                </p>
+                            </li>
 
                         </ul>
                     </section>
@@ -464,6 +601,71 @@
                                     & Engineering, Vol. 3, Issue 3, 135-140.
                                 </p>
                             </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Savita Kolhe, Raj Kamal, 2013. Machine Learning Classification Techniques: A Comparative Study. International Journal on Advanced Computer Theory and Engineering Vol. 2, Issue 4, Pages- 21-25.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Savita Kolhe, Raj Kamal, 2013. Machine Learning Techniques for Mobile Devices: A Review. International Journal of Engineering Research and Applications Vol. 3, Issue 6, Pages- 913-917.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Savita Kolhe, Raj Kamal, 2013. Performance Examination of Feature Selection methods with Machine learning classifiers on mobile devices. International Journal of Innovative Research in Electrical, Electronics, Instrumentation and Control Engineering Vol. 1, Issue 8, Pages- 354-358.
+
+
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Savita Kolhe, Raj Kamal, 2013. Performance Evaluation of Feature Selection methods for mobile devices. International Journal of Engineering Research and Applications Vol. 3, Issue 6, Pages -587-594.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Thakur, Ramesh Thakur 2018. Machine Learning Algorithms for Intelligent Mobile Systems. International Journal of Computer Sciences and Engineering Vol. 6, Issue 6, Pages -1257-1261.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Arvind Upadhyaya, Ramesh Thakur, Archana Thakur, 2018. Modern Approaches to Cloud Scheduling. International Journal of Computer Sciences and Engineering, Vol. 6, Issue. 6, Pages-1072-1079.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Sunita Gaur, 2015. A Comparative Study of E-Learning Technique with Traditional Teaching Techniques. International Journal of Innovative Research in Electrical, Electronics, Instrumentation and Control Engineering, Vol. 3, Issue 8, Pages - 23-25.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Aditya Vyas, 2017. Comparison between cohesion and coupling matrices for inheritance and interface. International Journal of Research In Science & Engineering, Vol. 3, Issue 3, Pages -135-140.
+
+
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Rahul Jain, Archana Thakur, 2019. Comparative Study of Machine Learning Algorithms for Document Classification. International Journal of Computer Sciences and Engineering 7(6),Pages-1189-1191.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, Ramesh Thakur, Savita Kolhe, Raj Kamal, 2020. A particle swarm optimization based ensemble for vegetable crop disease recognition. Computers and Electronics in Agriculture 178, Pages-1-7.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary Thakur, 2020. Crop Disease Recognition using Machine Learning Algorithms. International Journal of Innovative Technology and Exploring Engineering 9(11), Pages- 64-166.
+                                </p>
+                            </li>
+                            <li>
+                                <p align="justify">
+                                Archana Chaudhary, 2020. Performance Enhancement Method for Machine Learning Algorithm. International Journal of Innovative Technology and Exploring Engineering 9(11), Pages 320-322.
+                                </p>
+                            </li>
+                            
 
                         </ul>
                     </section>
@@ -551,6 +753,22 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./BookPublications.php">
+                                <li><span>🔗</span>Book Publications</li>
+                            </a>
+                            <a href="./BookChapterPublications.php">
+                                <li><span>🔗</span>Book Chapter Publications</li>
+                            </a>
+                           
+                            
+                            <a href="./ConferencePublications.php">
+                                <li><span>🔗</span>Conference Publications</li>
+                            </a>
+                            
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

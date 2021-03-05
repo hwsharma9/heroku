@@ -224,7 +224,7 @@
                     </div>
 
                     <br>
-                    <button type="button" class="collapsible">Master of Business Administration (Computer Management)</button>
+                    <button type="button" class="collapsible">Master of Business Administration MBA(CM)</button>
                     <div class="content"><br>
                         <h2>MBA (CM) [2 Yrs.]</h2>
 

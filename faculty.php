@@ -54,7 +54,7 @@
                             <a href="./s_tanwani.php">
                                 <div class="flip-card-inner">
                                     <div class="flip-card-front">
-                                        <img src="./images/facultyimg/s_tanwani.jpg" alt="Avatar" style="">
+                                        <img src="./images/facultyimg/s_tanwani2.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Dr. Sanjay Tanwani</h3>
                                             <p>Professor & Head </p>
@@ -192,7 +192,7 @@
                                     <div class="flip-card-front">
                                         <img src="./images/facultyimg/chaitali.JPG" alt="Avatar" style="">
                                         <div class="front-card-content">
-                                            <h3>Ms. Chaitali Uikey </h3>
+                                            <h3>Dr. Chaitali Uikey </h3>
                                             <p>Lecturer</p>
                                             <!-- <p>Computer Network, OS, Simulation, Computer Architecture, DS</p> -->
                                         </div>
@@ -294,7 +294,7 @@
                                     <div class="flip-card-front">
                                         <img src="./images/facultyimg/deepikarai.JPG" alt="Avatar" style="">
                                         <div class="front-card-content">
-                                            <h3>Ms. Deepika Rai </h3>
+                                            <h3>Dr. Deepika Rai </h3>
                                             <p>Lecturer </p>
                                             <!-- <p>Data Structures and Algorithm</p> -->
                                         </div>
@@ -364,7 +364,7 @@
 
                     <!-- OTHER FACULTY STAFFS -->
                     <div>
-                        <h1>Computer Center staff supporting teaching learning activities in department</h1>
+                        <h1>Computer Center Staff supporting Teaching Learning activities in department</h1>
                         <hr>
                         <!-- GRID - FLEX -->
                         <div class="faculty-grid">

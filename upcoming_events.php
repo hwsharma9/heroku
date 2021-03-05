@@ -191,6 +191,12 @@
                     <h2>Others</h2>
                     <hr>
                     <ul type="disc" style="margin-left: 20px;">
+                    
+                    <li>Motivational Lecture on "Vivekananda and Principles of Personal development" by Dr. Sandeep Atre, March 2021.</li><br>
+                    <li>Webinar on "Mother Awaits Thought Warriors" by Shri Mukul Kanitkar, Bhartiya Shikshan Mandal, January 2021</li><br>
+
+                        
+                        <li>Webinar on "Art of Mind Control" by Mr. Raghavanand Das, Akshaya Patra Foundation, November 2020.</li><br>
                         <li>
                             Parents-Teachers Meet for BCA V Semester, 12th Oct, 2019.
                             <a href="PTM-BCA-V report.pdf"> Click Here.. </a>
@@ -201,6 +207,29 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./DepartmentalResearchCommittee.php">
+                                <li><span>🔗</span>Departmental Research Committee</li>
+                            </a>
+                            <a href="./ResearchSupervisors.php">
+                                <li><span>🔗</span>Research Supervisors</li>
+                            </a>
+                            <a href="./Facilities.php">
+                                <li><span>🔗</span>Facilities</li>
+                            </a>
+                            <a href="./Publications.php">
+                                <li><span>🔗</span>Publications</li>
+                            </a>
+                            
+                            <a href="./CodeEthicsResearch.php">
+                                <li><span>🔗</span>Code of Ethics</li>
+                            </a>
+                            <a href="./ResearchFellowship.php">
+                                <li><span>🔗</span>Research Fellowship</li>
+                            </a>
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

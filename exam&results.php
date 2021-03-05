@@ -47,7 +47,7 @@
                     <h3 style="text-align:center;margin: 20px 0">Exam & Results</h3>
                     <div class="news-wrapper">
                         <div class="all-news">
-                            <a href="#">
+                            <a href="assets/pdf/Exam Ordinance 31_Revised.pdf">
                                 <div class="news-card"><h1>Exam Ordinance 31</h1></div>
                             </a>
                             <a href="./examination_committee.php">

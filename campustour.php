@@ -157,8 +157,13 @@
                                 <h3>Laboratory Corridor</h3>
                             </div>
                             <div class="cell">
-                                <img src="./images/campustour/13_Pantry.JPG" class="responsive-image">
-                                <h3>Pantry</h3>
+                            <img src="./images/campustour/22_Upper Labotratory Corridor.JPG"
+                                    class="responsive-image">
+                                <h3>Upper Labotratory Corridor</h3>
+                            </div>
+                            <div class="cell">
+                                <img src="./images/campustour/Head Room.jpg" class="responsive-image">
+                                <h3>Head Room</h3>
                             </div>
                             <div class="cell">
                                 <img src="./images/campustour/14_Knowledge Centre.JPG" class="responsive-image">
@@ -201,11 +206,6 @@
                                     class="responsive-image">
                                 <h3>Dr. A.K. Ramani Memorial Hall</h3>
                             </div>
-                            <div class="cell">
-                                <img src="./images/campustour/22_Upper Labotratory Corridor.JPG"
-                                    class="responsive-image">
-                                <h3>Upper Labotratory Corridor</h3>
-                            </div>
                             <!-- <div class="cell">
                                 <img src="./images/campustour/23(1) Electronics LAB.jpg" class="responsive-image">
                                 <h3>Electronics Lab</h3>
@@ -213,10 +213,6 @@
                             <div class="cell">
                                 <img src="./images/campustour/23(2)Thinking LAB.jpg" class="responsive-image">
                                 <h3>Thinking Lab</h3>
-                            </div>
-                            <div class="cell">
-                                <img src="./images/campustour/23(4)UpperM.Tech LAB.jpg" class="responsive-image">
-                                <h3>Upper M.Tech Lab</h3>
                             </div>
                             <!-- <div class="cell">
                                 <img src="./images/campustour/23_Electronics LAB.JPG" class="responsive-image">

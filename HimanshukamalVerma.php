@@ -56,8 +56,8 @@
                                     <td>
                                         <b>Qualification</b>
                                     </td>
-                                    <td> M.Tech.( IA & SE ), Qualified UGC-NET for Assistant Professor, Qualified GATE
-                                        2012,17,18,19 </td>
+                                    <td> M.Tech.(IA & SE), UGC-NET Qualified for Assistant Professor, GATE Qualified 
+                                    </td>
                                 </tr>
                                 <tr height="50px">
                                     <td>
@@ -73,25 +73,25 @@
                                         <b>Specialization</b>
                                     </td>
                                     <td colspan="2">
-                                        Software Engineering, Operating System, Software Testing & Quality Assurance
+                                        Software Engineering
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>
                                         <b>Current Subjects</b>
                                     </td>
-                                    <td colspan="2">Programming and problem solving using C ,
-                                        Operating System</td>
+                                    <td colspan="2">Programming and problem solving using C,
+                                        Software Testing & Quality Assurance</td>
                                 </tr>
 
 
 
                                 <tr>
                                     <td>
-                                        <b>Recent Subjects</b>
+                                        <b>Subjects Taught</b>
                                     </td>
                                     <td colspan="2">Operating System, Data Structures,
-                                        Software Testing & Quality Assurance
+                                        Software Testing & Quality Assurance, Programming and problem solving using C
 
                                     </td>
                                 </tr>
@@ -109,12 +109,7 @@
 
 
 
-                                <tr>
-                                    <td>
-                                        <b>Phone</b>
-                                    </td>
-                                    <td colspan="2">7000367821</td>
-                                </tr>
+                               
 
                                 <tr>
                                     <td>

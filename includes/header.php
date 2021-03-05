@@ -22,7 +22,7 @@
                 <div class="dropdown-content">
                     <a href="./about.php">About School</a>
                     <a href="./infrastructure.php">Infrastructure and Facilities</a>
-                    <a href="#">Governance</a>
+                   <!-- <a href="#">Governance</a>-->
                     <a href="https://www.dauniv.ac.in/" target="_blank">University Information</a>
                 </div>
             </div>
@@ -48,7 +48,7 @@
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-content">
-                    <a href="./">Academic Calendar</a>
+                    <a href="assets/pdf/Academic Calendar-2020-21.pdf">Academic Calendar</a>
                     <a href="./coursescheme.php">Course Scheme</a>
                     <a href="./assessment.php">Assessment</a>
                     <a href="./academic_planning_committee.php">Academic Planning Committee</a>
@@ -108,7 +108,7 @@
                     <a href="./syllabus.php">Syllabus</a>
                     <a href="">Course Scheme and Class Time table</a>
                     <a href="./Lab_Manual.php">Lab Manual</a>
-                    <a href="assets/pdf/Coordinators 2020.pdf"">Programme Coordinators and Class Cordinators</a>
+                    <a href="assets/pdf/Coordinators 2020.pdf">Programme Coordinators and Class Cordinators</a>
                     <!-- <a href="./">Mentors</a> -->
                     <a href="./counsellor.php">Counsellor</a>
                     <a href="./scholarship.php">Scholarship</a>
