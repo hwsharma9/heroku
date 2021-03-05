@@ -80,15 +80,15 @@
                         <li>Woman Empowerment</li>
                         <li>Yoga activities</li>
                     </ul>
-                    <hr />
-                    <div class="sl-image">
+                    
+                   <!-- <div class="sl-image">
                         <div class="sl-img-col">
                             <img src="./images/Pics/Wifi campus page.jpg" alt="CAMPUS" loading="lazy">
                         </div>
                         <div class="sl-img-col">
                             <img src="./images/Pics/wifi campus page 2.jpg" alt="CAMPUS" loading="lazy">
                         </div>
-                    </div>
+                    </div> -->
                 </div>
 
                 <div class="sidebar content-right">

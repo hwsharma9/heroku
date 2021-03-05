@@ -51,6 +51,29 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./DepartmentalResearchCommittee.php">
+                                <li><span>🔗</span>Departmental Research Committee</li>
+                            </a>
+                            <a href="./ResearchSupervisors.php">
+                                <li><span>🔗</span>Research Supervisors</li>
+                            </a>
+                            <a href="./Facilities.php">
+                                <li><span>🔗</span>Facilities</li>
+                            </a>
+                            
+                            <a href="./upcoming_events.php">
+                                <li><span>🔗</span>Seminars, Workshops & Conferences</li>
+                            </a>
+                            <a href="./CodeEthicsResearch.php">
+                                <li><span>🔗</span>Code of Ethics</li>
+                            </a>
+                            <a href="./ResearchFellowship.php">
+                                <li><span>🔗</span>Research Fellowship</li>
+                            </a>
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

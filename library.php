@@ -131,22 +131,22 @@
                     <div class="sidebar-content" id="sidebar">
 
                         <ul>
-                            <a href="#">
+                            <a href="assets/pdf/Library membarship_form.pdf">
                                 <li><span>🔗</span> Membership Form</li>
                             </a>
-                            <a href="#">
+                            <a href="assets/pdf/Library book requisition form.pdf">
                                 <li><span>🔗</span> Library Book(S) Requisition Form</li>
                             </a>
-                            <a href="#">
+                            <a href="assets/pdf/Library Book Submission Notice.jpg">
                                 <li><span>🔗</span> Book Submission Notice Regarding Late Fees</li>
                             </a>
-                            <a href="#">
+                            <a href="assets/pdf/Library SC_ST_Notice.pdf">
                                 <li><span>🔗</span> Notice for ST / SC Students</li>
                             </a>
-                            <a href="#">
+                            <a href="assets/pdf/Library Rules.pdf">
                                 <li><span>🔗</span> Library Rules</li>
                             </a>
-                            <a href="#">
+                            <a href="assets/pdf/Library Membership Procedure.pdf">
                                 <li><span>🔗</span> Membership Procedure</li>
                             </a>
                         </ul>

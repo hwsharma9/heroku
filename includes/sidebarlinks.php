@@ -10,7 +10,7 @@
 <script>
 $(document).ready(function() {
     var quotes = [
-        "Those who can imagine anything can create the impossible.",
+        "Those who can imagine anything, can create the impossible.",
         "The most precious thing that we all have with us is time.",
         "Books are the means by which we build bridges between culturess",
         "If you double the number of experiments you do per year you're going to double your inventiveness",
@@ -29,7 +29,7 @@ $(document).ready(function() {
         "Swami Vivekananda",
         "Dr. A.P.J. Abdul Kalam",
         "Sam Pitroda",
-        "Narayan Murthy"
+        "Narayana Murthy"
     ];
 
     fetchQuote(quotes, author);

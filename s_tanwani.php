@@ -63,7 +63,7 @@
                             </div>
                             <div class="s-line">
                                 <h4 class="s-head-font s-left">Current Subjects </h4>
-                                <h4 class="s-content-font s-right">Software Testing & Q. A. .</h4>
+                                <h4 class="s-content-font s-right">Software Testing & Quality Assurance</h4>
                             </div>
                             <div class="s-line">
                                 <h4 class="s-head-font s-left">Recent Subjects </h4>

@@ -20,8 +20,9 @@
                        </div>
                        <div style="margin-top: 20px;">
                            <p style="text-align: unset;">
-                               Takshashila Campus, Khandwa Road Indore (M.P.) - 452001,
-                               India
+                               Takshashila Campus, Khandwa Road 
+                             <p>  Indore (M.P.) - 452001, India </p>
+                               
                            </p>
                            <a href="tel:+91 7312470041">Tel: <span class="">+91 731-2470041/42/43 (O)
                                </span></a>

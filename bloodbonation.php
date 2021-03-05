@@ -51,7 +51,18 @@
                         in college campus help us in the recruitment and retention of young donors,
                         who are the best blood source.
                     </p>
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Blood donation.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Blood donation2.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
+                        
+                    </div>
+
                 </div>
+                
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">

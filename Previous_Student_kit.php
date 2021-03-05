@@ -31,19 +31,22 @@
                     <h1>Course Curriculum</h1>
                     <h3>UG & PG Year Wise Course Curriculum</h3><br>
                     <ul>
+                        <a href="javascript::void(0)" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="javascript::void(0)" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
                         <a href="javascript::void(0)" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2016-17 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2015-16 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2014-15 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2013-14 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2012-13 </a>
-                    </ul>
+                        </ul>
                     <hr />
                     <br>
-                    <a href="javascript::void(0)" class="content-link">M.Tech. Course Curriculum</a>
+                    <h3> M.Tech. Course Curriculum</h3><br>
+                    <ul>
+                    <a href="/assets/pdf/MtechCourseCurriculum2019-20.pdf" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="/assets/pdf/MtechCourseCurriculum2018-19.pdf" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="/asset/pdf/MtechCourseCurriculum2017-18.pdf" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                     
+                    </ul>
                     <br>
                     <br>
-                    <a href="javascript::void(0)" class="content-link">PGDCA Course Curriculum</a>
+                    <a href="assets/pdf/PGDCASyllabus2015-16.pdf" class="content-link"> PGDCA Course Curriculum</a>
 
 
 

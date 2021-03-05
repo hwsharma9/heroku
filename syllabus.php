@@ -170,6 +170,16 @@
                         </ul>
                     </div>
                     <br>
+                    <button type="button" class="collapsible">Master of Technology M.Tech (IA & SE)</button>
+                    <div class="content">
+                        
+                        <ul style="margin-left: 20px;">
+                            <a href=""><li class="content-link">MTech (IA & SE) I Semester</li></a>
+                            <a href=""><li class="content-link">MTech (IA & SE) II Semester</li></a>
+                            
+                        </ul>
+                    </div>
+                    <br>
                     <h4 class="" style="margin: 20px 0">For Old Curriculum <a href="./Previous_Student_kit.php"
                             class="content-link">click here </a></h4>
                 </div>
@@ -187,9 +197,7 @@
                             <a href="./counsellor.php">
                                 <li><span>🔗</span>Counsellor</li>
                             </a>
-                            <a href="./scholarship.php">
-                                <li><span>🔗</span>Scholarship</li>
-                            </a>
+                           
                             <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG">
                                 <li><span>🔗</span>Online Lectures-Swayam</li>
                             </a>

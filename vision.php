@@ -73,19 +73,6 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
-                        <ul>
-
-                            <a href="./infrastructure.php">
-                                <li><span>🔗</span>Infrastructure & Facility</li>
-                            </a>
-                            <a href="./">
-                                <li><span>🔗</span>Governance</li>
-                            </a>
-                            <a href="https://www.dauniv.ac.in/">
-                                <li><span>🔗</span>University Information </li>
-                            </a>
-                        </ul>
-                        <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->
 

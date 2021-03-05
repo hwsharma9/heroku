@@ -28,11 +28,12 @@
         <div class="page-title"></div>
 
         <!-- main content area -->
+       
         <div class="primary-container">
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    
+                    <h1>Dr. Ugrasen Suman</h1>
                     <h2>  PhD Thesis Supervised</h2>
                     <hr>
                     <p>
@@ -76,20 +77,7 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
-                        <ul>
-                            <a href="./consultancy.php">
-                                <li><span>🔗</span>Consultancy Services</li>
-                            </a>
-                            <a href="./placement.php">
-                                <li><span>🔗</span>Placement</li>
-                            </a>
-                            <a href="./placement_committee.php">
-                                <li><span>🔗</span>Placement Committee</li>
-                            </a>
-                            <a href="./abilityprofiler.php">
-                                <li><span>🔗</span>Ability Profiler</li>
-                            </a>
-                        </ul>
+                        
 
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>

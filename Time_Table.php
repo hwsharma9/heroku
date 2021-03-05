@@ -42,17 +42,23 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
+
                     <h3 style="text-align:center;margin: 20px 0">Exam Time Table</h3>
                     <div class="news-wrapper">
                         <div class="all-news">
-                            <!-- <a href="./">
-                                <div class="news-card"><h1></h1></div>
+                            <a href="assets/pdf/">
+                                <div class="news-card"><h1>Exam Time Table for I Semester</h1></div>
+                            </a>
+                            <a href="">
+                                <div class="news-card"><h1>Exam Time Table for III Semester</h1></div>
+                            </a>
+                           <!-- <a href="./Time_Table.php">
+                                <div class="news-card"><h1>ATKT Exam Time Table</h1></div>
                             </a> -->
                         </div>
                     </div>
 
                 </div>
-
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
                         <!-- SIDEBAR LINKS START   -->

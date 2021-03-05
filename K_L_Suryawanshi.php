@@ -58,14 +58,14 @@
                                     <td>
                                         <b>Qualification</b>
                                     </td>
-                                    <td>MCA,M.Tech (Mobile Computing Technology),GATE Qualified, PhD(Pursuing).</td>
+                                    <td>MCA, M.Tech (Mobile Computing Technology), GATE Qualified, PhD(Pursuing)</td>
                                 </tr>
                                 <tr height="50px">
                                     <td>
                                         <b>Designation</b>
                                     </td>
                                     <td>
-                                        LECTURER(On Contract) </td>
+                                        Contract Lecturer </td>
                                 </tr>
                                 </tr>
                                 </tr>
@@ -74,14 +74,14 @@
                                         <b>Specialization</b>
                                     </td>
                                     <td colspan="2">
-                                        Data Structure, Software Engg. ,DBMS,C ,C++,Operating System, TOC </td>
+                                        Data Structure, Software Engineering, DBMS, C, C++, Operating System, TOC </td>
                                 </tr>
                                 <tr>
                                     <td>
                                         <b>Current Subjects</b>
                                     </td>
                                     <td colspan="2">
-                                        C, Java, E-Governance, Information System. </td>
+                                        C, Java, E-Governance, Information System </td>
                                 </tr>
 
 
@@ -89,7 +89,7 @@
                                     <td>
                                         <b>Recent Subjects</b>
                                     </td>
-                                    <td colspan="2">C,Java, E-Governance, Software Engg., Data
+                                    <td colspan="2">C, Java, E-Governance, Software Engineering, Data
                                         Structure</td>
                                 </tr>
 

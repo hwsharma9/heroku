@@ -84,6 +84,28 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                            <a href="./syllabus.php">
+        <li><span>🔗</span>Syllabus</li>
+    </a>
+                            <a href="./Lab_Manual.php">
+                                <li><span>🔗</span>Lab Manual</li>
+                            </a>
+                            <a href="./counsellor.php">
+                                <li><span>🔗</span>Counsellor</li>
+                            </a>
+                           
+                            <a href="https://swayam.gov.in/explorer?category=COMP_SCI_ENGG">
+                                <li><span>🔗</span>Online Lectures-Swayam</li>
+                            </a>
+                            <a href="./onlineskilltest.php">
+                                <li><span>🔗</span>Online Skill Test</li>
+                            </a>
+                            <a href="./studentlife.php">
+                                <li><span>🔗</span>Student Life</li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

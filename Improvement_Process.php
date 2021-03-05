@@ -74,6 +74,21 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+                        <ul>
+                            <a href="./Why_Assessment.php">
+                                <li><span>🔗</span>Why Assessment?</li>
+                            </a>
+                            <a href="./Assessment_Methods.php">
+                                <li><span>🔗</span>Assessment Method</li>
+                            </a>
+                          <!--  <a href="./">
+                                <li><span>🔗</span>Governance</li>
+                                -->
+                            </a>
+                            <a href="./Impact_of_Assessment.php">
+                                <li><span>🔗</span>Impact of Assesment </li>
+                            </a>
+                        </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

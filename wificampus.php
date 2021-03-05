@@ -57,6 +57,9 @@
                         <div class="sl-img-col">
                             <img src="./images/Pics/wifi campus 4.jpg" alt="CAMPUS" loading="lazy">
                         </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/wifi campus 3.jpg" alt="CAMPUS" loading="lazy">
+                        </div>
 
                     </div>
 

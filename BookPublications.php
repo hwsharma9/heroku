@@ -55,7 +55,7 @@
                                         alt="Avatar" />
                                 </div>
                                 <div class="" style="margin: auto;">
-                                    <h4><b>Dr.Ugrasen Suman, Software Engineering: Concepts & Practices, 1st
+                                    <h4><b>Dr. Ugrasen Suman, Software Engineering: Concepts & Practices, 1st
                                             Edition, Cengage Learning, 2013</b></h4>
                                 </div>
                             </div>
@@ -64,7 +64,7 @@
                                     <img loading="lazy" src="./images/BookPublications/Engg.jpg" alt="Avatar" />
                                 </div>
                                 <div class="" style="margin: auto;">
-                                    <h4><b>Dr.Ugrasen Suman, Software Engineering, 1st Edittion, Cengage Learning,
+                                    <h4><b>Dr. Ugrasen Suman, Software Engineering, 1st Edittion, Cengage Learning,
                                             2018</b></h4>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@
                                     <img loading="lazy" src="./images/BookPublications/BigData.jpg" alt="Avatar" />
                                 </div>
                                 <div class="" style="margin: auto;">
-                                    <h4><b>Dr.Rajkamal, Dr.Preeti Saxena, Big Data Analytics, Tata McGraw Hill,
+                                    <h4><b>Dr. Rajkamal, Dr. Preeti Saxena, Big Data Analytics, Tata McGraw Hill,
                                             2019</b></h4>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                                     <img loading="lazy" src="./images/BookPublications/OOPs.jpg" alt="Avatar" />
                                 </div>
                                 <div class="" style="margin: auto;">
-                                    <h4><b>Dr.Ugrasen Suman, Dr. Sanjeev Kumar Sharma, Dr. Maya Rathore, Object
+                                    <h4><b>Dr. Ugrasen Suman, Dr. Sanjeev Kumar Sharma, Dr. Maya Rathore, Object
                                             Oriented Analysis & Design using UML, 1st Edition, Cengage Learning,
                                             2018</b></h4>
                                 </div>
@@ -94,6 +94,22 @@
 
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
+
+                        <ul>
+                           
+                            <a href="./BookChapterPublications.php">
+                                <li><span>🔗</span>Book Chapter Publications</li>
+                            </a>
+                           
+                            <a href="./JournalPublications.php">
+                                <li><span>🔗</span>Journal Publications</li>
+                            </a>
+                            <a href="./ConferencePublications.php">
+                                <li><span>🔗</span>Conference Publications</li>
+                            </a>
+                            
+                        </ul>
+
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>
                         <!-- SIDEBAR LINKS END -->

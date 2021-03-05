@@ -149,7 +149,7 @@
                             <a href="./abilityprofiler.php">
                                 <li><span>🔗</span>Ablity Profiler</li>
                             </a>
-                            <a href="./">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7uSWRiHKMIfik5yC9h-yHdO2ePhKJUGGwcQ6qEYGYpu8Hew/viewform">
                                 <li><span>🔗</span>Contact Us for Recruitment / Internship</li>
                             </a>
                         </ul>

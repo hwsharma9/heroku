@@ -139,13 +139,13 @@
 
 
 
-                                        <a href="./Usuman_under_supervision.php">
+                                        <a class="content-link" href="./Usuman_under_supervision.php">
                                             Ph.D Supervision,
                                         </a>
-                                         <a href="./Usuman_under_supervision.php">
+                                         <a class="content-link" href="./Usuman_under_supervision.php">
                                             M.Tech (CS) by Research
                                         </a>,
-                                        <a href="./Usuman_under_supervision.php">
+                                        <a class="content-link" href="./Usuman_under_supervision.php">
                                             M.Tech & Other PG Projects
                                         </a>
 
@@ -176,7 +176,7 @@
                                                     3. Object-Oriented Analysis and Design using UML, Cengage Learning,
                                                     2018.
                                                 </a> <br />
-                                            </li>
+                                            </li><br />
                                             <li>
                                                 <a class="content-link" href="Publications20-10-2020.pdf">
                                                     Book Chapters
