@@ -23,6 +23,21 @@
     width: 250px;
     object-fit: initial;
 }
+
+.books-items .item {
+    display: flex;
+    flex-direction: row;
+
+}
+
+@media (max-width: 600px) {
+
+    .books-items .item {
+        display: initial;
+        flex-direction: row;
+
+    }
+}
 </style>
 
 <body>
@@ -44,7 +59,7 @@
                         UGC/CSIR:</p> -->
 
                     <div class="books-items">
-                        <div class="item" style="display:flex; flex-direction: row;">
+                        <div class="item" style="">
                             <div class="faculty-card">
                                 <img loading="lazy" src="./images/ResearchFellowship/Mr. Devesh K. Lal.jpg"
                                     alt="Avatar" />
@@ -58,7 +73,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="item" style="display:flex; flex-direction: row;">
+                        <div class="item" style="">
                             <div class="faculty-card">
                                 <img loading="lazy" src="./images/ResearchFellowship/Mr. Jitendra Gora.jpg"
                                     alt="Avatar" />
@@ -99,7 +114,7 @@
                             <a href="./CodeEthicsResearch.php">
                                 <li><span>🔗</span>Code of Ethics</li>
                             </a>
-                            
+
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->
