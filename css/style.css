@@ -999,9 +999,8 @@ body {
   width: 100%;
   min-width: 100%;
   min-height: 400px;
-  background-color: #454545;
+  object-fit: contain;
   max-height: 400px;
-  object-fit: cover;
   position: relative;
 }
 .content-left img::after {
