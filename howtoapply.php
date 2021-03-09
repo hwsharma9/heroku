@@ -85,9 +85,9 @@
                             <a href="./coursesoffered.php">
                                 <li><span>🔗</span>Courses Offered</li>
                             </a>
-                            <a href="./">
+                            <!--<a href="./">
                                 <li><span>🔗</span>Admission Information Bulletin</li>
-                            </a>
+                            </a>-->
                             <a href="./fees.php">
                                 <li><span>🔗</span>Fee Structure</li>
                             </a>

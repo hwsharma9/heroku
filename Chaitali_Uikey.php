@@ -128,7 +128,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/ChaitaliUikey.pdf">Click
+                                            href="assets/pdf/resume ChaitaliUikey.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

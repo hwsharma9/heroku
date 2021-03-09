@@ -135,7 +135,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/chetan_RESUME.pdf">Click
+                                            href="assets/pdf/resume chetan.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

@@ -143,7 +143,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/Mohit_verma.pdf">Click
+                                            href="assets/pdf/resume Mohit_verma.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

@@ -35,26 +35,26 @@
                         <h2> Post Metric Scholarship</h2>
                         <hr>
                         <ul style="margin-left: 20px;">
-                            <a href="https://www.tribal.mp.gov.in/mptaas">
+                            <a href="assets/pdf/Advisory to Citizen for Beneficiary Profile Registration v1..pdf">
                                 <li class="content-link">Beneficiary Profile Registration for ST/SC Students</li>
                             </a>
-                            <a href="./#">
+                            <a href="https://www.tribal.mp.gov.in/mptaas">
                                 <li class="content-link">Apllication form for ST Students </li>
                             </a>
-                            <a href="./#">
+                            <a href=" http://scholarshipportal.mp.nic.in/Index.aspx">
                                 <li class="content-link">Application form for OBC and SC Students </li>
                             </a>
                                                                                
-                            <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
+                            <a href="assets/pdf/ScholarshipchecklistRenewFresh.pdf">
                                 <li class="content-link"> Checklist for Scholarship form</li>
                             </a>
-                            <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
+                            <a href="assets/pdf/StudentBankUndertakingpraoop4bOBC.pdf">
                                 <li class="content-link"> Bank details and Undertaking form for OBC Students</li>
                             </a>
-                            <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
+                            <a href="assets/pdf/praroop6SCSTbankaccountdetails.pdf">
                                 <li class="content-link"> Bank details and Undertaking form for SC/ST Students</li>
                             </a>
-                            <a href="">
+                            <a href="assets/pdf/Attendance.pdf">
                                 <li class="content-link"> Student’s Attendance Status sheet</li>
                         </ul>
                     </section>
@@ -62,15 +62,15 @@
                         <h2>Mukhyamantri Medhavi Vidhyarti Yojana (MMVY)</h2>
                         <hr>
                         <ul style="margin-left: 20px;">
-                            <a href="">
-                                <li class="content-link"> Registration Form</li>
-                                <a href="">
+                            <a href="http://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/Default.aspx">
+                                <li class="content-link"> Application Form</li>
+                                <a href="assets/pdf/Attendance Status Sheet.pdf">
                                 <li class="content-link"> Student’s Attendance Status Sheet</li>
                             </a>
-                            <a href="">
+                            <a href="assets/pdf/Check_list for new.pdf">
                                 <li class="content-link"> Checklist for Fresh Application</li>
                             </a>
-                            <a href="">
+                            <a href="assets/pdf/Check_list for old.pdf">
                                 <li class="content-link"> Checklist for Renew application </li>
                             </a>
                         </ul>
@@ -79,15 +79,15 @@
                         <h2> Mukhya Mantri Jan Kalyan Yojna (Siksha Protsahan)</h2>
                         <hr>
                         <ul style="margin-left: 20px;">
-                            <a href="">
+                            <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
                                 <li class="content-link"> Application Form</li>
-                                <a href="">
+                                <a href="assets/pdf/Attendance Status Sheet.pdf">
                                 <li class="content-link"> Student’s Attendance Status Sheet</li>
                             </a>
-                            <a href="">
+                            <a href="assets/pdf/Check_list_Jankalyan for new.pdf">
                                 <li class="content-link"> Checklist for Fresh Application</li>
                             </a>
-                            <a href="">
+                            <a href="assets/pdf/Check_list_Jankalyan for old.pdf">
                                 <li class="content-link"> Checklist for Renew Application </li>
                             </a>
                         </ul>
@@ -159,14 +159,14 @@
                         <div>
 
                             <ul>
-                                <a href="">
+                                <a href="assets/pdf/rule book.pdf">
                                     <li><span>🔗</span>Rule Book for General Scholarship</li>
                                 </a>
                                 
-                                <a href="">
-                                    <li><span>🔗</span>Instuctions for Beneficiary Profile Registration</li>
-                                </a>
-                                <a href="">
+                              <!--  <a href="assets/pdf/Advisory to Citizen for Beneficiary Profile Registration v1..pdf">
+                                    <li><span>🔗</span>Instructions for Beneficiary Profile Registration</li>
+                                </a> -->
+                                <a href="assets/pdf/Downloads Registration_form.pdf">
                                     <li><span>🔗</span>College Registration Form</li>
                                 </a>
 

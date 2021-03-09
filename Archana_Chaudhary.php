@@ -188,7 +188,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/Archana-Detailed-Profile.pdf">Click
+                                            href="assets/pdf/resume Archana-Detailed-Profile.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

@@ -144,7 +144,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/kls_Resume08012016.docx">Click
+                                            href="assets/pdf/resume kl suryawanshi.PDF">Click
                                             Here..</a>
                                     </td>
                                 </tr>

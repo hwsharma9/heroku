@@ -32,8 +32,7 @@
                     <h2>Technical Events</h2>
                     <hr>
                     <ul type="disc" style="margin-left: 20px;">
-                        <li>Webinar on "Mother Awaits Thought Warriors" by Shri Mukul Kanitkar, Bhartiya Shikshan Mandal, January 2021</li><br>
-
+                        
                         <li>Webinar on "Advances in Cloud Computing" by Mr. Srinivas Kandula, VMware, November 2020.</li><br>
 
                         <li>Webinar on "Art of Mind Control" by Mr. Raghavanand Das, Akshaya Patra Foundation, November 2020.</li><br>

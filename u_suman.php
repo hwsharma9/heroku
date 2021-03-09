@@ -321,7 +321,7 @@
                                         <b>Resume</b>
                                     </td>
                                     <td>
-                                        <a class="content-link" href="Resume/CV_US-1-9-2020.pdf">Click here..</a>
+                                        <a class="content-link" href="assets/pdf/resume_US-1-9-2020.pdf">Click here..</a>
                                     </td>
                                 </tr>
 

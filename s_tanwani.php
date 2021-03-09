@@ -101,7 +101,7 @@
                             <div class="s-line">
                                 <h4 class="s-head-font s-left">Detailed Resume </h4>
                                 <h4 class="s-content-font s-right">
-                                    <a href="./" class="content-link">click here...</a>
+                                    <a href="assets/pdf/resume Sanjay_Tanwani.pdf" class="content-link">click here...</a>
                                 </h4>
                             </div>
                         </div>

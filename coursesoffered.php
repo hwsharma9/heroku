@@ -380,15 +380,18 @@
                     <div class="sidebar-content" id="sidebar">
 
                         <ul>
-                            <a href="./">
+                            <a href="assets/pdf/Brochure-2020.pdf">
                                 <li><span>🔗</span>Admission Information Bulletin</li>
                             </a>
                             <a href="./fees.php">
                                 <li><span>🔗</span>Fee Structure</li>
                             </a>
-                            <a href="./howtoapply.php">
+                            <a href="./admission closed.php">
                                 <li><span>🔗</span>How to Apply</li>
                             </a>
+                           <!-- <a href="./howtoapply.php">
+                                <li><span>🔗</span>How to Apply</li>
+                            </a> -->
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->

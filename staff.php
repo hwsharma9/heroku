@@ -60,7 +60,7 @@
                                 <img loading="lazy" src="./images/facultyimg/nonteaching/santoshraghuwanshi.jpg"
                                     alt="Avatar" style="width: 100%" />
                                 <div class="faculty-card-container">
-                                    <h4><b>Dr. Santosh Raghuwanshi</b></h4>
+                                    <h4><b>Dr. Santosh Singh Raghuwanshi</b></h4>
                                     <!-- <p>MBA, Ph.D.</p> -->
                                     <p>Assistant Grade- II</p>
                                 </div>
@@ -86,6 +86,18 @@
                                     <!-- <p>H.Sc.</p> -->
                                     <p>Counter Clerk</p>
                                     <!-- <p>9993353984</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="faculty-card">
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/maheshverma.jpg" alt="Avatar"
+                                    style="width: 100%" />
+                                <div class="faculty-card-container">
+                                    <h4><b>Mr. Mahesh Verma</b></h4>
+                                  
+                                    <p>Office Superintendent</p>
+                                    
                                 </div>
                             </div>
                         </div>
