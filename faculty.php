@@ -54,7 +54,7 @@
                             <a href="./s_tanwani.php">
                                 <div class="flip-card-inner">
                                     <div class="flip-card-front">
-                                        <img src="./images/facultyimg/s_tanwani2.jpg" alt="Avatar" style="">
+                                        <img src="./images/facultyimg/stanwani.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
                                             <h3>Dr. Sanjay Tanwani</h3>
                                             <p>Professor & Head </p>

@@ -79,9 +79,7 @@
                             <a href="./assessment.php">
                                 <li><span>🔗</span>Assessment</li>
                             </a>
-                            <a href="./">
-                                <li><span>🔗</span>Academic Calendar</li>
-                            </a>
+                            
                             <a href="./EducationwithICT.php">
                                 <li><span>🔗</span>Education with ICT</li>
                             </a>

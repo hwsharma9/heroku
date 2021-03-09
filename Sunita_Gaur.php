@@ -136,7 +136,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/sunita_gour.pdf">Click
+                                            href="assets/pdf/resume sunita_gour.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

@@ -31,17 +31,17 @@
                     <h1>Course Curriculum</h1>
                     <h3>UG & PG Year Wise Course Curriculum</h3><br>
                     <ul>
-                        <a href="javascript::void(0)" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="javascript::void(0)" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="assets/pdf/2019-20 .rar" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="assets/pdf/2018-19 .rar" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="assets/pdf/2017-18 .zip" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
                         </ul>
                     <hr />
                     <br>
                     <h3> M.Tech. Course Curriculum</h3><br>
                     <ul>
-                    <a href="/assets/pdf/MtechCourseCurriculum2019-20.pdf" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href="/assets/pdf/MtechCourseCurriculum2018-19.pdf" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                <a href="/asset/pdf/MtechCourseCurriculum2017-18.pdf" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="assets/pdf/MtechCourseCurriculum2019-20.pdf" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="assets/pdf/MtechCourseCurriculum2018-19.pdf" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <a href="assets/pdf/MtechCourseCurriculum2017-18.pdf" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
                      
                     </ul>
                     <br>

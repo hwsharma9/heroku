@@ -123,7 +123,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/panakj jagtap.pdf">Click
+                                            href="assets/pdf/resume panakj jagtap.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

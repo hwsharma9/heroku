@@ -74,9 +74,7 @@
                             <a href="./assessment.php">
                                 <li><span>🔗</span>Assessment</li>
                             </a>
-                            <a href="./">
-                                <li><span>🔗</span>Academic Calendar</li>
-                            </a>
+                           
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->

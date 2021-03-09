@@ -206,7 +206,7 @@
                                         <b>Detailed Resume</b>
                                     </td>
                                     <td colspan="2">
-                                        <a class="content-link" href="ResumeforNet22062017.pdf">Click Here..</a>
+                                        <a class="content-link" href="assets/pdf/Resume pkanungo.pdf">Click Here..</a>
                                     </td>
                                 </tr>
                             </table>

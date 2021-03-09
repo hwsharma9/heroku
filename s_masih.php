@@ -220,7 +220,7 @@
                                         <b>Detailed Resume</b>
                                     </td>
                                     <td colspan="2">
-                                        <a href="http://www.scs.dauniv.ac.in/faculty/Resume/SHRADDHA_MASIH.pdf">Click
+                                        <a href="assets/pdf/resume SHRADDHA_MASIH.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

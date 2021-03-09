@@ -68,21 +68,19 @@
                         <ul>
 
                             <a href="./wificampus.php">
-                                <li><span>🔗</span> Wifi Campus</li>
+                                <li><span>🔗</span>Wifi Campus</li>
                             </a>
                             <a href="./nss.php">
-                                <li><span>🔗</span> NSS</li>
+                                <li><span>🔗</span>NSS</li>
                             </a>
                             <a href="./learnbyearnscheme.php">
-                                <li><span>🔗</span> Learn by Earn Scheme</li>
+                                <li><span>🔗</span>Learn by Earn Scheme</li>
                             </a>
                             <a href="./remedialclasses.php">
                                 <li><span>🔗</span>Remedial Classes </li>
                             </a>
 
-                            <a href="./swachhbharatabhiyan.php">
-                                <li><span>🔗</span> Swachh Bharat Abhiyan</li>
-                            </a>
+                            
                             <a href="./samarpan.php">
                                 <li><span>🔗</span>SAMARPAN </li>
                             </a>
@@ -90,10 +88,10 @@
                                 <li><span>🔗</span>Blood Donation Camp </li>
                             </a>
                             <a href="./treeplantation.php">
-                                <li><span>🔗</span> Tree Plantation</li>
+                                <li><span>🔗</span>Tree Plantation</li>
                             </a>
                             <a href="./sports.php">
-                                <li><span>🔗</span> Sports</li>
+                                <li><span>🔗</span>Sports</li>
                             </a>
                         </ul>
                         <!-- SIDEBAR LINKS START   -->

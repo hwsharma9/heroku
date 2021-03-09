@@ -36,9 +36,10 @@
                 </a>
                 <div class="dropdown-content">
                     <a href="./coursesoffered.php">Courses Offered</a>
-                    <a href="./">Admission Information Bulletin</a>
+                    <a href="assets/pdf/Brochure-2020.pdf">Admission Information Bulletin</a>
                     <a href="./fees.php">Fee Structure</a>
-                    <a href="./howtoapply.php">How to Apply</a>
+                   <!-- <a href="./howtoapply.php">How to Apply</a> -->
+                    <a href="./admission closed.php">How to Apply</a>
                 </div>
             </div>
             <!-- dropdown  -->

@@ -50,14 +50,17 @@
                                 Form</a>
                         </li><br />
                         <li>
-                            <a class="content-link" href="#">No Dues Certificate</a>
+                            <a class="content-link" href="assets/pdf/Downloads Nodues form.pdf">No Dues Certificate</a>
                         </li><br />
                        
                         <li>
-                            <a class="content-link" href="#">Casual Leave Application</a>
+                            <a class="content-link" href="assets/pdf/Downloads CL application.pdf">Casual Leave Application</a>
                         </li><br />
                         <li>
                             <a class="content-link" href="assets/pdf/Library membarship_form.pdf">Library Membership Form</a>
+                        </li><br />
+                        <li>
+                            <a class="content-link" href="assets/pdf/Downloads City bus.pdf">Certificate format for City Bus Pass</a>
                         </li><br />
                         
                         

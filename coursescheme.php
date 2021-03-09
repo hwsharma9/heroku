@@ -139,9 +139,7 @@
                     <div class="sidebar-content" id="sidebar">
 
                         <ul>
-                            <a href="./">
-                                <li><span>🔗</span>Academic Calendar</li>
-                            </a>
+                            
                             <a href="./assessment.php">
                                 <li><span>🔗</span>Assessment</li>
                             </a>

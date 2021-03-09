@@ -50,13 +50,22 @@
             <div class="hr-right">
                 <div id="header-slider" class="owl-carousel owl-theme head-carousel">
                     <div class="item">
-                        <img src="./images/hr-slider/01.jpg" alt="SCSIT" loading="lazy" />
+                        <img src="./images/hr-slider/Front1.jpg" alt="SCSIT" loading="lazy" />
                     </div>
                     <div class="item">
-                        <img src="./images/hr-slider/02.jpg" alt="SCSIT" loading="lazy" />
+                        <img src="./images/hr-slider/Front2.jpg" alt="SCSIT" loading="lazy" />
                     </div>
                     <div class="item">
-                        <img src="./images/hr-slider/03.jpg" alt="SCSIT" loading="lazy" />
+                        <img src="./images/hr-slider/Front3.jpg" alt="SCSIT" loading="lazy" />
+                    </div>
+                    <div class="item">
+                        <img src="./images/hr-slider/Front4.jpg" alt="SCSIT" loading="lazy" />
+                    </div>
+                    <div class="item">
+                        <img src="./images/hr-slider/Front5.jpg" alt="SCSIT" loading="lazy" />
+                    </div>
+                    <div class="item">
+                        <img src="./images/hr-slider/Front6.jpg" alt="SCSIT" loading="lazy" />
                     </div>
                 </div>
             </div>

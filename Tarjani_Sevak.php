@@ -148,7 +148,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/tarjani_sevak.pdf">Click
+                                            href="assets/pdf/resume tarjani_sevak.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

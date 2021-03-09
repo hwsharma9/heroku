@@ -133,7 +133,7 @@
                                     </td>
                                     <td colspan="2">
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Resume/Deepika_resume-july2020.pdf">Click
+                                            href="assets/pdf/resume Deepika_july2020.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>

@@ -180,7 +180,7 @@
                                         <b>Detailed Resume</b>
                                     </td>
                                     <td colspan="2">
-                                        <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Nitin_Uikey.pdf">Click
+                                        <a href="assets/pdf/resume Nitin_Uikey.pdf">Click
                                             Here..</a>
                                     </td>
                                 </tr>
