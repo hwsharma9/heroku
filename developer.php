@@ -72,15 +72,17 @@
                             </div>
                         </div>
                         <div class="item">
-                            <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/lishu.jpg" alt="Avatar"
-                                    style="width: 100%" />
-                                <div class="faculty-card-container">
-                                    <h4></b>Mr. Lishu Gupta</h4>
-                                    <!-- <p>MBA, Ph.D.</p> -->
-                                    <p>Student</p>
+                            <a href="https://gitman.ml">
+                                <div class="faculty-card">
+                                    <img loading="lazy" src="./images/facultyimg/nonteaching/lishu.jpg" alt="Avatar"
+                                        style="width: 100%" />
+                                    <div class="faculty-card-container">
+                                        <h4></b>Mr. Lishu Gupta</h4>
+                                        <!-- <p>MBA, Ph.D.</p> -->
+                                        <p>Student</p>
+                                    </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
                         <div class="item">
                             <div class="faculty-card">
