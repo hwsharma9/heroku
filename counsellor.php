@@ -14,6 +14,18 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style>
+    .counsellor-flex {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    @media (max-width: 600px) {
+        .counsellor-flex {
+            flex-direction: column;
+        }
+    }
+    </style>
 </head>
 
 <body>
@@ -32,7 +44,7 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Counsellor</h1>
                     <br>
-                    <div style="display:flex;justify-content: space-evenly;">
+                    <div class="counsellor-flex" style="display:flex;justify-content: space-evenly;">
                         <div>
                             <h2>Dr. Shraddha Masih</h2>
                             <p><strong>Mobile : </strong>9893107558</p>
