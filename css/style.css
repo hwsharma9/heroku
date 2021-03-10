@@ -1154,7 +1154,7 @@ body {
 }
 .f-button {
   padding: 10px;
-  background-color: #10a051;
+  background-color: var(--primary-color);
   color: white;
   box-shadow: 0 0px 6px 0 rgba(66, 46, 46, 0.3);
   box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.3);
