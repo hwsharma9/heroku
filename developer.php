@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -35,6 +36,21 @@
             height: 300px;
 
         }
+
+        .faculty .faculty-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+        .faculty-card {
+            /* box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%); */
+            transition: 0.3s;
+            width: 262px;
+            text-align: center;
+            margin: 10px 50px;
+        }
         </style>
         <div class="primary-container faculty">
             <div class="main-content-area" id="main-content-area">
@@ -57,8 +73,8 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/lishu.jpg"
-                                    alt="Avatar" style="width: 100%" />
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/lishu.jpg" alt="Avatar"
+                                    style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4></b>Mr. Lishu Gupta</h4>
                                     <!-- <p>MBA, Ph.D.</p> -->
@@ -68,8 +84,8 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/harshwardhan.jpg"
-                                    alt="Avatar" style="width: 100%" />
+                                <img loading="lazy" src="./images/facultyimg/nonteaching/harshwardhan.jpg" alt="Avatar"
+                                    style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Mr. Harshwardhan Sharma</b></h4>
                                     <!-- <p>12th</p> -->
@@ -77,8 +93,8 @@
                                 </div>
                             </div>
                         </div>
-                      
-                       
+
+
                     </div>
                 </div>
             </div>
