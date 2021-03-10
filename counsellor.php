@@ -44,7 +44,7 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Counsellor</h1>
                     <br>
-                    <div class="counsellor-flex" style="display:flex;justify-content: space-evenly;">
+                    <div class="counsellor-flex">
                         <div>
                             <h2>Dr. Shraddha Masih</h2>
                             <p><strong>Mobile : </strong>9893107558</p>
