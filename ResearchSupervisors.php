@@ -44,46 +44,90 @@
                                     <th>Area of Research</th>
                                 </tr>
                                 <tr>
-                                    <td>Dr. Sanjay Tanwani </td>
+                                    <td>
+                                        <a href="./s_tanwani.php">
+                                            Dr. Sanjay Tanwani
+                                        </a>
+                                    </td>
                                     <td>Embedded Systems, Advanced Database System</td>
                                 </tr>
                                 <tr>
-                                    <td>Dr. Maya Ingle </td>
+                                    <td>
+
+                                        <a href="./m_ingle.php">
+                                            Dr. Maya Ingle
+                                        </a>
+                                    </td>
                                     <td>Statistical Language Processing, Algorithms</td>
                                 </tr>
                                 <tr>
-                                    <td>Dr. Priyesh Kanungo </td>
+                                    <td>
+
+                                        <a href="./Priyesh_Kanungo.php">
+                                            Dr. Priyesh Kanungo
+                                        </a>
+                                    </td>
                                     <td>Advance Operating Systems, Artificial Intelligence</td>
                                 </tr>
                                 <tr>
-                                    <td>Dr. Ugrasen Suman</td>
+                                    <td>
+
+                                        <a href="./u_suman.php">
+                                            Dr. Ugrasen Suman
+                                        </a>
+                                    </td>
                                     <td>Software Engineering, Agile Software Development, Service Oriented Computing,
                                         Big Data Software Engineering</td>
                                 </tr>
 
                                 <tr>
-                                    <td>Dr. Preeti Saxena</td>
+                                    <td>
+
+                                        <a href="./p_saxsena.php">
+                                            Dr. Preeti Saxena
+                                        </a>
+                                    </td>
                                     <td>Mobile Computing, Networking</td>
                                 </tr>
 
                                 <tr>
-                                    <td>Dr. Shraddha Masih</td>
+                                    <td>
+
+                                        <a href="./s_masih.php">
+                                            Dr. Shraddha Masih
+                                        </a>
+                                    </td>
                                     <td>Data Mining and Warehousing</td>
                                 </tr>
 
                                 <tr>
-                                    <td>Dr. Ajay Tiwari</td>
+                                    <td>
+
+                                        <a href="./Ajay_Tiwari.php">
+                                            Dr. Ajay Tiwari
+                                        </a>
+                                    </td>
                                     <td>Optimization Techniques, Networking</td>
                                 </tr>
 
                                 <tr>
-                                    <td>Dr. Archana Thakur</td>
+                                    <td>
+
+                                        <a href="./Archana_Chaudhary.php">
+                                            Dr. Archana Thakur
+                                        </a>
+                                    </td>
                                     <td>Artificial Intelligence, Machine Learning, Software Engineering, Data Science,
                                         Cloud Computing</td>
                                 </tr>
 
                                 <tr>
-                                    <td>Dr. Deepak Abhyankar</td>
+                                    <td>
+
+                                        <a href="./Deepak_Abhyankar.php">
+                                            Dr. Deepak Abhyankar
+                                        </a>
+                                    </td>
                                     <td>Data Science, Algorithms</td>
                                 </tr>
 
