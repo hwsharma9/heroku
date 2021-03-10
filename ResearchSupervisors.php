@@ -34,9 +34,13 @@
                     <h1> Research Supervisors</h1>
                     <section>
                         <div style="overflow-x:auto;">
-                            <table id="table">
+                            <table id="table" style="width:100%">
+                                <colgroup>
+                                    <col span="6" style="">
+                                    <col style="">
+                                </colgroup>
                                 <tr>
-                                    <th>Research Supervisors </th>
+                                    <th style="width: 200px">Research Supervisors </th>
                                     <th>Area of Research</th>
                                 </tr>
                                 <tr>
@@ -53,7 +57,8 @@
                                 </tr>
                                 <tr>
                                     <td>Dr. Ugrasen Suman</td>
-                                    <td>Software Engineering, Agile Software Development, Service Oriented Computing, Big Data Software Engineering</td>
+                                    <td>Software Engineering, Agile Software Development, Service Oriented Computing,
+                                        Big Data Software Engineering</td>
                                 </tr>
 
                                 <tr>
@@ -73,7 +78,8 @@
 
                                 <tr>
                                     <td>Dr. Archana Thakur</td>
-                                    <td>Artificial Intelligence, Machine Learning, Software Engineering, Data Science, Cloud Computing</td>
+                                    <td>Artificial Intelligence, Machine Learning, Software Engineering, Data Science,
+                                        Cloud Computing</td>
                                 </tr>
 
                                 <tr>
@@ -95,7 +101,7 @@
                             <a href="./DepartmentalResearchCommittee.php">
                                 <li><span>🔗</span>Departmental Research Committee</li>
                             </a>
-                           
+
                             <a href="./Facilities.php">
                                 <li><span>🔗</span>Facilities</li>
                             </a>
