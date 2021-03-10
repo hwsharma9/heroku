@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -14,55 +15,62 @@
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
     <style type="text/css">
-        . {
-          box-sizing: border-box;
-          margin: 0 ;
-        }
+    . {
+        box-sizing: border-box;
+        margin: 0;
+    }
 
-        .container {
-          margin: 0 auto;
-          max-width: 1200px;
-          padding: 0 1rem;
-        }
+    .container {
+        margin: 0 auto;
+        max-width: 1200px;
+        padding: 0 1rem;
+    }
 
-        .responsive-image {
-          max-width: 100%;
-        }
-        .cell img {
-          display: block;
-        }
-        @media screen and (min-width: 600px){
-          .grid {
+    .responsive-image {
+        max-width: 100%;
+    }
+
+    .cell img {
+        display: block;
+    }
+
+    @media screen and (min-width: 600px) {
+        .grid {
             display: flex;
             flex-wrap: wrap;
             flex-direction: row;
-          }
-          .cell {
-            width:50%;
-          }
-        }
-        @media screen and (min-width: 1000px){
-          .cell {
-            width:calc (100%/3);
-          }
-        }
-        .cell {
-          margin: 1rem;
-        }
-        .cell h3{
-          text-align: center;
         }
 
-        @media screen and (min-width: 600px){
-          .cell {
-            width: calc(50% - 2rem);
-          }
+        .cell {
+            width: 50%;
         }
-        @media screen and (min-width: 1000px){
-          .cell{
-            width: calc(50% - 2rem);
-          }
+    }
+
+    @media screen and (min-width: 1000px) {
+        .cell {
+            width: calc (100%/3);
         }
+    }
+
+    .cell {
+        margin: 1rem;
+    }
+
+    .cell h3 {
+        text-align: center;
+    }
+
+    @media screen and (min-width: 600px) {
+        .cell {
+            width: calc(50% - 2rem);
+        }
+    }
+
+    @media screen and (min-width: 1000px) {
+        .cell {
+            width: calc(50% - 2rem);
+        }
+    }
     </style>
 </head>
 
@@ -107,22 +115,26 @@
                         </li><br />
                     </ul>
 
-                    
-                    <div class="container">
-                        <div class="grid">
-                            <div class="cell">
-                                <img src="./images/Pics/Library-1.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
-                            </div>
-                            <div class="cell">
-                                <img src="./images/Pics/Library-2.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
-                            </div>
-                            <div class="cell">
-                                <img src="./images/Pics/Library-3.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
-                            </div>
-                            <div class="cell">
-                                <img src="./images/Pics/Library-4.jpg" alt="CAMPUS" loading="lazy" class="responsive-image" />
-                            </div>
+
+
+                    <div class="sl-image">
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Library-1.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
                         </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Library-2.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Library-3.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+                        <div class="sl-img-col">
+                            <img src="./images/Pics/Library-4.jpg" alt="CAMPUS" loading="lazy"
+                                class="responsive-image" />
+                        </div>
+
                     </div>
 
                 </div>
