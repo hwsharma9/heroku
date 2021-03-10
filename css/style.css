@@ -29,7 +29,6 @@ img {
 }
 ul li {
   list-style-position: outside;
-
 }
 .font {
   /* color: #232323; */
@@ -385,7 +384,7 @@ body {
   line-height: 1.71429;
   letter-spacing: 0.25px;
   font-weight: 600;
-  color:#ad1219;
+  color: #ad1219;
 }
 .hr-left-w h5 {
   /* color: #232323; */
@@ -633,7 +632,7 @@ body {
 .nacc-card {
   padding: 30px;
   z-index: 10;
-  color:#134486;
+  color: #134486;
 }
 .h-wr-left .nacc-card ul li {
   color: black;
@@ -680,8 +679,7 @@ body {
   cursor: pointer;
 }
 .news-card:hover {
-  color: white !important;
-  background-color: #134486 ;
+  background-color: #134486;
 }
 .news-card-container {
   max-height: 350px;
@@ -702,7 +700,7 @@ body {
   float: right;
   font-size: 12px;
   padding: 10px;
-  background-color: #134486 ;
+  background-color: #134486;
   color: white;
   cursor: pointer;
   display: flex;
@@ -827,21 +825,7 @@ body {
 }
 .marquee-flex a:hover {
   cursor: pointer;
-<<<<<<< HEAD
-<<<<<<< HEAD
-  color: rgb(32, 191, 107, 0.7);
-=======
-  letter-spacing: 0.5px;
-  opacity: 80%;
->>>>>>> a7c2464fad42ee80a501cc5346d0bd99992fdc6a
-=======
-
-  color: rgb(32, 191, 107, 0.7);
-
-  letter-spacing: 0.5px;
-  opacity: 80%;
-
->>>>>>> d5fd6fb55aba985052f558d3159095c5a0b67ccb
+  color: red;
 }
 /* NEW MARQUEE */
 .marquee-flex .all-news {
@@ -908,7 +892,7 @@ body {
 }
 .sidebar {
   font-family: "Roboto Condensed", sans-serif;
-  color: #134486
+  color: #134486;
 }
 .content-right {
   width: 28%;
@@ -1042,7 +1026,6 @@ body {
 /****************************************************************
  *************** QUOTES *******************************/
 .quote-container {
-
   padding: 48px 20px 60px 25px;
   margin: 45px 0 0 -15px;
   border-radius: 10px;
@@ -1063,7 +1046,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
   line-height: 1.5;
   font-size: 16px;
-  color:#134486;
+  color: #134486;
 }
 #authorBody {
   text-align: right;
@@ -1442,7 +1425,7 @@ body {
 @media (max-width: 600px) {
   html {
   }
-  
+
   .footer {
   }
   .footer-content .ft-block {
@@ -1462,15 +1445,15 @@ body {
     width: 100%;
     margin: 0;
     padding: 10px;
-}
-.s-fac .fac-right {
-  width: 100%;
-  overflow: auto;
-}
+  }
+  .s-fac .fac-right {
+    width: 100%;
+    overflow: auto;
+  }
   .fac-right .s-left {
     width: initial;
   }
-  .fac-right h4{
-    width: 100%;;
+  .fac-right h4 {
+    width: 100%;
   }
 }
