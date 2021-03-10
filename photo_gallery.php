@@ -4,10 +4,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="To achieve excellent standards of quality education by keeping
-                            pace with rapidly changing technologies & create computer
-                            professionals of global standards with capabilities of accepting
-                            new challenges.">
+    <meta name="description"
+        content="To achieve excellent standards of quality education by keeping pace with rapidly changing technologies & create computer professionals of global standards with capabilities of accepting new challenges.">
     <meta name="keywords" content="SCSIT, INDORE, DAVV, COMPUTER SCIENCE, COLLEGE">
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
@@ -16,75 +14,67 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
-    <style type="text/css" media="screen">
-        .container {
-            max-width: 100rem;
-            margin: 0 auto;
-            padding: 0 2rem 2rem;
-        }
+    <style type="text/css">
+    . {
+        box-sizing: border-box;
+        margin: 0;
+    }
 
-        #image-gallery .heading {
-            font-family: "Montserrat", Arial, sans-serif;
-            font-size: 4rem;
-            font-weight: 500;
-            line-height: 1.5;
-            text-align: center;
-            padding: 3.5rem 0;
-            color: #1a1a1a;
-        }
+    .container {
+        margin: 0 auto;
+        max-width: 1200px;
+        padding: 0 1rem;
+    }
 
-        #image-gallery .heading span {
-            display: block;
-        }
+    .responsive-image {
+        max-width: 100%;
+    }
 
-        #image-gallery .gallery {
+    .cell img {
+        display: block;
+    }
+
+    @media screen and (min-width: 600px) {
+        .grid {
             display: flex;
             flex-wrap: wrap;
-            /* Compensate for excess margin on outer gallery flex items */
-            margin: -1rem -1rem;
+            flex-direction: row;
         }
 
-        #image-gallery .gallery-item {
-            /* Minimum width of 24rem and grow to fit available space */
-            flex: 1 0 24rem;
-            /* Margin value should be half of grid-gap value as margins on flex items don't collapse */
-            margin: 1rem;
-            box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
-            overflow: hidden;
+        .cell {
+            width: 50%;
         }
+    }
 
-        #image-gallery .gallery-image {
-            display: block;
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            transition: transform 400ms ease-out;
+    @media screen and (min-width: 1000px) {
+        .cell {
+            width: calc (100%/3);
         }
+    }
 
-        #image-gallery .gallery-image:hover {
-            transform: scale(1.15);
+    .cell {
+        margin: 1rem;
+    }
+
+    .cell h3 {
+        text-align: center;
+    }
+
+    @media screen and (min-width: 600px) {
+        .cell {
+            width: calc(50% - 2rem);
         }
+    }
 
-        /*
-
-        The following rule will only run if your browser supports CSS grid.
-
-        Remove or comment-out the code block below to see how the browser will fall-back to flexbox styling. 
-
-        */
-
-        @supports (display: grid) {
-            .#image-gallery gallery {
-                display: grid;
-                grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
-                grid-gap: 2rem;
-            }
-
-            #image-gallery .gallery,
-            .gallery-item {
-                margin: 0;
-            }
+    @media screen and (min-width: 1000px) {
+        .cell {
+            width: calc(33.33% - 2rem);
         }
+    }
+
+    .seprator {
+        margin-bottom: 400px;
+    }
     </style>
 </head>
 
@@ -100,49 +90,35 @@
         <!-- main content area -->
         <div class="primary-container">
             <div class="main-content-area" id="main-content-area">
-                <div class="content-left padding-border">
+                <div class="content-left" style="width: 100%;">
                     <!-- ADD NEW CONTENT DOWN HERE -->
 
                     <h1>Photo Gallery</h1>
-                    <div class="container" id="image-gallery">
-
-                        <div class="gallery">
-
-                            <div class="gallery-item">
-                                <img class="gallery-image" src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+                    <div class="container">
+                        <div class="grid">
+                            <div class="cell">
+                                <img src="./images/campustour/1_scsit.JPG" class="responsive-image">
                             </div>
-
-                            <div class="gallery-item">
-                                <img class="gallery-image" src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop" alt="sunset behind San Francisco city skyline">
+                            <div class="cell">
+                                <img src="./images/campustour/2_SCSIT Front Garden.JPG" class="responsive-image">
                             </div>
-
-                            <div class="gallery-item">
-                                <img class="gallery-image" src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+                            <div class="cell">
+                                <img src="./images/campustour/3(1)_Entrance Gate.JPG" class="responsive-image">
                             </div>
-
-                            <div class="gallery-item">
-                                <img class="gallery-image" src="https://images.unsplash.com/photo-1514041181368-bca62cceffcd?w=500&h=500&fit=crop" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
-                            </div>
-
-                            <div class="gallery-item">
-                                <img class="gallery-image" src="https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=500&h=500&fit=crop" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
-                            </div>
-
-                            <div class="gallery-item">
-                                <img class="gallery-image" src="https://images.unsplash.com/photo-1486334803289-1623f249dd1e?w=500&h=500&fit=crop" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
-                            </div>
-
                         </div>
-
-                    </div>
-                </div>
-
-                <div class="sidebar content-right">
-                    <div class="sidebar-content" id="sidebar">
-                        <!-- SIDEBAR LINKS START   -->
-                        <?php include './includes/sidebarlinks.php';?>
-                        <!-- SIDEBAR LINKS END -->
-
+                        <h1 class="seprator">OUTDOOR</h1>
+                        <div class="grid">
+                            <div class="cell">
+                                <img src="./images/campustour/1_scsit.JPG" class="responsive-image">
+                            </div>
+                            <div class="cell">
+                                <img src="./images/campustour/2_SCSIT Front Garden.JPG" class="responsive-image">
+                            </div>
+                            <div class="cell">
+                                <img src="./images/campustour/3(1)_Entrance Gate.JPG" class="responsive-image">
+                            </div>
+                        </div>
+                        <h1 class="seprator">INDOOR</h1>
                     </div>
                 </div>
             </div>
