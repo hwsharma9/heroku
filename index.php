@@ -19,14 +19,15 @@
         <link rel="stylesheet" href="./css/style.css">
     </noscript> -->
     <style>
-    /* .owl-stage-outer {
-            margin-right: 50px;
-            margin-top: 30px;
-            box-shadow: 5px 5px 20px black;
-        }
-        #placement-slider .owl-stage-outer { 
-                margin-right: 0px !important;
-        } */
+    .owl-stage-outer {
+        margin-right: 50px;
+        margin-top: 30px;
+        box-shadow: 5px 5px 20px black;
+    }
+
+    #placement-slider .owl-stage-outer {
+        margin-right: 0px !important;
+    }
 
     #vision-list {
         list-style-type: none;
