@@ -18,15 +18,19 @@
     <noscript>
         <link rel="stylesheet" href="./css/style.css">
     </noscript> -->
-    <style type="text/css">
-        .owl-stage-outer {
+    <style>
+    /* .owl-stage-outer {
             margin-right: 50px;
             margin-top: 30px;
             box-shadow: 5px 5px 20px black;
         }
         #placement-slider .owl-stage-outer { 
                 margin-right: 0px !important;
-        }
+        } */
+
+    #vision-list {
+        list-style-type: none;
+    }
     </style>
 
 </head>
@@ -130,7 +134,7 @@
                 <div class="nacc-card">
                     <h1 class="anim">Vision</h1>
                     <ul>
-                        <li class="anim">
+                        <li class="anim" id="vision-list">
                             "To achieve excellent standards of quality education by keeping
                             pace with rapidly changing technologies & create computer
                             professionals of global standards with capabilities of accepting
@@ -183,4 +187,5 @@
     <script src="./js/owl.js"></script>
     <script src="./js/homepage.js"></script>
 </body>
+
 </html>
