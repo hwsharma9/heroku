@@ -27,6 +27,10 @@
 img {
   object-fit: initial;
 }
+ul li {
+  list-style-position: outside;
+
+}
 .font {
   /* color: #232323; */
   font-size: 14px;
