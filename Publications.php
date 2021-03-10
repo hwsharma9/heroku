@@ -15,6 +15,20 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style type="text/css">
+    .content-left {
+        border: none;
+    }
+
+    .content-left h1 {
+        font-size: 16px;
+    }
+
+    .news-card {
+        padding: 10px;
+        margin: 10px 0;
+    }
+    </style>
 </head>
 
 <body>
@@ -29,23 +43,36 @@
         <!-- main content area -->
         <div class="primary-container">
             <div class="main-content-area" id="main-content-area">
-                <div class="content-left padding-border">
+                <div class="content-left  padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Publications</h1>
-                    <ul>
-                        <a href="./BookPublications.php">
-                            <li class="content-link">Book Publications</li>
-                        </a>
-                        <a href="./BookChapterPublications.php">
-                            <li class="content-link">Book Chapter Publications</li>
-                        </a>
-                        <a href="./JournalPublications.php">
-                            <li class="content-link">Journal Publications</li>
-                        </a>
-                        <a href="./ConferencePublications.php">
-                            <li class="content-link">Conference Publications</li>
-                        </a>
-                    </ul>
+                    <h3 style="text-align:center;margin: 20px 0">Student Life</h3>
+                    <div class="news-wrapper">
+                        <div class="all-news">
+
+                            <a href="./BookPublications.php">
+                                <div class="news-card">
+                                    <h1>Book Publications</h1>
+                                </div>
+                            </a>
+                            <a href="./BookChapterPublications.php">
+                                <div class="news-card">
+                                    <h1>Book Chapter Publications</h1>
+                                </div>
+                            </a>
+                            <a href="./JournalPublications.php">
+                                <div class="news-card">
+                                    <h1>Journal Publications</h1>
+                                </div>
+                            </a>
+                            <a href="./ConferencePublications.php">
+                                <div class="news-card">
+                                    <h1>Conference Publications</h1>
+                                </div>
+                            </a>
+
+                        </div>
+                    </div>
+
 
                 </div>
 
@@ -62,7 +89,7 @@
                             <a href="./Facilities.php">
                                 <li><span>🔗</span>Facilities</li>
                             </a>
-                            
+
                             <a href="./upcoming_events.php">
                                 <li><span>🔗</span>Seminars, Workshops & Conferences</li>
                             </a>

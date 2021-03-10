@@ -96,18 +96,18 @@
                     <div class="sidebar-content" id="sidebar">
 
                         <ul>
-                           
+
                             <a href="./BookChapterPublications.php">
                                 <li><span>🔗</span>Book Chapter Publications</li>
                             </a>
-                           
+
                             <a href="./JournalPublications.php">
                                 <li><span>🔗</span>Journal Publications</li>
                             </a>
                             <a href="./ConferencePublications.php">
                                 <li><span>🔗</span>Conference Publications</li>
                             </a>
-                            
+
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->
