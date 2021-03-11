@@ -71,21 +71,27 @@
                                     </td>
                                 </tr>
 
-
                                 <tr>
                                     <td>
-                                        <b> Teaching Subjects </b>
+                                        <b>Current Subjects </b>
                                     </td>
                                     <td colspan="2">
-                                        Discrete Structures, Operating System, Data Structures, Programming in C and
-                                        C++, Engineering Mathematics </td>
+                                        Mathematical Foundation of Computer Science, Engineering Mathematics, Data Structures using C++ </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <b>Subjects Taught </b>
+                                    </td>
+                                    <td colspan="2">
+                                        Discrete Structures, Operating System, Data Structures and Algorithms, Programming in C and
+                                        C++, Engineering Mathematics, Mathematical Foundation of Computer Science</td>
                                 </tr>
 
                                 <tr>
                                     <td>
                                         <b>Publication</b>
                                     </td>
-                                    <td colspan="2">4</td>
+                                    <td colspan="2">2 Research Papers in Conference and  2 Research Papers in Journal</td>
                                 </tr>
 
 

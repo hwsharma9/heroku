@@ -67,12 +67,12 @@
                             <a href="./IQAC.php">
                                 <li class=""><span>🔗</span>IQAC</li>
                             </a>
-                            <a href="./assets/pdf/Jan-may-18.pdf">
+                            <!--<a href="./assets/pdf/Jan-may-18.pdf">
                                 <li class=""><span>🔗</span>Report: Assessment Workshop Jan-May, 2018</li>
                             </a>
                             <a href="./assets/pdf/july-dec, 2018.pdf">
                                 <li class=""><span>🔗</span>Report: Assessment Workshop July-Dec., 2018</li>
-                            </a>
+                            </a> -->
                         </ul>
                         <!-- SIDEBAR LINKS START   -->
                         <?php include './includes/sidebarlinks.php';?>

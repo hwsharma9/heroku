@@ -114,7 +114,7 @@
                                         <b>Awards Conferred</b>
                                     </td>
                                     <td colspan="2">
-                                        <ul type="disc">
+                                        <ul type="disc" style="margin-left: 10px;">
                                             <li>
                                                 Gold Medal in M.Sc. (Statistics)
                                             </li>
@@ -139,7 +139,7 @@
                                         <b>Positions held</b>
                                     </td>
                                     <td colspan="2">
-                                        <ul type="disc">
+                                        <ul type="disc" style="margin-left: 10px;">
                                             <li>
                                                 Presently, working as Professor/ Senior System Analyst, School of
                                                 Computer Science and Information Technology, D.A. University for past 10
@@ -178,7 +178,7 @@
                                         <b>Research Activities</b>
                                     </td>
                                     <td colspan="2">
-                                        <ul type="disc">
+                                    <ul type="disc" style="margin-left: 10px;">
                                             <li>
                                                 Eight research scholars have been awarded Ph.D.
                                             </li>
@@ -225,7 +225,7 @@
                                         <b>Community Commitments</b>
                                     </td>
                                     <td colspan="2">
-                                        <ul type="disc">
+                                    <ul type="disc" style="margin-left: 10px;">
                                             <li>
                                                 Vice President, Board of Directors, IPS Co-operative Bank in Board of
                                                 Directors since 2006.

@@ -38,7 +38,8 @@
                     <hr>
                     <p>
 
-                    <ul>
+                   
+                    <ul style="margin-left: 20px;">
 
                         <li>Towards designing an effective software process for global software development
                             (Ritu Jain, 2019).

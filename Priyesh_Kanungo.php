@@ -60,7 +60,7 @@
                                     </td>
                                     <td>
                                         Ph.D.(Computer Engineering),
-                                        B.E., M.E.(Comp. Engg.), M.Phil.(Comp.Sc.)
+                                        BE, ME, M.Phil.(CS)
 
                                     </td>
                                 </tr>
@@ -115,10 +115,10 @@
                                                 including SCI Journals.
                                             </li>
                                             <li>
-                                                PhD guide in Comp Engg/Comp/Sc.
+                                                PhD guide in Computer Engineering/Computer Science
                                             </li>
                                             <li>
-                                                Guides 03 Ph Ds/ Guiding 08 PhDs
+                                                Guides 03 PhDs/ Guiding 08 PhDs
                                             </li>
                                         </ul>
                                     </td>
@@ -156,7 +156,7 @@
                                         <b> Other Contributions</b>
                                     </td>
                                     <td colspan="2">
-                                        Member DAVV college Inspection Committee, UGC Expert in Comp. Sc and App., NBA
+                                        Member DAVV college Inspection Committee, UGC Expert in CS and Application, NBA
                                         Expert in CSE/IT UG and PG Courses
                                     </td>
                                 </tr>

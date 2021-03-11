@@ -39,14 +39,15 @@
                            <a href="./exam&results.php">
                                <li>Examination</li><br />
                            </a>
-                           <a href="./library.php">
-                               <li>Library</li><br />
-                           </a>
-                           <a href="./MOU's&Projects.php">
-                               <li>Collaboration and Projects</li><br />
-                           </a>
+                           
                            <a href="./awards_and_achievements.php">
                                <li>Awards & Achievements</li><br />
+                           </a>
+                           <a href="./upcoming_events.php">
+                               <li>Events</li><br />
+                           </a>
+                           <a href="./downloads.php">
+                               <li>Downloads</li><br />
                            </a>
                        </ul>
                    </div>
@@ -58,35 +59,37 @@
                            <a href="./ex_student_verification.php">
                                <li>Ex-Student Verification</li><br />
                            </a>
-                           <a href="./upcoming_events.php">
-                               <li>Events</li><br />
-                           </a>
+                          
                            <a href="./campustour.php">
                                <li>Campus Tour</li><br />
                            </a>
-                           <a href="./photo_gallery.php">
+                          <!-- <a href="./photo_gallery.php">
                                <li>Photo Gallary</li><br />
+                           </a> -->
+                          
+                           <a href="./reachus.php">
+                               <li>Reach Us</li><br />
                            </a>
-
                        </ul>
 
                    </div>
                    <div class="ft-block">
                        <ul style="font-weight: bold;">
-                           <a href="./downloads.php">
-                               <li>Downloads</li><br />
+                       <a href="./library.php">
+                               <li>Library</li><br />
                            </a>
+                           <a href="./MOU's&Projects.php">
+                               <li>Collaboration and Projects</li><br />
+                           </a>
+                           
                            <!-- <a href="./anti_ragging.php">
                                <li>Anti Ragging</li><br />
                            </a> -->
                            <a href="./sitemap.php">
                                <li>Site Map</li><br />
                            </a>
-                           <a href="./reachus.php">
-                               <li>Reach Us</li><br />
-                           </a>
                            <a href="./developer.php">
-                               <li>Meet The Developer</li><br />
+                               <li>Meet The Developers</li><br />
                            </a>
                        </ul>
                    </div>

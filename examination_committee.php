@@ -48,37 +48,37 @@
                             <tr>
                                 <td>Dr. Ugrasen Suman (Chairperson)</td>
                                 <td>ugrasen123@yahoo.com</td>
-                                <td>98269 53187</td>
+                                <td>9826953187</td>
                             </tr>
                             <tr>
                                 <td>Dr. Alok Tiwari</td>
                                 <td>aloktiwari@gmail.com</td>
-                                <td>98932 74235</td>
+                                <td>9893274235</td>
                             </tr>
                             <tr>
                                 <td>Dr. Archana Chaudhary</td>
                                 <td>achaudhari.scs@dauniv.ac.in</td>
-                                <td>93004 04643</td>
+                                <td>9300404643</td>
                             </tr>
                             <tr>
                                 <td>Mr. Hitesh Ninama</td>
                                 <td>hiteshsmart2002@yahoo.co.in</td>
-                                <td>98268 41525</td>
+                                <td>9826841525</td>
                             </tr>
                             <tr>
                                 <td>Mr. Chetan Awasthi</td>
                                 <td>chetan_awasthi1@ yahoo.com</td>
-                                <td>94245 00302</td>
+                                <td>9424500302</td>
                             </tr>
                             <tr>
                                 <td>Mr. Mohit Varma</td>
                                 <td>mohitansh12@gmail.com</td>
-                                <td>90396 34116</td>
+                                <td>9039634116</td>
                             </tr>
                             <tr>
                                 <td>Ms. Sunita Gaur</td>
-                                <td>-</td>
-                                <td>91797 39435</td>
+                                <td>sun_in99@yahoo.com </td>
+                                <td>9179739435</td>
                             </tr>
                         </table>
                     </div>

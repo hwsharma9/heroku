@@ -967,10 +967,10 @@ body {
   font-size: 12px;
 }
 .content-right li {
-  font-size: 14px;
+  font-size: 15px;
   text-transform: capitalize;
   letter-spacing: 0.5px;
-  color: #232323;
+  color: #13448a;
   margin: 5px;
 }
 .content-right li:hover {

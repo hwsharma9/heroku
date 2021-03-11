@@ -70,7 +70,7 @@
                                 -->
                             </a>
                             <a href="./Impact_of_Assessment.php">
-                                <li><span>🔗</span>Impact of Assesment </li>
+                                <li><span>🔗</span>Impact of Assessment </li>
                             </a>
                         </ul>
                         <!-- SIDEBAR LINKS START   -->

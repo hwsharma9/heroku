@@ -63,7 +63,7 @@
                                     <td>
                                         <b>Qualification</b>
                                     </td>
-                                    <td>PhD. M. Tech(C.S.), M.C.A.
+                                    <td>PhD., M.Tech(C.S.), MCA
 
                                     </td>
                                 </tr>

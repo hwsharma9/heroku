@@ -290,6 +290,13 @@
                     <div class="content"><br>
                         <h2>M.Tech(CS) [2 Yrs.]</h2>
 
+                        <h2>Eligibility :</h2>
+                        <p>GATE qualified in CSE/ECE with 4 years of study at university level/ B.E./ B. Tech (CSE/
+IT/ Comp. related subjects)/ M.C.A./ M.Sc.(CS/IT) with 55 % marks in aggregate. Relaxation
+of 5% marks in eligibility for sponsored/ SC/ ST candidates. For sponsored candidates
+minimum two years working experience after qualifying degree is required. The sponsored
+candidates have to submit a certificate from the employer on the prescribed Performa.</p>
+
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
                         <ul style="margin-left: 20px;">
@@ -318,6 +325,13 @@
                     <div class="content"><br>
                         <h2>M.Tech(IA & SE) [2 Yrs.]</h2>
 
+                        <h2>Eligibility :</h2>
+                        <p>GATE qualified in CSE/ECE with 4 years of study at university level/ B.E./ B. Tech (CSE/
+IT/ Comp. related subjects)/ M.C.A./ M.Sc.(CS/IT) with 55 % marks in aggregate. Relaxation
+of 5% marks in eligibility for sponsored/ SC/ ST candidates. For sponsored candidates
+minimum two years working experience after qualifying degree is required. The sponsored
+candidates have to submit a certificate from the employer on the prescribed Performa.</p>
+
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>
                         <ul style="margin-left: 20px;">
@@ -345,6 +359,13 @@
                         <h2>
                         M.Tech(NM & IS) [2 Yrs.]
                                </h2>
+
+                               <h2>Eligibility :</h2>
+                        <p>GATE qualified in CSE/ECE with 4 years of study at university level/ B.E./ B. Tech (CSE/
+IT/ Comp. related subjects)/ M.C.A./ M.Sc.(CS/IT) with 55 % marks in aggregate. Relaxation
+of 5% marks in eligibility for sponsored/ SC/ ST candidates. For sponsored candidates
+minimum two years working experience after qualifying degree is required. The sponsored
+candidates have to submit a certificate from the employer on the prescribed Performa.</p>
 
                         <h2>PROGRAMME OUTCOMES (POs)</h2>
                         <hr>

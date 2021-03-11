@@ -51,7 +51,7 @@
                             <p><strong>Email : </strong>shraddhadandel@yahoo.com</p>
                         </div>
                         <div>
-                            <h2>Dr. Deepal Abhyankar</h2>
+                            <h2>Dr. Deepak Abhyankar</h2>
                             <p><strong>Mobile : </strong>9827438976</p>
                             <p><strong>Email : </strong>deepak.scsit@gmail.com</p>
                         </div>
