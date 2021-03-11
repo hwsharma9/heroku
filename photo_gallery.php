@@ -95,6 +95,8 @@
 
                     <h1>Photo Gallery</h1>
                     <div class="container">
+                    <br>
+                    <h1 class="seprator">OUTDOOR</h1>
                         <div class="grid">
                             <div class="cell">
                                 <img src="./images/campustour/1_scsit.JPG" class="responsive-image">
@@ -106,6 +108,7 @@
                                 <img src="./images/campustour/3(1)_Entrance Gate.JPG" class="responsive-image">
                             </div>
                         </div>
+                        <br>
                         <h1 class="seprator">OUTDOOR</h1>
                         <div class="grid">
                             <div class="cell">
@@ -118,7 +121,7 @@
                                 <img src="./images/campustour/3(1)_Entrance Gate.JPG" class="responsive-image">
                             </div>
                         </div>
-                        <h1 class="seprator">INDOOR</h1>
+                       
                     </div>
                 </div>
             </div>

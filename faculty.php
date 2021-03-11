@@ -260,7 +260,7 @@
                                     <div class="flip-card-front">
                                         <img src="./images/facultyimg/mohit.jpg" alt="Avatar" style="">
                                         <div class="front-card-content">
-                                            <h3>Mr. Mohit Kumar Verma </h3>
+                                            <h3>Mr. Mohit Kumar Varma </h3>
                                             <p>Lecturer </p>
                                             <!-- <p>DBMS, Data Mining</p> -->
                                         </div>

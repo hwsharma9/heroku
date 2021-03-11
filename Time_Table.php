@@ -46,7 +46,7 @@
                     <h3 style="text-align:center;margin: 20px 0">Exam Time Table</h3>
                     <div class="news-wrapper">
                         <div class="all-news">
-                            <a href="assets/pdf/">
+                            <a href="assets/pdf/exam timetable I semester.pdf">
                                 <div class="news-card"><h1>Exam Time Table for I Semester</h1></div>
                             </a>
                             <a href="">

@@ -63,7 +63,7 @@
                         <hr>
                         <ul style="margin-left: 20px;">
                             <a href="http://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/Default.aspx">
-                                <li class="content-link"> Application Form</li>
+                                <li class="content-link"> For Registration, Click here</li>
                                 <a href="assets/pdf/Attendance Status Sheet.pdf">
                                 <li class="content-link"> Student’s Attendance Status Sheet</li>
                             </a>
@@ -76,11 +76,11 @@
                         </ul>
                     </section>
                     <section>
-                        <h2> Mukhya Mantri Jan Kalyan Yojna (Siksha Protsahan)</h2>
+                        <h2> Mukhyamantri Jan Kalyan Yojna (Siksha Protsahan)</h2>
                         <hr>
                         <ul style="margin-left: 20px;">
                             <a href="http://scholarshipportal.mp.nic.in/SambalScholarship/">
-                                <li class="content-link"> Application Form</li>
+                                <li class="content-link"> For Registration, Click here</li>
                                 <a href="assets/pdf/Attendance Status Sheet.pdf">
                                 <li class="content-link"> Student’s Attendance Status Sheet</li>
                             </a>

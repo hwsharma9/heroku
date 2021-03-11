@@ -51,7 +51,7 @@
 
                                         <b>Name</b>
                                     </td>
-                                    <td> <b>Mr. Mohit Kumar Verma </b>
+                                    <td> <b>Mr. Mohit Kumar Varma </b>
 
                                     </td>
                                 <tr height="50px">

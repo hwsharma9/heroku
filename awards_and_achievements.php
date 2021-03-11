@@ -82,7 +82,7 @@
                             978-1-4244-9007-3, Paper available on IEEE Xplore, Digital Object Identifier: 10.1109/TISC.2010.5714626).
                         </li>
                     </ul>
-                    <h2>Dr. Archana Chaudhary</h2>
+                    <h2>Dr. Archana Thakur</h2>
                     <hr />
                     <ul style="margin-left: 20px;">
                         <li>

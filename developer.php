@@ -65,7 +65,7 @@
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Dr. Deepika Rai</b></h4>
-                                    <!-- <p>M.A., M.Lib., I.Sc.</p> -->
+                                   
                                     <p>Lecturer</p>
                                     <!-- <p>9977966170</p> -->
                                 </div>
@@ -78,7 +78,7 @@
                                         style="width: 100%" />
                                     <div class="faculty-card-container">
                                         <h4></b>Mr. Lishu Gupta</h4>
-                                        <!-- <p>MBA, Ph.D.</p> -->
+                                       
                                         <p>Student</p>
                                     </div>
                                 </div>
@@ -90,8 +90,8 @@
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Mr. Harshwardhan Sharma</b></h4>
-                                    <!-- <p>12th</p> -->
-                                    <p>Alumni</p>
+                                   
+                                    <p>Student</p>
                                 </div>
                             </div>
                         </div>

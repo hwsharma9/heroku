@@ -46,7 +46,7 @@
                                 <li><span>🔗</span>Career Counseling</li>
                             </a>
                             <a href="./placement.php">
-                                <li><span>🔗</span>Placement</li>
+                                <li><span>🔗</span>Past Placements</li>
                             </a>
                             <a href="./abilityprofiler.php">
                                 <li><span>🔗</span>Placement Committee</li>

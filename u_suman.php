@@ -93,11 +93,11 @@
                                     </td>
                                     <td>
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Software%20Reuse.pdf">
+                                            href="assets/pdf/Software Reuse.pdf">
                                             Software Reuse & Customisation,
                                         </a>
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Syllabus- Software Engineering.pdf">
+                                            href="assets/pdf/Syllabus- Software Engineering.pdf">
                                             Software Engineering
                                         </a>
                                     </td>
@@ -108,15 +108,15 @@
                                     </td>
                                     <td>
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/OOAD Syllabus.pdf">
+                                            href="assets/pdf/OOAD Syllabus.pdf">
                                             Object-Oriented Analysis & Design,
                                         </a>
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Syllabus -ISD.pdf">
+                                            href="assets/pdf/Syllabus -ISD.pdf">
                                             Information System Design,
                                         </a>
                                         <a class="content-link"
-                                            href="http://www.scs.dauniv.ac.in/faculty/Syllabus_OperatingSystems.pdf">
+                                            href="assets/pdf/Syllabus_OperatingSystems.pdf">
                                             Operating System
                                         </a>
                                     </td>
@@ -178,7 +178,7 @@
                                                 </a> <br />
                                             </li><br />
                                             <li>
-                                                <a class="content-link" href="Publications20-10-2020.pdf">
+                                                <a class="content-link" href="assets/pdf/Publications20-10-2020.pdf">
                                                     Book Chapters
                                                     and
                                                     Research Papers

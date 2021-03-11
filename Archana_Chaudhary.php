@@ -57,7 +57,7 @@
                                         <b>Qualification</b>
                                     </td>
                                     <td>
-                                        <p>M.Tech. (Computer Science), Ph.D. (Computer Science)</p>
+                                        M.Tech. (Computer Science), Ph.D. (Computer Science)
                                     </td>
                                 </tr>
                                 <tr>
@@ -65,7 +65,7 @@
                                         <b>Designation</b>
                                     </td>
                                     <td>
-                                        <p>Assistant Professor</p>
+                                        Assistant Professor
                                     </td>
                                 </tr>
                                 </tr>
@@ -77,7 +77,7 @@
                                         <b>Specialization</b>
                                     </td>
                                     <td colspan="2">
-                                        <p>Artificial Intelligence, Machine Learning </p>
+                                        Artificial Intelligence, Machine Learning
                                     </td>
                                 </tr>
                                 <tr>
@@ -85,7 +85,7 @@
                                         <b>Current Subjects</b>
                                     </td>
                                     <td colspan="2">
-                                        <p>Artificial Intelligence, Machine Learning, Software Engineering, ERP </p>
+                                        Artificial Intelligence, Machine Learning, Software Engineering, ERP 
                                     </td>
                                 </tr>
 
@@ -94,7 +94,7 @@
                                         <b>Recent Subjects</b>
                                     </td>
                                     <td colspan="2">
-                                        <p>Artificial Intelligence, Software Engineering </p>
+                                        Artificial Intelligence, Software Engineering
                                     </td>
                                 </tr>
 
@@ -103,7 +103,8 @@
                                         <b>Singnificant Research</b>
                                     </td>
                                     <td colspan="2">
-                                        <ul type="disc">
+                                        <ul type="disc" style="margin-left: 10px;">
+                                        
                                             <li>
                                                 Ph.D. supervision, M.Tech. And PG project supervision
                                             </li>
@@ -124,7 +125,7 @@
                                         <b>Publications </b>
                                     </td>
                                     <td colspan="2">
-                                        <ul type="disc">
+                                    <ul type="disc" style="margin-left: 10px;">
                                             <li>
                                                 <a href="assets/pdf/DrArchana-Conference-Publications.pdf">
                                                     Conference Publications

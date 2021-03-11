@@ -32,7 +32,7 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1> Impact of Assesment</h1>
+                    <h1> Impact of Assessment</h1>
                     <p> The institute is running computer applications, computer science, and information technology
                         courses. The assessment practices are used to analyze the results to arrive at possible changes
                         in the programs to improve achievement of the outcomes in teaching learning. Following are the

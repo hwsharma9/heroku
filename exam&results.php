@@ -44,7 +44,7 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
 
-                    <h3 style="text-align:center;margin: 20px 0">Exam & Results</h3>
+                    <h3 style="text-align:center;margin: 20px 0">Examination</h3>
                     <div class="news-wrapper">
                         <div class="all-news">
                             <a href="assets/pdf/Exam Ordinance 31_Revised.pdf">

@@ -67,7 +67,7 @@
                                         <b>Designation</b>
                                     </td>
                                     <td>
-                                        <p> Contract Lecturer<strong></strong></p>
+                                        Contract Lecturer<strong></strong>
                                     </td>
                                 </tr>
                                 <tr height="50px">
@@ -75,7 +75,7 @@
                                         <b>Current Subjects</b>
                                     </td>
                                     <td>
-                                        <p>VB.Net, DBMS, ASP.Net</p>
+                                        VB.Net, DBMS, ASP.Net
                                     </td>
                                 </tr>
                                 </tr>
@@ -95,10 +95,10 @@
                                     <td>
                                         <b>Expertise </b>
                                     </td>
-                                    <td colspan="2">
-                                        <p>&nbsp;C, C++, Database Management System, Website Designing, .Net.
+                                    <td colspan="2">C, C++, Database Management System, Website Designing, .Net.
+                                        
                                             <strong></strong>
-                                        </p>
+                                        
                                     </td>
                                 </tr>
 
@@ -108,7 +108,7 @@
                                         <b>Industry Experience</b>
                                     </td>
                                     <td colspan="2">
-                                        <p>6 Months with I. Protech Solutions<strong></strong></p>
+                                        6 Months with I. Protech Solutions<strong></strong>
                                     </td>
                                 </tr>
 
@@ -119,7 +119,7 @@
                                         <b>Phone</b>
                                     </td>
                                     <td colspan="2">
-                                        <p>+91-731-2470041-42 +500 (ext.) (O)</p>
+                                        +91-731-2470041-42 +500 (ext.) (O)
                                     </td>
                                 </tr>
 
@@ -138,7 +138,7 @@
                                         <b>Address</b>
                                     </td>
                                     <td colspan="2">
-                                        <p>School of Computer Science &amp; IT, DAVV Khandwa Road, Indore.</p>
+                                        School of Computer Science &amp; IT, DAVV Khandwa Road, Indore.
                                     </td>
                                 </tr>
 
