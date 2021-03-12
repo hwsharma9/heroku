@@ -2,7 +2,7 @@
 <div class="nav">
     <div class="nav-wrapper">
         <a href="./index.php" style="background-color:transparent;">
-            <div class="logo"><img src="images/logo.png" /></div>
+            <div class="logo"><img src="images/logo2.png" /></div>
         </a>
         <ul>
             <!-- dropdown  -->
@@ -22,7 +22,7 @@
                 <div class="dropdown-content">
                     <a href="./about.php">About School</a>
                     <a href="./infrastructure.php">Infrastructure and Facilities</a>
-                   <!-- <a href="#">Governance</a>-->
+                    <!-- <a href="#">Governance</a>-->
                     <a href="https://www.dauniv.ac.in/" target="_blank">University Information</a>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                     <a href="./coursesoffered.php">Courses Offered</a>
                     <a href="assets/pdf/Brochure-2020.pdf">Admission Information Bulletin</a>
                     <a href="./fees.php">Fee Structure</a>
-                   <!-- <a href="./howtoapply.php">How to Apply</a> -->
+                    <!-- <a href="./howtoapply.php">How to Apply</a> -->
                     <a href="./admission closed.php">How to Apply</a>
                 </div>
             </div>

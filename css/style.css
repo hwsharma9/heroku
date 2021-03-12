@@ -197,7 +197,7 @@ body {
   color: #1b1b1b;
 }
 .nav-wrapper .logo img {
-  width: 100px;
+  width: 120px;
 }
 .nav-wrapper ul {
   display: flex;
@@ -257,7 +257,7 @@ body {
 
 .dropdown .dropbtn {
   z-index: 100;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
   border: none;
@@ -274,6 +274,9 @@ body {
 .dropdown:hover .dropbtn {
   /* background-color: var(--primary-color); */
   color: var(--primary-color);
+}
+.nav .dropbtn:hover {
+  color: blue;
 }
 
 .dropdown-content {
@@ -442,13 +445,16 @@ body {
 .pl-card {
 }
 .pl-card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+  box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
   transition: 0.3s;
   width: 300px;
   text-align: center;
 }
 .pl-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 20px #134486;
+  box-shadow: rgba(19, 68, 134, 0.7) 0px 7px 29px 0px;
 }
 .pl-card-container {
   padding: 2px 16px;
@@ -1331,7 +1337,7 @@ body {
     text-align: center;
   }
   .nav-wrapper .logo img {
-    width: 80px;
+    width: 100px;
   }
   .nav-wrapper .logo img:hover {
     background-color: transparent;
