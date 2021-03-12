@@ -19,10 +19,10 @@
         <link rel="stylesheet" href="./css/style.css">
     </noscript> -->
     <style>
-    .owl-stage-outer {
+    .hr-right .owl-stage-outer {
         margin-right: 50px;
         margin-top: 30px;
-        /* box-shadow: 5px 5px 20px black; */
+        box-shadow: 5px 5px 20px black;
     }
 
     #placement-slider .owl-stage-outer {
