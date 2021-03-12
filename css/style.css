@@ -680,6 +680,7 @@ body {
 }
 .news-card:hover {
   background-color: #134486;
+  color: #fff;
 }
 .news-card-container {
   max-height: 350px;

@@ -16,6 +16,18 @@
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <style>
+    .counsellor-flex {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    @media (max-width: 600px) {
+        .counsellor-flex {
+            flex-direction: column;
+        }
+    }
+    </style>
 </head>
 
 <body>
@@ -37,6 +49,9 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Sitemap</h1>
+                    <br>
+                    <div class="counsellor-flex">
+                    <div>
                     <ul>
                        
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/about.php" title="Scsit Davv">About Us</a></li>
@@ -58,10 +73,13 @@
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/Facilities.php" title="Scsit Davv">Facilities</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/Publications.php" title="Scsit Davv">Publications</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/CodeEthicsResearch.php" title="Scsit Davv">Code Ethics Research</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/academic_planning_committee.php" title="Scsit Davv">Academic Planning Committee</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/EducationwithICT.php" title="Scsit Davv">Education with ICT</a></li>
-
-   
+                        </ul>
+                        </div>
+                        <div>
+                        <ul>
+                        <!--<li class="content-link"><a href="http://harshherokuapp.herokuapp.com/academic_planning_committee.php" title="Scsit Davv">Academic Planning Committee</a></li>
+                      -->
+                                       
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/faculty.php" title="Scsit Davv">Faculty Profile</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/staff.php" title="Scsit Davv">Staff Members</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/student.php" title="Scsit Davv">Student</a></li>
@@ -78,16 +96,23 @@
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/scholarship.php" title="Scsit Davv">Scholarship</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/onlineskilltest.php" title="Scsit Davv">Online Skill Test</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/studentlife.php" title="Scsit Davv">Student Life</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/wificampus.php" title="Scsit Davv">wifi campus</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/nss.php" title="Scsit Davv">nss</a></li>
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/wificampus.php" title="Scsit Davv">Wifi Campus</a></li>
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/nss.php" title="Scsit Davv">NSS</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/learnbyearnscheme.php" title="Scsit Davv">learn by earn scheme</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/remedialclasses.php" title="Scsit Davv">remedial classes</a></li>
+                       
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/remedialclasses.php" title="Scsit Davv">Remedial classes</a></li>
+                        </ul>
+                        </div>
+                        <div>
+                        <ul>
+                       
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/languagelab.php" title="Scsit Davv">language lab</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/swachhbharatabhiyan.php" title="Scsit Davv">swachh bharat abhiyan</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/samarpan.php" title="Scsit Davv">samarpan</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/bloodbonation.php" title="Scsit Davv">blood donation</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/treeplantation.php" title="Scsit Davv">tree plantation</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/sports.php" title="Scsit Davv">sports</a></li>
+                        
+                        
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/samarpan.php" title="Scsit Davv">Samarpan</a></li>
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/bloodbonation.php" title="Scsit Davv">Blood Donation</a></li>
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/treeplantation.php" title="Scsit Davv">Tree Plantation</a></li>
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/sports.php" title="Scsit Davv">Sports</a></li>
 
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/news.php" title="Scsit Davv">Latest News</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/exam&results.php" title="Scsit Davv">Examination</a></li>
@@ -98,21 +123,19 @@
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/awards_and_achievements.php" title="Scsit Davv">Awards and Achievements</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/ex_student_verification.php" title="Scsit Davv">Ex Student Verification</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/upcoming_events.php" title="Scsit Davv">Events</a></li>
-                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/campustour.php" title="Scsit Davv">Campustour</a></li>
+                        <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/campustour.php" title="Scsit Davv">Campus tour</a></li>
     
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/downloads.php" title="Scsit Davv">Downloads</a></li>
 
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/reachus.php" title="Scsit Davv">Reach Us</a></li>
                         <li class="content-link"><a href="http://harshherokuapp.herokuapp.com/developer.php" title="Developer's page">Meet the Developers</a></li>
-
-
-
-                    
+                 
                        
 
                     </ul>
+                    </div> 
                 </div>
-
+</div>
                 <div class="sidebar content-right">
                     <div class="sidebar-content" id="sidebar">
                         <!-- SIDEBAR LINKS START   -->
