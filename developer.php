@@ -33,7 +33,7 @@
 
         .content-left img {
             min-height: auto;
-            height: 300px;
+            height: 200px;
 
         }
 
