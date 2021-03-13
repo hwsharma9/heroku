@@ -65,7 +65,7 @@
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Dr. Deepika Rai</b></h4>
-                                   
+
                                     <p>Lecturer</p>
                                     <!-- <p>9977966170</p> -->
                                 </div>
@@ -74,11 +74,12 @@
                         <div class="item">
                             <a href="https://gitman.ml">
                                 <div class="faculty-card">
-                                    <img loading="lazy" src="./images/facultyimg/nonteaching/lishu.jpg" alt="Avatar"
-                                        style="width: 100%" />
+                                    <img loading="lazy"
+                                        src="https://raw.githubusercontent.com/LishuGupta652/web-static-content/main/img.jpg"
+                                        alt="Avatar" style="width: 100%" />
                                     <div class="faculty-card-container">
                                         <h4></b>Mr. Lishu Gupta</h4>
-                                       
+
                                         <p>Student</p>
                                     </div>
                                 </div>
@@ -90,7 +91,7 @@
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Mr. Harshwardhan Sharma</b></h4>
-                                   
+
                                     <p>Student</p>
                                 </div>
                             </div>
