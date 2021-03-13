@@ -197,6 +197,7 @@ body {
   color: #1b1b1b;
 }
 .nav-wrapper .logo img {
+  /* logo */
   width: 200px;
 }
 .nav-wrapper ul {
