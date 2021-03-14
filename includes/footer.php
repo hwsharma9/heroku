@@ -86,10 +86,10 @@
                                <li>Anti Ragging</li><br />
                            </a> -->
                            <a href="./sitemap.php">
-                               <li>Site Map</li><br />
+                               <li>Sitemap</li><br />
                            </a>
                            <a href="./developer.php">
-                               <li>Meet The Developers</li><br />
+                               <li>Meet the Developers</li><br />
                            </a>
                        </ul>
                    </div>

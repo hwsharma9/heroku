@@ -53,7 +53,7 @@
                     <p>
                         The School since then has endeavored into promoting technical
                         education and research in the important and fast growing branches
-                        of Information Technology. It is an autonomous department under
+                        of Information Technology. It is an university teaching department under
                         Devi Ahilya Vishwavidyalaya with its goal set to produce computer
                         science specialists to meet the global challenges. The School has
                         highly experienced faculty members, modern laboratories, building

@@ -33,100 +33,73 @@
                     <h2>Building</h2>
                     <hr>
                     <ul style="margin-left: 20px;">
+                    <li> One lakh square feet building with open spaces for sports and whole building is surrounding by 2 lakh square feet green space.
+                    Centre Plaza and backside lawn is full of plants. More than 1500 plants are planted in the premises. It makes department
+                            environment friendly for the students.
+                    </li>
                         <li>
-                            One big auditorium of capacity 240 well furnished with echo and equipped
+                            Two auditoriums well furnished with echo and equipped
                             with multimedia projection system.
                         </li>
                         <li>
-                            One auditorium of capacity 120 well furnished with echo and equipped with
-                            multimedia projection system.
+                             Ten rooms for classroom teaching.
                         </li>
-                        <li>
-                            Five auditoriums used for classroom teaching out of which one equipped with
-                            multimedia projection systems.
-                        </li>
-                        <li>WiFi and cable internet in all class rooms, library and laboratories.</li>
-                        <li>Separate rest rooms for women students and staff.</li>
-                        <li>
-                            Department has 8 laboratories, Separate research laboratory for research
-                            scholars.
-                        </li>
+                        <li>One Faculty meeting hall. </li>
+                        <li>Nine computer laboratories, one Separate research laboratory for research
+                            scholars.</li>                           
+                        <li>WiFi and Cable Internet in all class rooms, library and laboratories.</li>
+                        <li>One automated library</li>
+                       
                     </ul>
                     <h2>Laboratories</h2><hr>
                     <ul style="margin-left: 20px;">
-                        <!-- <a href="./Labs_Embaded.php" class="content-link"></a> -->
-                        <li>Networks, Wireless, Security and Embedded Labs.</li>
-                        <!-- <a href="./Labs_Database.php" class="content-link"></a> -->
-                        <li>Information System, Database and Software Engineering Labs.</li>
-                        <!-- <a href="./Labs_hci.php" class="content-link"></a> -->
-                        <li>Multimedia, Animation and HCI Labs.</li>
-                        <!-- <a href="./Labs_vlsi.php" class="content-link"></a> -->
-                        <li>High Performance Computing, VLSI, AI and Simulation Labs.</li>
+                        
+                        <li>Research Lab</li>
+                        
+                        <li>Programming Lab</li>
+                        
+                        <li>Database and Data Mining Lab</li>
+                        
+                        <li>Electronics Lab</li>
                         <!-- <a href="./Labs_ecommerce.php" class="content-link"></a> -->
-                        <li>Programming System, OS, Internet and E-Commerce Labs.</li>
+                        <li>E-Learning and Software Engineering Lab</li>
                         <li>
-                            English language lab equipped with microphones and Globarena software are
-                            provided to students of all classes.
+                            English language lab equipped with microphones and Globarena software 
                         </li>
+                        <li>ERP Lab </li>
                         <li>
-                            Department has 241 computers: 80 P-IVs ,154 Dual Core/ Core 2 Duo & 7 Core
-                            i-V
+                            More than 200 computers
                         </li>
-                        <li>
-                            Department has 5 server out of which two IBM servers, which are dual
-                            processor on quad core to facilitate research to exploit parallel processing
-                            and the use of multi cores to boost performance.
-                        </li>
-                        <li>Internet Access Available 24x7 with high speed 2Mbps link.</li>
-                        <li>Structured cabling.</li>
+                       
                     </ul>
                     <h2>Library</h2><hr>
                     <ul style="margin-left: 20px;">
                         <li>
                             Department has fully automated library. It has 16,053 text books &
-                            reference books are available in the library, all the books of library are
+                            reference books and all the books of library are
                             fully bar-coded.
                         </li>
                         <li>
-                            Well equipped library with a blend of text and books required for
-                            research.
+                        1100 e-lecture CDs.
                         </li>
+                       
                         <li>
                             Library has subscribed to online journals, which includes access to
-                            topmost journals in computer science like ACM, IEEE & Elsevier.
+                            topmost journals in computer science like ACM, IEEE.
                         </li>
                         <li>
-                            All the books Information are present in our library data base software.
+                            All the book's Information are available in our library data base software.
                         </li>
-                        <li>
-                            Library provides OPAC facility for the teachers and students of the
-                            department.
-                        </li>
-                        <li>
-                            All the books are secured by radio frequency. Antenna installed in entry
-                            gate of Library.
-                        </li>
+                        
+                       
                     </ul>
                     <h2>Sports</h2><hr>
                     <ul style="margin-left: 20px;">
-                        <li>Chess, Carrom, Table Tennis & Badminton facilities available.</li>
+                        <li>Chess, Carrom, Table Tennis, Badminton, Volleyball & Cricket facilities available.</li>
                         <li>
                             Centralised facility available for all other indoor and outdoor games.
                         </li>
-                    </ul>
-                    <h2>Others</h2><hr>
-                    <ul style="margin-left: 20px;">
-                        <li>
-                            Front garden Area= 20,500_sq.m., 1000 plants are planted in the premises.
-                            Centre Plaza and backside lawn is also full of plants. It makes department
-                            environment friendly for the students, staff and faculty.
-                        </li>
-                        <li>
-                            ICT facilities in our department are one of the best in the country. The
-                            school was first in taking initiative for laying fiber in the whole campus
-                            in 1999. By now, all the desktops of the school are internet ready.
-                        </li>
-                    </ul>
+                   
 
                 </div>
 

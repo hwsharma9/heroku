@@ -1180,14 +1180,15 @@
                             <!-- <a href="./placement.php">
                                 <li><span>🔗</span>Past Placements</li>
                             </a> -->
-                            <a href="./consultancy.php">
-                                <li><span>🔗</span>Consultancy Services</li>
-                            </a>
-                            <a href="./career_counselling.php">
-                                <li><span>🔗</span>Career Counseling</li>
+                            
+                            <a href="./student internship.php">
+                                <li><span>🔗</span>Student Internship</li>
                             </a>
                             <a href="./placement_committee.php">
                                 <li><span>🔗</span>Placement Committee</li>
+                            </a>
+                            <a href="./consultancy.php">
+                                <li><span>🔗</span>Consultancy Services</li>
                             </a>
                             <a href="./abilityprofiler.php">
                                 <li><span>🔗</span>Ablity Profiler</li>

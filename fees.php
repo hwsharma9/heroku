@@ -83,7 +83,7 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h3 style="text-align:center;margin: 20px 0">Fee Structures </h3>
+                    <h3 style="text-align:center;margin: 20px 0">Fees Structures </h3>
                     <div class="news-wrapper">
                         <div class="all-news">
                             <!-- NEWS ITEMS ADD -->

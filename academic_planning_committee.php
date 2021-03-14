@@ -80,9 +80,7 @@
                                 <li><span>🔗</span>Assessment</li>
                             </a>
                             
-                            <a href="./EducationwithICT.php">
-                                <li><span>🔗</span>Education with ICT</li>
-                            </a>
+                            
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->

@@ -50,25 +50,29 @@
                     <h1>Research @ SCSIT</h1>
 
                     <ul>
-                        <li>School places high emphasis on Research.</li>
+                     
                         <li>
-                            Strong Ph.D. programme focuses on fundamental research covering latest trend
+                            We have strong Ph.D. programme that focuses on fundamental research covering latest trend
                             in the cutting edge technologies.
                         </li>
-                        <li>40 percent of the faculty members hold a doctorate degree.</li>
-                        <li>10 professors are guiding PhD students in various research domains.</li>
+                        <li>60 percent of the faculty members hold a doctorate degree and most of them are guiding PhD students in various research domains.</li>
+                       
                         <li>
-                            35 students are currently pursuing PhD in an endeavor to produce original
-                            research work.
+                             Many students are currently pursuing PhD in an endeavor to produce original
+                            research work. 
                         </li>
                         <li>
                             School actively collaborates with government agencies such as AICTC, UGC,
                             and NPCST for R&D support.
                         </li>
                         <li>
-                            Faculty has published several research papers in reputed journals and
-                            conferences and has engaged themselves in various sponsored research
+                            Faculty has published several research papers in conferences and in reputed journals like Elsevier,
+                             ACM, IEEE Transactions and has engaged themselves in various sponsored research
                             project.
+                        </li>
+                        <li>
+                        Faculty has also published many books by reputed publishers like McGraw Hills, Pearson, 
+                        Oxford, Cengage
                         </li>
                         <li>
                             School conducts regular research review meetings to examine the quality of
@@ -81,15 +85,22 @@
                             <section>
                                 <ul>
                                     <li>Artificial Intelligence</li>
-                                    <li>Web Technologiese</li>
+                                    <li>Machine Learning</li>
+                                    <li>Web Technologies</li>
+                                    <li>IoT</li>
+                                    <li>Big Data</li>
                                     <li>Network and Information Security</li>
                                     <li>Data Mining & Data Warehousing</li>
                                     <li>Compiler Design</li>
                                     <li>Mobile Adhoc Networks</li>
                                     <li>Software Engineering</li>
+                                    <li>Agile Software Development</li>
                                     <li>Databases & Information Retrieval Systems</li>
-                                    <li>Distributed computing & Cloud computing</li>
+                                    <li>Distributed Computing & Cloud Computing</li>
                                     <li>Natural Language processing</li>
+                                    <li>Image Processing</li>
+                                    <li>Data Science</li>
+                                    <li>Embedded Systems</li>
                                 </ul>
                             </section>
                         </li>

@@ -90,29 +90,24 @@
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1>Library</h1>
                     <ul>
-                        <li>
-                            Well equipped library with a blend of text and books required for research.
-                        </li><br />
-                        <li>
-                            Library has subscribed to online journals, which includes access to topmost
-                            journals in computer science like ACM, IEEE & Elsevier.
-                        </li><br />
-                        <li>
+                    <li>
                             Department has fully automated library. It has 16,053 text books & reference
                             books are available in the library, all the books of library are fully
                             bar-coded.
                         </li><br />
                         <li>
-                            All the books Information are present in our library data base software.
+                            Library has subscribed to online journals, which includes access to topmost
+                            journals in computer science like ACM, IEEE.
+                        </li><br />
+                      
+                        <li>
+                            All the book's Information are available in our library data base software.
                         </li><br />
                         <li>
                             Library provides OPAC facility for the teachers and students of the
                             department.
                         </li><br />
-                        <li>
-                            All the books are secured by radio frequency. Antenna installed in entry
-                            gate of Library.
-                        </li><br />
+                      
                     </ul>
 
 
