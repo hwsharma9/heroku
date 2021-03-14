@@ -188,7 +188,7 @@ body {
   z-index: 100;
 }
 .nav-wrapper {
-  width: 80%;
+  width: 93%;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -198,7 +198,8 @@ body {
 }
 .nav-wrapper .logo img {
   /* logo */
-  width: 200px;
+  width: 250px;
+  height: 90px;
 }
 .nav-wrapper ul {
   display: flex;

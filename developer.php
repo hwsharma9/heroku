@@ -10,10 +10,10 @@
     <meta name="author" content="scsit davv">
     <title>Scsit Davv</title>
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
-
     <!-- SCRIPTS START   -->
     <?php include './includes/scriptincludes.php';?>
     <!-- SCRIPTS END -->
+    <link rel="stylesheet" href="https://raw.githack.com/LishuGupta652/web-static-content/main/sty.css">
 </head>
 
 <body>
@@ -71,7 +71,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
+                        <div class="item" id="developer_card ll lishu">
                             <a href="https://gitman.ml">
                                 <div class="faculty-card">
                                     <img loading="lazy"
