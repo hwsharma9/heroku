@@ -511,6 +511,7 @@ body {
 .footer-content .ft-block {
   width: 23%;
   padding: 10px;
+  line-height: 1.3;
 }
 .footer-content .ft-block h3 {
   margin: 20px 0;
