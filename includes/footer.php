@@ -20,9 +20,9 @@
                        </div>
                        <div style="margin-top: 20px;">
                            <p style="text-align: unset;">
-                               Takshashila Campus, Khandwa Road 
-                             <p>  Indore (M.P.) - 452001, India </p>
-                               
+                               Takshashila Campus, Khandwa Road
+                           <p> Indore (M.P.) - 452001, India </p>
+
                            </p>
                            <a href="tel:+91 7312470041">Tel: <span class="">+91 731-2470041/42/43 (O)
                                </span></a>
@@ -32,14 +32,14 @@
                        </div>
                    </div>
                    <div class="ft-block">
-                       <ul style="font-weight: bold;">
+                       <ul>
                            <a href="./syllabus.php">
                                <li>Syllabus</li><br />
                            </a>
                            <a href="./exam&results.php">
                                <li>Examination</li><br />
                            </a>
-                           
+
                            <a href="./awards_and_achievements.php">
                                <li>Awards & Achievements</li><br />
                            </a>
@@ -52,21 +52,21 @@
                        </ul>
                    </div>
                    <div class="ft-block">
-                       <ul style="font-weight: bold;">
+                       <ul>
                            <a href="./studentlife.php">
                                <li>Student Life</li><br />
                            </a>
                            <a href="./ex_student_verification.php">
                                <li>Ex-Student Verification</li><br />
                            </a>
-                          
+
                            <a href="./campustour.php">
                                <li>Campus Tour</li><br />
                            </a>
-                          <!-- <a href="./photo_gallery.php">
+                           <!-- <a href="./photo_gallery.php">
                                <li>Photo Gallary</li><br />
                            </a> -->
-                          
+
                            <a href="./reachus.php">
                                <li>Reach Us</li><br />
                            </a>
@@ -74,14 +74,14 @@
 
                    </div>
                    <div class="ft-block">
-                       <ul style="font-weight: bold;">
-                       <a href="./library.php">
+                       <ul>
+                           <a href="./library.php">
                                <li>Library</li><br />
                            </a>
                            <a href="./MOU's&Projects.php">
                                <li>Collaboration and Projects</li><br />
                            </a>
-                           
+
                            <!-- <a href="./anti_ragging.php">
                                <li>Anti Ragging</li><br />
                            </a> -->

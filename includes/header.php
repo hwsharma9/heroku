@@ -2,7 +2,7 @@
 <div class="nav">
     <div class="nav-wrapper">
         <a href="./index.php" style="background-color:transparent;">
-            <div class="logo"><img src="images/logo2.png" /></div>
+            <div class="logo"><img src="images/logo.jpeg" /></div>
         </a>
         <ul>
             <!-- dropdown  -->
