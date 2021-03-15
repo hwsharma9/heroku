@@ -145,7 +145,7 @@
                                 <div class="faculty-card-container">
                                     <h4><b>Mr. Javed Munir Khan</b></h4>
                                     <!-- <p>MBA</p> -->
-                                    <p>Office Staff</p>
+                                    <p>Technical Staff</p>
                                 </div>
                             </div>
                         </div>
@@ -201,7 +201,7 @@
                                 <div class="faculty-card-container">
                                     <h4><b>Mr. Chandraprakash</b></h4>
                                     <!-- <p>5th</p> -->
-                                    <p>Sweeper</p>
+                                    <p>Peon</p>
                                 </div>
                             </div>
                         </div>
@@ -212,7 +212,7 @@
                                 <div class="faculty-card-container">
                                     <h4><b>Mrs. Sheela Khode</b></h4>
                                     <!-- <p>5th</p> -->
-                                    <p>Sweeper</p>
+                                    <p>Peon</p>
                                 </div>
                             </div>
                         </div>

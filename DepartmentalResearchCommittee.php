@@ -57,7 +57,7 @@
                         <li>Develop research in computer science & IT</li>
                         <li>
                             Organize and maintain personal contacts among computer science & IT
-                            community with common interests;
+                            community with common interests
                         </li>
                         <li>Motive for scholarly research and publish scholarly research</li>
                         <li>To initiate research activities</li>

@@ -146,9 +146,7 @@
                             <a href="./academic_planning_committee.php">
                                 <li><span>🔗</span>Academic Planning Committee</li>
                             </a>
-                            <a href="./EducationwithICT.php">
-                                <li><span>🔗</span>Education with ICT</li>
-                            </a>
+                           
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->

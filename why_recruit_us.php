@@ -30,29 +30,34 @@
             <div class="main-content-area" id="main-content-area">
                 <div class="content-left  padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
-                    <h1>Why Recruit Us?</h1>
+                    <h1>Why Recruit Our Students?</h1>
                     <p>Warm greetings on behalf of School of Computer Science & IT, Devi Ahilya University, Indore. Our
                         School was established in 1986 and since then it has endeavored into promoting technical
                         education and research in the important and fast growing branches of Computer Science and
-                        Information Technology. We are an autonomous department under Devi Ahilya Vishwavidyalaya with
+                        Information Technology. We are a University Teaching Department under Devi Ahilya Vishwavidyalaya with
                         its goal to produce computer science specialists who can meet the global challenges. The School
                         has highly experienced faculty members, modern laboratories, building infrastructure equipped
-                        with ICT and library. Vision of our department is to achieve excellent standards of quality
-                        education by keeping pace with rapidly changing technologies & create computer professionals
-                        with capabilities of accepting new challenges.</p><br>
-                    <p>School of Computer Science & IT, DAVV aims to produce world-class professionals who have
-                        excellent analytical skills, communication skills, team building spirit and ability to work in
-                        cross cultural environment. We produce quality IT professionals, who can independently design,
-                        develop and implement computer applications.</p><br>
-                    <p>Since inception, School of Computer Science & IT followed best academic practices. Students are
+                        with ICT and library. Our teaching learning process focuses on the enrichment of analytical skills, 
+                        problem solving and communication skills of students.  </p> <br>
+
+                        <p> School of Computer Science & IT followed best academic practices. Students are
                         groomed up not only in the theoretical foundation of the subject but are required to learn
-                        through practical training. We regularly organize skill development courses, workshops and
-                        seminars that help to make students industry ready. Internship and minor/ major projects are
-                        compulsory component of every programme. We focus on developing problem solving skills in
-                        students. We also encourage our students to follow social norms and IT ethics. Our Alumina are
-                        presently serving in top companies of the world. Presently we are running one undergraduate and
+                        through practical training. Theory is complemented by practical's and projects. Internship and minor/ major projects are
+                        compulsory component of every programme. Many of the projects are carried out for local entrepreneurs in a team which enable the team building spirits among students and prepare them for working in cross cultural environments. 
+                        Our M.Tech students undertake projects from several reputed organization such as RR CAT Indore, Soyabean Research Center Indore, DRDO, NTPC, C-DAC, ST Microelectronics, ISRO etc., and private software companies.  We focus on developing problem solving skills in
+                        students. We regularly organize skill development courses, workshops and
+                        seminars that help to make students industry ready. We also encourage our students to follow social norms and IT ethics. 
+                        Our Alumina are presently serving in top companies of the world.  </p><br>
+                        
+                         
+                        <p>The courses offered in the department rightly reflect our mission. Presently we are running one undergraduate and
                         five post graduate programmes. We also have Ph.D Programme and many scholars are presently
-                        registered under faculty of Computer Science.</p><br>
+                        registered under faculty of Computer Science.  </p><br>
+
+                         
+                        
+
+                   
 
                     <table id="table">
                         <tr>
@@ -136,14 +141,15 @@
                             <a href="./placement.php">
                                 <li><span>🔗</span>Past Placements</li>
                             </a>
-                            <a href="./consultancy.php">
-                                <li><span>🔗</span>Consultancy Services</li>
-                            </a>
-                            <a href="./career_counselling.php">
-                                <li><span>🔗</span>Career Counseling</li>
+                           
+                            <a href="./student internship.php">
+                                <li><span>🔗</span>Student Internship</li>
                             </a>
                             <a href="./placement_committee.php">
                                 <li><span>🔗</span>Placement Committee</li>
+                            </a>
+                            <a href="./consultancy.php">
+                                <li><span>🔗</span>Consultancy Services</li>
                             </a>
                             <a href="./abilityprofiler.php">
                                 <li><span>🔗</span>Ablity Profiler</li>

@@ -37,7 +37,7 @@
                 <div class="dropdown-content">
                     <a href="./coursesoffered.php">Courses Offered</a>
                     <a href="assets/pdf/Brochure-2020.pdf">Admission Information Bulletin</a>
-                    <a href="./fees.php">Fee Structure</a>
+                    <a href="./fees.php">Fees Structure</a>
                     <!-- <a href="./howtoapply.php">How to Apply</a> -->
                     <a href="./admission closed.php">How to Apply</a>
                 </div>
@@ -51,9 +51,11 @@
                 <div class="dropdown-content">
                     <a href="assets/pdf/Academic Calendar-2020-21.pdf">Academic Calendar</a>
                     <a href="./coursescheme.php">Course Scheme</a>
-                    <a href="./assessment.php">Assessment</a>
+                   
                     <a href="./academic_planning_committee.php">Academic Planning Committee</a>
-                    <a href="./EducationwithICT.php">Education with ICT</a>
+                    <a href="">CBCS</a>
+                    <a href="./assessment.php">Assessment</a>
+                   
                 </div>
             </div>
 
@@ -91,10 +93,11 @@
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-content">
-                    <a href="./why_recruit_us.php">Why Recruit Us?</a>
+                    <a href="./why_recruit_us.php">Why Recruit Our Students?</a>
                     <a href="./placement.php">Past Placements</a>
+                    
+                    <a href="./student internship.php">Student Internship </a>
                     <a href="./placement_committee.php">Placement Committee</a>
-                    <a href="./career_counselling.php">Career Counselling </a>
                     <a href="./consultancy.php">Consultancy Services </a>
                     <!-- <a href="./abilityprofiler.php">Ability Profiler</a> -->
                 </div>
