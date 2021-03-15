@@ -29,11 +29,12 @@
                 <div class="content-left padding-border">
                     <!-- ADD NEW CONTENT DOWN HERE -->
                     <h1> Departmental Research Committee</h1>
-                    <p>
+                    
                         To enhance the research activities in the department, a separate research
                         committee is formed. Departmental Research Committee consists of following
                         members:
-                    </p><br>
+                        <br>
+                    <br>
                     <ul type="disc" style="margin-left: 20px;">
                         <a href="./s_tanwani.php">
                             <li>

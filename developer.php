@@ -61,7 +61,7 @@
                     <div class="faculty-grid">
                         <div class="item">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/deepikarai.jpg" alt="Avatar"
+                                <img loading="lazy" src="./images/deepika.jpg" alt="Avatar"
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Dr. Deepika Rai</b></h4>
@@ -87,7 +87,7 @@
                         </div>
                         <div class="item">
                             <div class="faculty-card">
-                                <img loading="lazy" src="./images/facultyimg/nonteaching/harshwardhan.jpg" alt="Avatar"
+                                <img loading="lazy" src="./images/harsh.jpg" alt="Avatar"
                                     style="width: 100%" />
                                 <div class="faculty-card-container">
                                     <h4><b>Mr. Harshwardhan Sharma</b></h4>

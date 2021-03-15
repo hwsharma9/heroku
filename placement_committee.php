@@ -49,11 +49,7 @@
                                 <td>shraddhamasih@gmail.com</td>
                                 <td>9893107558</td>
                             </tr>
-                            <tr>
-                                <td>Dr. Ajay Tiwari</td>
-                                <td>tiwariajay8@yahoo.com</td>
-                                <td>+91-731-2470041-42 +503 (ext.) (0)</td>
-                            </tr>
+                           
                             <tr>
                                 <td>Mr. Chetan Awasthi</td>
                                 <td>chetan_awasthi1@ yahoo.com</td>
@@ -81,7 +77,7 @@
                                 <li><span>🔗</span>Past Placements</li>
                             </a>
                             
-                            <a href="./student internship.php">
+                            <a href="./StudentInternship.php">
                                 <li><span>🔗</span>Student Internship</li>
                             </a>
                             <!-- <a href="./placement_committee.php">

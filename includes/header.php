@@ -96,7 +96,7 @@
                     <a href="./why_recruit_us.php">Why Recruit Our Students?</a>
                     <a href="./placement.php">Past Placements</a>
                     
-                    <a href="./student internship.php">Student Internship </a>
+                    <a href="./StudentInternship.php">Student Internship </a>
                     <a href="./placement_committee.php">Placement Committee</a>
                     <a href="./consultancy.php">Consultancy Services </a>
                     <!-- <a href="./abilityprofiler.php">Ability Profiler</a> -->

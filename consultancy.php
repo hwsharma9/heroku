@@ -144,7 +144,7 @@
                             <!-- <a href="./consultancy.php">
                                 <li><span>🔗</span>Consultancy Services</li>
                             </a> -->
-                            <a href="./student internship.php">
+                            <a href="./StudentInternship.php">
                                 <li><span>🔗</span>Student Internship</li>
                             </a>
                             <a href="./placement_committee.php">
