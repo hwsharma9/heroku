@@ -64,6 +64,11 @@
                                 <td>chaitneel@gmail.com</td>
                                 <td>9406853401</td>
                             </tr>
+                            <tr>
+                                <td>Ms. Tarjani Sevak</td>
+                                <td>tarjani_85@yahoo.co.in </td>
+                                <td>+91-731-2470041-42 (O)</td>
+                            </tr>
                         </table>
                     </div>
 

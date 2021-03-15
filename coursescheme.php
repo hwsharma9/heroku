@@ -88,7 +88,7 @@
                         <div class="all-news">
 
                             <!-- NEWS ITEMS ADD -->
-                            <a href="assets/pdf/Course-Scheme-Feb-2021.pdf">
+                            <a href="./coursescheme.php">
                                 <div class="news-card">
                                     <h1>Scheme Jan-May 2021 (Even Semester)</h1>
                                 </div>

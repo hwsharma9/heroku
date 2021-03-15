@@ -65,23 +65,24 @@
                         </p>
                         <h2>M.Tech (CS) by Research Supervised</h2>
                         <hr>
-
+                        <p>
 
                         <li> A Design Model Incorporating Extended UML for Improvisation in Aspect-Oriented Design
                             (Kirti Muley, 2012)</li>
                         <li>Design Anti-patterns in Service Oriented Architecture (Deepali Tripathi, 2012)</li>
                         <li>Performance evaluation of Web-enabled Multitier Models (Sanjiv Kumar, 2012)</li>
                         <li>Translation facilities on mobile from English to Hindi (Shashi Pal Singh, 2012)</li>
+                        </p>
 
                         <h2>M.Tech & Other PG Projects Supervised</h2>
                         <hr />
-
+                      <p>    
 
                         <li> 60 M.Tech Projects</li>
                         <li>More than 100 MCA/ M.Sc. Projects</li>
 
 
-
+                        </p>
 
 
                     </ul>

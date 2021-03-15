@@ -12,6 +12,13 @@
     
 
     <!-- NEWS ITEMS ADD -->
+    <a href="assets/pdf/notice.pdf">
+        <div class="news-card">
+            <h1>
+                Notice for PhD Course Work
+            </h1>
+        </div>
+    </a>
     <a href="assets/pdf/exam timetable I semester.pdf">
         <div class="news-card">
             <h1>

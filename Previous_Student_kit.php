@@ -32,8 +32,8 @@
                     <h3>UG & PG Year Wise Course Curriculum</h3><br>
                     <ul>
                         <a href="assets/pdf/2019-20 .rar" class="content-link">2019-20 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="assets/pdf/2018-19 .rar" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="assets/pdf/2017-18 .zip" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="assets/pdf/2018-19.rar" class="content-link">2018-19 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="assets/pdf/2017-18.zip" class="content-link">2017-18 </a>&nbsp;&nbsp;&nbsp;&nbsp;
                         </ul>
                     <hr />
                     <br>

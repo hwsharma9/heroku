@@ -123,15 +123,19 @@
                             <a href="./Publications.php">
                                 <li><span>🔗</span>Publications</li>
                             </a>
+                            <a href="./ResearchFellowship.php">
+                                <li><span>🔗</span>Research Fellowship</li>
+                            </a>
+                            <a href="assets/pdf/Ph.D. Ordinance-11-2018.pdf">
+                                <li><span>🔗</span>Ph.D. Ordinance 11</li>
+                            </a>
                             <a href="./upcoming_events.php">
                                 <li><span>🔗</span>Seminars, Workshops & Conferences</li>
                             </a>
                             <a href="./CodeEthicsResearch.php">
                                 <li><span>🔗</span>Code of Ethics</li>
                             </a>
-                            <a href="./ResearchFellowship.php">
-                                <li><span>🔗</span>Research Fellowship</li>
-                            </a>
+                           
                         </ul>
 
                         <!-- SIDEBAR LINKS START   -->

@@ -50,11 +50,7 @@
                                 <td>ugrasen123@yahoo.com</td>
                                 <td>9826953187</td>
                             </tr>
-                            <tr>
-                                <td>Dr. Alok Tiwari</td>
-                                <td>aloktiwari@gmail.com</td>
-                                <td>9893274235</td>
-                            </tr>
+                            
                             <tr>
                                 <td>Dr. Archana Chaudhary</td>
                                 <td>achaudhari.scs@dauniv.ac.in</td>
@@ -76,9 +72,9 @@
                                 <td>9039634116</td>
                             </tr>
                             <tr>
-                                <td>Ms. Sunita Gaur</td>
-                                <td>sun_in99@yahoo.com </td>
-                                <td>9179739435</td>
+                                <td>Ms. Tarjani Sevak</td>
+                                <td>tarjani_85@yahoo.co.in </td>
+                                <td>+91-731-2470041-42 (O)</td>
                             </tr>
                         </table>
                     </div>

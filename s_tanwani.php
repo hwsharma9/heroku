@@ -50,7 +50,7 @@
                             </div>
                             <div class="s-line">
                                 <h4 class="s-head-font s-left">Qualification </h4>
-                                <h4 class="s-content-font s-right">Ph.D, M.E.(Comp. Eng.)</h4>
+                                <h4 class="s-content-font s-right">Ph.D, M.E.(Computer Engineering)</h4>
                             </div>
                             <div class="s-line">
                                 <h4 class="s-head-font s-left">Designation </h4>

@@ -1166,6 +1166,9 @@
                                 </table>
                             </div>
                         </section>
+
+                        <br>
+                        * Many students are placed from off campus and their names are not listed here.
                     </div>
 
                 </div>
@@ -1181,7 +1184,7 @@
                                 <li><span>🔗</span>Past Placements</li>
                             </a> -->
                             
-                            <a href="./student internship.php">
+                            <a href="./StudentInternship.php">
                                 <li><span>🔗</span>Student Internship</li>
                             </a>
                             <a href="./placement_committee.php">
