@@ -1367,8 +1367,9 @@ body {
   }
 }
 
+/* MOBILE MENU BAR */
+/* nav mobile menu */
 @media (max-width: 900px) {
-  /* nav mobile menu */
   .nav-wrapper {
     display: block;
   }
@@ -1380,6 +1381,7 @@ body {
     display: inline;
     font-size: 32px;
     padding: 23px;
+    cursor: pointer;
   }
   .nav-wrapper ul {
     display: none;
