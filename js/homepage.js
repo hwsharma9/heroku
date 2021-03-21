@@ -139,6 +139,8 @@ $(document).ready(function () {
 //     mobileLinks.style.display = "flex";
 //   }
 // }
+
+// MOBILE MENU BAR
 $("#mobile-btn").click(function () {
   $("#mobile-links").toggle("fast");
 });
