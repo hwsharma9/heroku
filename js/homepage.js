@@ -147,7 +147,6 @@ $("#mobile-btn").click(function () {
 
 $(window).resize(function () {
   var mobileLinks = document.getElementById("mobile-links");
-  console.log(window.innerWidth);
   if (window.innerWidth > 900) {
     mobileLinks.style.display = "flex";
   } else {
