@@ -201,6 +201,10 @@ body {
   width: 250px;
   height: 95px;
 }
+
+.nav-mobile-btn {
+  display: none;
+}
 .nav-wrapper ul {
   display: flex;
   align-items: center;
@@ -310,7 +314,7 @@ body {
 }
 
 /****************************************************************
- *************** HEADER BANNER *******************************/
+*************** HEADER BANNER *******************************/
 .banner {
   width: 100%;
   background-color: white;
@@ -1333,14 +1337,13 @@ body {
     height: fit-content;
     box-shadow: none;
   }
-  .nav-wrapper {
-    display: block;
-  }
+
+  /* other */
   .nav-wrapper .logo {
     text-align: center;
   }
   .nav-wrapper .logo img {
-    width: 150px;
+    width: 220px;
   }
   .nav-wrapper .logo img:hover {
     background-color: transparent;
@@ -1361,6 +1364,25 @@ body {
 
   .footer-content .ft-block {
     width: 50%;
+  }
+}
+
+@media (max-width: 900px) {
+  /* nav mobile menu */
+  .nav-wrapper {
+    display: block;
+  }
+  .mobile-nav-view {
+    display: flex;
+    justify-content: space-between;
+  }
+  .nav-mobile-btn {
+    display: inline;
+    font-size: 32px;
+    padding: 23px;
+  }
+  .nav-wrapper ul {
+    display: none;
   }
 }
 

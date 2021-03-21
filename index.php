@@ -11,6 +11,7 @@
     <link rel="icon" href="./images/logo.png" type="image/png" sizes="16x16">
     <title>Scsit Davv</title>
 
+
     <!-- css include -->
     <link rel="stylesheet" href="./css/owl.css" />
     <link rel="stylesheet" href="./css/style.css" />
@@ -190,6 +191,7 @@
     <script src="./js/jquery.js"></script>
     <script src="./js/owl.js"></script>
     <script src="./js/homepage.js"></script>
+
 </body>
 
 </html>

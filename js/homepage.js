@@ -129,3 +129,26 @@ $(document).ready(function () {
 //     //options: play, pause, resume, reset, restart, complete, reverse,none
 //   },
 // });
+
+// function onclickMobileMenu() {
+//   var mobileLinks = document.getElementById("mobile-links");
+
+//   if (mobileLinks.style.display === "flex") {
+//     mobileLinks.style.display = "none";
+//   } else {
+//     mobileLinks.style.display = "flex";
+//   }
+// }
+$("#mobile-btn").click(function () {
+  $("#mobile-links").toggle("fast");
+});
+
+$(window).resize(function () {
+  var mobileLinks = document.getElementById("mobile-links");
+  console.log(window.innerWidth);
+  if (window.innerWidth > 900) {
+    mobileLinks.style.display = "flex";
+  } else {
+    mobileLinks.style.display = "none";
+  }
+});

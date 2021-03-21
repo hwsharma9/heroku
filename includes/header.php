@@ -1,10 +1,13 @@
 <!-- NAV START -->
 <div class="nav">
     <div class="nav-wrapper">
-        <a href="./index.php" style="background-color:transparent;">
-            <div class="logo"><img src="images/logo.jpeg" /></div>
-        </a>
-        <ul>
+        <div class="mobile-nav-view">
+            <a href="./index.php" style="background-color:transparent;">
+                <div class="logo"><img src="images/logo.jpeg" /></div>
+            </a>
+            <div class="nav-mobile-btn" id="mobile-btn">☰</div>
+        </div>
+        <ul class='nav-ul' id="mobile-links">
             <!-- dropdown  -->
             <div class="dropdown">
                 <a href="./">
@@ -51,11 +54,11 @@
                 <div class="dropdown-content">
                     <a href="assets/pdf/Academic Calendar-2020-21.pdf">Academic Calendar</a>
                     <a href="./coursescheme.php">Course Scheme</a>
-                   
+
                     <a href="./academic_planning_committee.php">Academic Planning Committee</a>
                     <a href="">CBCS</a>
                     <a href="./assessment.php">Assessment</a>
-                   
+
                 </div>
             </div>
 
@@ -95,7 +98,7 @@
                 <div class="dropdown-content">
                     <a href="./why_recruit_us.php">Why Recruit Our Students?</a>
                     <a href="./placement.php">Past Placements</a>
-                    
+
                     <a href="./StudentInternship.php">Student Internship </a>
                     <a href="./placement_committee.php">Placement Committee</a>
                     <a href="./consultancy.php">Consultancy Services </a>

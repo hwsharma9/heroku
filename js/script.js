@@ -81,3 +81,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
 //     $("p").toggle("fast");
 //   });
 // });
+
+function onclickMobileMenu() {
+  var mobileLinks = document.getElementById("mobile-links");
+  if (mobileLinks.style.display === "block") {
+    mobileLinks.style.display = "none";
+  } else {
+    mobileLinks.style.display = "block";
+  }
+}
