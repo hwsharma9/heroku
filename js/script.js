@@ -82,19 +82,27 @@ document.addEventListener("DOMContentLoaded", (event) => {
 //   });
 // });
 
-// function onclickMobileMenu() {
-//   var mobileLinks = document.getElementById("mobile-links");
-//   if (mobileLinks.style.display === "block") {
-//     mobileLinks.style.display = "none";
-//   } else {
-//     mobileLinks.style.display = "block";
-//   }
-// }
+window.onload = function () {
+  document
+    .getElementById("mobile-btn")
+    .addEventListener("click", onclickMobileMenu);
+};
+
+function onclickMobileMenu() {
+  var mobileLinks = document.getElementById("mobile-links");
+  if (mobileLinks.style.display === "block") {
+    mobileLinks.style.display = "none";
+  } else {
+    mobileLinks.style.display = "block";
+  }
+}
 
 // MOBILE MENU BAR
-$("#mobile-btn").click(function () {
-  $("#mobile-links").toggle("fast");
-});
+// Handler for .load() called.
+// $("#mobile-btn").click(function () {
+//   $("#mobile-links").toggle("fast");
+//   console.log("jquery");
+// });
 
 $(window).resize(function () {
   var mobileLinks = document.getElementById("mobile-links");
