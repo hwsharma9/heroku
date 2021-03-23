@@ -1345,6 +1345,7 @@ body {
   }
   .nav-wrapper .logo img {
     width: 220px;
+    margin: 10px 0;
   }
   .nav-wrapper .logo img:hover {
     background-color: transparent;
