@@ -375,6 +375,7 @@ body {
 }
 .hr-right {
   width: 50%;
+  padding: 20px;
 }
 .hr-left-w {
   padding: 50px;
@@ -1404,10 +1405,12 @@ body {
   }
   .hr-left-w {
     padding: 20px 20px;
+    margin: 30px 0;
   }
   .hr-right {
     width: 100%;
-    /* padding: 10px 30px; */
+
+    padding: 10px;
   }
 
   .flx {
