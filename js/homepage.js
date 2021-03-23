@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $("#header-slider").owlCarousel({
-    navigation: true, // Show next and prev buttons
+    // navigation: true, // Show next and prev buttons
     slideSpeed: 500,
     paginationSpeed: 400,
     singleItem: true,

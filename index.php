@@ -21,8 +21,8 @@
     </noscript> -->
     <style>
     .hr-right .owl-stage-outer {
-        margin-right: 50px;
-        margin-top: 30px;
+        margin: 8px;
+        /* margin-top: 30px; */
         box-shadow: 5px 5px 20px black;
     }
 
