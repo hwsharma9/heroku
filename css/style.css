@@ -389,7 +389,7 @@ body {
 }
 .hr-left-w h3 {
   /* color: #232323; */
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.71429;
   letter-spacing: 0.25px;
   font-weight: 600;
@@ -1397,11 +1397,17 @@ body {
     width: 100%;
   }
   .hr-left-w h1 {
-    font-size: 33px;
+    font-size: 22px;
+  }
+  .hr-left-w h3 {
+    font-size: 18px;
+  }
+  .hr-left-w {
+    padding: 20px 50px;
   }
   .hr-right {
     width: 100%;
-    padding: 30px;
+    padding: 10px 30px;
   }
 
   .flx {
